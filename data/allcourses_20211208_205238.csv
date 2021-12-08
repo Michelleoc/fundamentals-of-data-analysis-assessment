@@ -1,0 +1,2907 @@
+,code,title
+0,AL801,Software Design for Virtual Reality and Gaming
+1,AL802,Software Design in Artificial Intelligence for Clo
+2,AL803,Software Design for Mobile Apps and Connected Devi
+3,AL805,Computer Engineering for Network Infrastructure
+4,AL810,Quantity Surveying
+5,AL811,Civil Engineering
+6,AL820,Mechanical and Polymer Engineering
+7,AL830,General Nursing
+8,AL832,Mental Health Nursing
+9,AL835,Pharmacology
+10,AL836,Nutrition and Health Science
+11,AL837,Sports Science with Exercise Physiology
+12,AL838,Biotechnology
+13,AL839,Microbiology
+14,AL840,Pharmaceutical Sciences
+15,AL841,Athletic and Rehabilitation Therapy
+16,AL842,Bioveterinary Science
+17,AL843,Physical Activity and Health Science
+18,AL849,Culinary Entrepreneurship
+19,AL850,Business
+20,AL851,Business and Law
+21,AL852,Accounting
+22,AL854,Sport Management (with international placement)
+23,AL855,Hospitality Management (with international placeme
+24,AL857,Digital Marketing
+25,AL859,International Business
+26,AL860,Social Care Practice
+27,AL861,Animation and Illustration (portfolio)
+28,AL863,Graphic and Digital Design (portfolio)
+29,AL864,Early Years Care and Education
+30,AL870,Applied Psychology
+31,CW018,Business (options)
+32,CW028,Early Childhood Education and Care
+33,CW038,Art (portfolio)
+34,CW058,Tourism and Event Management
+35,CW068,Applied Social Studies in Professional Social Care
+36,CW078,Sustainable Farm Management and Agribusiness
+37,CW088,Visual Communications and Design
+38,CW108,Science (options)
+39,CW128,Brewing and Distilling
+40,CW138,Sport and Exercise Science
+41,CW148,Strength and Conditioning
+42,CW188,Sport Rehabilitation and Athletic Therapy
+43,CW208,Computer Games Development
+44,CW238,Software Development
+45,CW248,Information Technology Management
+46,CW258,Cybercrime and IT Security
+47,CW268,Computing in Interactive Digital Art and Design
+48,CW438,Construction (options)
+49,CW468,Architectural Technology
+50,CW478,Civil Engineering
+51,CW548,Mechanical Engineering
+52,CW558,Electronic Systems
+53,CW568,Aerospace Engineering
+54,CW578,TV and Media Production
+55,CW708,Law - LLB
+56,CW728,Product Design Innovation
+57,CW748,Early Childhood Education and Care
+58,CW758,Professional Social Care Practice
+59,CW808,Media and Public Relations
+60,CW848,Digital Marketing with Analytics
+61,CW858,Sports Management and Coaching (options  portfolio
+62,CW908,Business (options)
+63,CW938,Business with Law
+64,CW948,Accounting
+65,PC405,Social  Political and Community Studies
+66,PC410,Arts and Humanities (fulfils Teaching Council requ
+67,PC411,English and History (fulfils Teaching Council requ
+68,CR105,Chemical and Biopharmaceutical Engineering
+69,CR106,Software Development
+70,CR108,Mechanical Engineering
+71,CR109,Structural Engineering
+72,CR110,Automotive Business Management and Technology
+73,CR112,Creative Digital Media at CIT Crawford College of
+74,CR116,Computer Systems
+75,CR121,Music at CIT Cork School of Music
+76,CR125,Popular Music at CIT Cork School of Music
+77,CR130,Musical Theatre at CIT Cork School of Music
+78,CR150,Business Information Systems
+79,CR210,Contemporary Applied Art (Ceramics  Glass  Textile
+80,CR220,Fine Art at CIT Crawford College of Art and Design
+81,CR225,Photography with New Media at CIT Crawford College
+82,CR305,Physical Sciences (Common Entry)
+83,CR310,IT Management
+84,CR320,Biomedical Science - Offered jointly by CIT and UC
+85,CR325,Pharmaceutical Biotechnology
+86,CR333,Nutrition and Health Science
+87,CR335,Biological Sciences (Common Entry)
+88,CR340,Analytical Chemistry with Quality Assurance
+89,CR360,Instrument Engineering
+90,CR365,Environmental Science and Sustainable Technology
+91,CR370,Agri-Biosciences
+92,CR400,Accounting
+93,CR420,Marketing
+94,CR425,International Business with Language
+95,CR430,Sport and Exercise Management
+96,CR435,Coaching Science and Sports Pedagogy
+97,CR440,Montessori Education
+98,CR500,Engineering (Common Entry)
+99,CR510,Sustainable Energy Engineering
+100,CR520,Biomedical Engineering
+101,CR560,Architectural Technology
+102,CR565,Interior Architecture
+103,CR570,Quantity Surveying
+104,CR572,Construction Management
+105,CR580,Electrical Engineering
+106,CR590,Electronic Engineering
+107,CR600,Visual Communications at CIT Crawford College of A
+108,CR660,Tourism Management
+109,CR700,Theatre and Drama Studies at CIT Cork School of Mu
+110,CR930,Home Economics and Business
+111,CK101,Arts - 3 years
+112,CK102,Social Science
+113,CK104,Arts with Music - 3 or 4 years (BMus or Chinese/Eu
+114,CK105,Film and Screen Media - 3 years or 4 years (Intern
+115,CK107,Geographical and Archaeological Sciences - 3 or 4
+116,CK108,Arts International - 4 years
+117,CK109,English - 3 years or 4 years (International Pathwa
+118,CK110,World Languages
+119,CK111,Early Years and Childhood Studies
+120,CK112,Theatre and Performative Practices - 3 or 4 years
+121,CK113,Criminology - 3 years or 4 years (International Pa
+122,CK114,Social Science (Youth and Community Work)
+123,CK115,Social Work - Mature Applicants only
+124,CK118,Digital Humanities and IT - 3 or 4 years (Work Exp
+125,CK120,Applied Psychology
+126,CK121,Psychology and Computing - 3 or 4 years (Work Expe
+127,CK122,Government and Political Science
+128,CK123,Anthropology
+129,CK124,Education - Gaeilge
+130,CK125,Sports Studies and Physical Education
+131,CK201,Commerce
+132,CK202,Accounting
+133,CK203,Business Information Systems
+134,CK204,Finance
+135,CK205,Commerce (International) with French
+136,CK206,Commerce (International) with German
+137,CK207,Commerce (International) with Italian
+138,CK208,Commerce (International) with Hispanic Studies
+139,CK209,Commerce (International) with Irish
+140,CK211,Commerce (International) with Chinese Studies
+141,CK212,Economics (through Transformational Learning) 3 or
+142,CK213,Food Marketing and Entrepreneurship
+143,CK214,International Development
+144,CK301,Law (Pathways) -  3 or 4 years
+145,CK302,Law and French
+146,CK304,Law and Irish
+147,CK307,Law and Business
+148,CK401,Computer Science
+149,CK402,Biological and Chemical Sciences
+150,CK404,Biological  Earth and Environmental Sciences
+151,CK405,Genetics
+152,CK406,Chemical Sciences
+153,CK407,Mathematical Sciences
+154,CK408,Physics and Astrophysics
+155,CK409,Industrial Physics - Offered jointly by UCC and CI
+156,CK411,Data Science and Analytics
+157,CK412,Agricultural Science
+158,CK504,Nutritional Sciences
+159,CK505,Food Science
+160,CK600,Engineering
+161,CK606,Architecture - Offered jointly by UCC and CIT
+162,CK701,Medicine (Undergraduate Entry - HPAT required)
+163,CK702,Dentistry
+164,CK703,Pharmacy
+165,CK704,Occupational Therapy
+166,CK705,Speech and Language Therapy
+167,CK706,Public Health Sciences
+168,CK707,Medical and Health Sciences
+169,CK710,General Nursing
+170,CK712,Children`s and General Nursing (Integrated)
+171,CK720,Mental Health Nursing
+172,CK730,Intellectual Disability Nursing
+173,CK740,Midwifery
+174,CK791,Medicine  - Graduate Entry (GAMSAT required)
+175,AC120,International Business
+176,AC137,Liberal Arts
+177,CT125,Computing and IT
+178,CT325,Business
+179,CM001,Education - Primary Teaching
+180,CM002,Education - Primary Teaching - Gaeltacht Applicant
+181,CM003,Oideachas – Bunmhúinteoireacht Trí Mheán na Gaeilg
+182,CM004,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilg
+183,CM010,Education Studies
+184,CM020,Early Childhood Education
+185,DB500,Computing
+186,DB501,Computing (Cloud Computing)
+187,DB502,Computing (Data Analytics and Big Data)
+188,DB503,Computing (Software Development)
+189,DB504,Computing (Web and Mobile Technology)
+190,DB510,Audio Production and Music Project Management
+191,DB512,Business Studies
+192,DB514,Business Studies (Law)
+193,DB515,Business Studies (Human Resource Management)
+194,DB517,Marketing (Event Management)
+195,DB518,Marketing (Digital Media)
+196,DB521,Accounting and Finance
+197,DB524,Business (Information Systems)
+198,DB525,Marketing (Digital Media and Cloud Computing)
+199,DB526,Business (Cloud Computing)
+200,DB527,Applied Social Care
+201,DB531,Marketing
+202,DB562,Psychology
+203,DB566,Social Science
+204,DB567,Film and Creative Media
+205,DB568,Law
+206,DB569,Business (Psychology)
+207,DC001,Education - Early Childhood Education
+208,DC002,Education - Primary Teaching
+209,DC003,Education - Primary Teaching - Gaeltacht Applicant
+210,DC004,Education - Primary Teaching (Church of Ireland Ce
+211,DC009,Arts (Joint Honours) - Humanities
+212,DC010,Post Primary Teacher Education - Religious Educati
+213,DC011,Post Primary Teacher Education - Religious Educati
+214,DC012,Post Primary Teacher Education - Religious Educati
+215,DC013,Post Primary Teacher Ed - Gaeilge with French/Germ
+216,DC014,BA in Jazz and Contemporary Music Performance (aud
+217,DC110,Business Studies International
+218,DC111,Business Studies
+219,DC112,Global Business (France)
+220,DC113,Global Business (Germany)
+221,DC114,Global Business (Spain)
+222,DC115,Accounting and Finance
+223,DC116,Global Business (USA)
+224,DC117,Aviation Management / Aviation Management with Pil
+225,DC118,Gná agus Gaeilge / Business and Irish
+226,DC119,Global Business (Canada)
+227,DC120,Computing for Business
+228,DC121,Computer Science
+229,DC123,Data Science
+230,DC126,Actuarial Mathematics
+231,DC127,Common Entry into Actuarial and Financial Mathemat
+232,DC131,Communication Studies
+233,DC132,Journalism
+234,DC133,Multimedia
+235,DC155,Applied Language and Translation Studies
+236,DC161,Analytical Science
+237,DC162,Chemical and Pharmaceutical Sciences
+238,DC163,Chemical Sciences General Entry (Undenominated Ent
+239,DC166,Environmental Science and Technology
+240,DC168,Genetics and Cell Biology
+241,DC175,Physics General Entry (options)
+242,DC180,Biological Sciences General Entry (Undenominated E
+243,DC181,Biotechnology
+244,DC190,Electronic and Computer Engineering (with choice o
+245,DC193,Mechatronic Engineering
+246,DC194,Sustainable Systems and Energy
+247,DC195,Mechanical and Manufacturing Engineering
+248,DC197,Biomedical Engineering
+249,DC200,Common Entry into Engineering (Undenominated Entry
+250,DC202,Sport Science and Health
+251,DC203,Science Education
+252,DC204,Athletic Therapy and Training
+253,DC205,Physical Education with Biology
+254,DC206,Physical Education with Mathematics
+255,DC207,Psychology and Mathematics
+256,DC208,Psychology
+257,DC209,Health and Society
+258,DC210,Psychology and Disruptive Technologies
+259,DC215,General Nursing
+260,DC216,Mental Health Nursing
+261,DC217,Intellectual Disability Nursing
+262,DC218,Children`s and General Nursing (Integrated)
+263,DC230,Economics  Politics and Law
+264,DC231,International Relations
+265,DC232,Law and Society (BCL)
+266,DC235,Education and Training - Daytime and Flexible Deli
+267,DC238,Social Sciences and Cultural Innovation
+268,DC240,Marketing  Innovation and Technology
+269,DC241,Digital Business and Innovation
+270,DC291,Arts (Joint Honours) - Media Studies
+271,DC292,Arts (Joint Honours) - Law
+272,DC293,Arts (Joint Honours) - International Languages
+273,DC294,Climate and Environmental Sustainability
+274,DC295,Arts (Joint Honours) - Politics
+275,DL822,Arts Management
+276,DL823,Business Management
+277,DL825,Applied Psychology
+278,DL826,Graphic Design
+279,DL827,Art
+280,DL832,Animation
+281,DL833,Photography and Visual Media
+282,DL836,Creative Computing
+283,DL837,New Media Studies
+284,DL838,Creative Music Production
+285,DL839,Interaction and User Experience Design
+286,DL840,Digital Marketing
+287,DL841,English and Equality Studies
+288,DL843,Film
+289,DL844,Television
+290,DL845,Design for Film (degree options)
+291,GC200,Business
+292,GC201,Accounting and Finance
+293,GC230,Computing Science
+294,GC300,Business
+295,GC301,Accounting and Finance
+296,GC302,Business - HRM
+297,GC307,Business (Marketing)
+298,GC400,Business
+299,GC401,Accounting and Finance
+300,GC402,Business (HRM)
+301,GC403,Law
+302,GC407,Business (Marketing)
+303,GC430,Computing Science
+304,GC450,Communications and Media Production
+305,GC462,Design Communication (portfolio)
+306,GC489,Interior Architecture (portfolio)
+307,GC494,Fashion Design (portfolio)
+308,BY001,Business
+309,ID001,Accounting and Finance
+310,ID002,Business Studies
+311,AD101,First Year Art and Design (Common Entry portfolio)
+312,AD102,Graphic Design and Moving Image Design (portfolio)
+313,AD103,Textile and Surface Design and Jewellery and Objec
+314,AD202,Education and Design or Fine Art (Second Level Tea
+315,AD204,Fine Art (portfolio)
+316,AD211,Fashion Design (portfolio)
+317,AD212,Product Design (portfolio)
+318,AD215,Visual Culture
+319,AD217,Illustration (portfolio)
+320,AD222,Interaction Design (portfolio)
+321,NC003,Computing (Degree Award options)
+322,NC005,Human Resource Management
+323,NC009,Business
+324,NC010,Psychology
+325,NC020,Marketing Practice
+326,NC022,Accounting and Finance
+327,NC023,Technology Management (with specialisations)
+328,NC030,Early Childhood Education and Care
+329,RC001,Medicine - Undergraduate Entry (HPAT required)
+330,RC004,Physiotherapy
+331,RC005,Pharmacy
+332,RC101,Medicine - Graduate Entry (GAMSAT required)
+333,NM801,Montessori Education
+334,NM802,Psychology
+335,TU801,Sustainable Energy Engineering
+336,TU802,Electrical Services and Energy Management
+337,TU804,Engineering (Common Entry with Award options)
+338,TU805,Engineering (General Entry)
+339,TU807,Computer Engineering in Mobile Systems
+340,TU810,Mechatronic Engineering
+341,TU811,Product Design
+342,TU812,Design Technology and Innovation
+343,TU814,Sustainable Transport Management
+344,TU828,Mechanical Engineering (General Entry)
+345,TU829,Electronic Engineering (General Entry)
+346,TU831,Architectural Technology
+347,TU832,Architecture (Suitability Test and Interview)
+348,TU833,Construction Management
+349,TU834,Geographic Science
+350,TU835,Planning and Environmental Management
+351,TU836,Property Economics (Valuation Surveying)
+352,TU837,Quantity Surveying and Construction Economics
+353,TU838,Sustainable Timber Technology
+354,TU851,Analytical Chemistry (Environmental  Forensic and
+355,TU852,Chemical Sciences with Medicinal Chemistry
+356,TU854,Science (General Entry)
+357,TU855,Science with Nanotechnology
+358,TU856,Computer Science
+359,TU857,Computer Science (Infrastructure)
+360,TU858,Computer Science (International)
+361,TU859,Computing
+362,TU860,Computing (Information Technology)
+363,TU861,Computing with Language (French/German/Spanish)
+364,TU862,Computing with Artificial Intelligence Machine Lea
+365,TU863,Digital Forensics and Cyber Security
+366,TU864,DNA and Forensic Analysis
+367,TU865,Cloud Computing
+368,TU866,Biomedical and Molecular Diagnostics
+369,TU867,Biomedical Science
+370,TU868,Clinical Measurement Science
+371,TU869,Environmental Health
+372,TU870,Human Nutrition and Dietetics
+373,TU871,Optometry
+374,TU872,Public Health Nutrition
+375,TU874,Mathematical Sciences
+376,TU875,Pharmaceutical Healthcare
+377,TU876,Pharmaceutical Science
+378,TU877,Physics Technology
+379,TU878,Physics with Energy and Environment
+380,TU879,Physics with Medical Physics and Bioengineering
+381,TU880,Physics with Data Science
+382,TU881,Food Innovation
+383,TU882,Nutraceuticals in Health and Nutrition
+384,TU902,Business (options)
+385,TU903,Business and Management
+386,TU904,Business and Law
+387,TU905,Economics and Finance
+388,TU906,Human Resource Management
+389,TU907,Logistics and Supply Chain Management
+390,TU910,Accounting
+391,TU912,Business Analytics
+392,TU914,Business Computing
+393,TU917,Law (LLB ) with a Language
+394,TU918,Law (LLB)
+395,TU919,Advertising and Marketing Communications
+396,TU920,Digital Marketing
+397,TU921,Digital Marketing Technologies
+398,TU922,Marketing
+399,TU924,E-Commerce in Retailing
+400,TU925,Retail and Services Management
+401,TU932,Business (options)
+402,TU933,Accounting and Finance (campus options)
+403,TU935,Sports Management and Coaching
+404,TU936,Sports Science and Health
+405,TU941,Botanical Cuisine
+406,TU942,Culinary Arts
+407,TU943,Culinary Entrepreneurship
+408,TU944,Culinary Science
+409,TU951,International Hospitality and Tourism Management
+410,TU952,International Hospitality Management
+411,TU953,Tourism and Digital Marketing
+412,TU954,Event Management
+413,TU955,Sports and Leisure Management
+414,TU961,Commercial Modern Music (BIMM - assessment/auditio
+415,TU962,Drama (Performance  audition)
+416,TU963,Music (audition)
+417,TU965,International Business and Languages
+418,TU967,Languages and International Tourism
+419,TU973,Design - Visual Communication (portfolio)
+420,TU974,Fine Art (portfolio)
+421,TU975,Interior Design (portfolio)
+422,TU976,Photography (portfolio)
+423,TU978,Creative Industries and Visual Culture
+424,TU981,Creative Digital Media
+425,TU982,Media Production and Digital Arts
+426,TU983,Film and Broadcasting
+427,TU984,Game Design
+428,TU985,Journalism
+429,TU989,Early Childhood Care and Education (campus options
+430,TU991,Applied Social Studies in Social Care
+431,TU992,Community Development and Youth Work
+432,TU995,Early Childhood Education
+433,TU996,Social Care
+434,TU997,Applied Social Care
+435,TR002,Music
+436,TR003,History
+437,TR004,Law
+438,TR005,Philosophy
+439,TR006,Psychology
+440,TR007,Clinical Speech and Language Studies
+441,TR009,Music Education
+442,TR015,Philosophy  Political Science  Economics and Socio
+443,TR016,Deaf Studies
+444,TR018,Law and French
+445,TR019,Law and German
+446,TR021,Classics  Ancient History and Archaeology
+447,TR022,Early and Modern Irish
+448,TR023,English Studies
+449,TR024,European Studies
+450,TR025,Drama and Theatre Studies
+451,TR028,Ancient and Medieval History and Culture
+452,TR031,Mathematics
+453,TR032,Engineering
+454,TR033,Computer Science
+455,TR034,Management Science and Information Systems Studies
+456,TR035,Theoretical Physics
+457,TR038,Engineering with Management
+458,TR039,Computer Science  Linguistics and a Language
+459,TR040,Middle Eastern and European Languages and Cultures
+460,TR041,Religion
+461,TR042,Film
+462,TR043,History of Art and Architecture
+463,TR051,Medicine (HPAT required)
+464,TR052,Dental Science
+465,TR053,Physiotherapy
+466,TR054,Occupational Therapy
+467,TR055,Radiation Therapy
+468,TR056,Human Health and Disease
+469,TR060,Biological and Biomedical Sciences
+470,TR061,Chemical Sciences
+471,TR062,Geography and Geoscience
+472,TR063,Physical Sciences
+473,TR064,Environmental Science and Engineering
+474,TR072,Pharmacy
+475,TR080,Global Business
+476,TR081,Business  Economic and Social Studies (BESS)
+477,TR084,Social Studies (Social Work)
+478,TR085,Business Studies and French
+479,TR086,Business Studies and German
+480,TR087,Business Studies and Russian
+481,TR089,Business Studies and Polish
+482,TR090,Business Studies and Spanish
+483,TR091,General Nursing (Meath and St James`s)
+484,TR093,General Nursing (Adelaide School of Nursing)
+485,TR095,Mental Health Nursing
+486,TR097,Intellectual Disability Nursing
+487,TR911,Children`s and General Nursing (Integrated)
+488,TR913,Midwifery
+489,DN100,Architecture
+490,DN120,Landscape Architecture
+491,DN130,City Planning and Environmental Policy
+492,DN150,Engineering (Common Entry)
+493,DN200,Science (options)
+494,DN201,Computer Science (Common Entry)
+495,DN230,Actuarial and Financial Studies
+496,DN240,Sustainability
+497,DN250,Agricultural Science (options)
+498,DN261,Food Science
+499,DN262,Human Nutrition
+500,DN300,Veterinary Medicine - Undergraduate Entry
+501,DN301,Veterinary Medicine - Graduate Entry (GAMSAT requi
+502,DN310,Veterinary Nursing
+503,DN400,Medicine - Undergraduate Entry (HPAT required)
+504,DN401,Medicine - Graduate Entry (GAMSAT required)
+505,DN410,Radiography
+506,DN411,Radiography - Graduate Entry
+507,DN420,Physiotherapy
+508,DN425,Health and Performance Science
+509,DN430,Sport and Exercise Management
+510,DN440,Biomedical  Health and Life Sciences
+511,DN450,General Nursing
+512,DN451,Children`s and General Nursing (Integrated)
+513,DN452,Midwifery
+514,DN453,Mental Health Nursing
+515,DN520,Joint Honours (options)
+516,DN530,Humanities (options)
+517,DN541,Modern Languages (options)
+518,DN600,Law (options)
+519,DN610,Business and Law
+520,DN650,Commerce
+521,DN660,Commerce International (options)
+522,DN670,Economics and Finance
+523,DN700,Social Sciences (options)
+524,DN710,Economics
+525,DN720,Psychology
+526,DN750,Social Policy and Sociology
+527,DK810,Accounting and Finance
+528,DK816,Business Studies
+529,DK820,Computing in Games Development
+530,DK821,Computing in Software Development
+531,DK822,Augmented and Virtual Reality
+532,DK830,Building Surveying
+533,DK831,Architectural Technology
+534,DK832,Construction Management
+535,DK843,Engineering (Common Entry)
+536,DK844,Mechanical Engineering
+537,DK845,Electrical and Electronic Engineering
+538,DK846,Civil Engineering
+539,DK850,International Tourism Management
+540,DK861,Arts
+541,DK862,Social Care
+542,DK863,Creative Media
+543,DK864,Film and Television Production
+544,DK865,Audio and Music Production
+545,DK870,General Nursing
+546,DK872,Intellectual Disability Nursing
+547,DK874,Mental Health Nursing
+548,DK876,Early Childhood Studies
+549,DK877,Midwifery
+550,DK880,Health and Physical Activity
+551,DK882,Agriculture (Award options)
+552,DK883,Science (Award options)
+553,DK884,Sustainable Agriculture
+554,DK885,Agri-Food Production
+555,DK886,Biopharmaceutical Science
+556,DK887,Environmental Science
+557,GA181,Accounting
+558,GA182,Business
+559,GA183,Business Information Systems
+560,GA184,Marketing and Sales
+561,GA185,Finance and Economics
+562,GA186,Business with Entrepreneurship
+563,GA187,Rural Enterprise and Agri-Business
+564,GA281,Film and Documentary
+565,GA282,Heritage Studies
+566,GA283,Contemporary Art (portfolio)
+567,GA284,Design
+568,GA285,Education (Art  Design and Graphics)
+569,GA380,International Hotel Management
+570,GA381,International Tourism Management
+571,GA382,Culinary and Gastronomic Science
+572,GA384,Event Management with Public Relations
+573,GA480,Construction Management
+574,GA482,Quantity Surveying and Construction Economics
+575,GA483,Architectural Technology
+576,GA484,Civil Engineering
+577,GA580,Software and Electronic Engineering
+578,GA680,Mechanical Engineering
+579,GA681,Energy Engineering
+580,GA682,Biomedical Engineering
+581,GA683,Agricultural Engineering
+582,GA684,Engineering Common Entry to Manu/Agri/Biomed/Energ
+583,GA685,Manufacturing Engineering Design
+584,GA780,Applied Freshwater and Marine Biology
+585,GA781,Applied Biology and Biopharmaceutical Science
+586,GA782,Chemical and Pharmaceutical Science
+587,GA783,Physics and Instrumentation
+588,GA784,Science (Undenominated)
+589,GA785,Medical Science
+590,GA786,Forensic Science and Analysis
+591,GA787,Computing in Software Development
+592,GA788,Computing and Digital Media
+593,GA789,Agriculture and Environmental Management
+594,GA790,Sport and Exercise Science
+595,GA791,Public Health Nutrition
+596,GA880,General Nursing
+597,GA882,Psychiatric Nursing
+598,GA885,Outdoor Education
+599,GA887,History and Geography
+600,GA889,Applied Social Care
+601,GA890,Early Childhood Education and Care
+602,GA891,Geography and Outdoor Education
+603,GA892,Community Development and Youth Work (Level 8)
+604,GA980,Education (Design Graphics and Construction)
+605,GA981,Furniture Design and Manufacture
+606,GA982,Furniture Making and Architectural Woodworking
+607,GA983,Furniture and Digital Manufacturing
+608,GA984,Furniture Design  Making and Technology - Common E
+609,GY101,Arts (Joint-Honours)
+610,GY104,BSc (Psychology)
+611,GY105,Arts (History)
+612,GY109,Arts (Mathematics and Education)
+613,GY110,Arts (Children and Youth Studies - options)
+614,GY111,Arts (English and Creative Writing)
+615,GY113,Arts with Human Rights
+616,GY115,Arts with Performing Arts Studies
+617,GY118,Arts (Drama  Theatre and Performance Studies)
+618,GY119,Arts (Journalism)
+619,GY122,Na Dána (Cumarsáid agus Gaeilge)
+620,GY123,Applied Social Sciences
+621,GY125,Arts (Digital Arts and Technology)
+622,GY127,Arts (Film and Digital Media)
+623,GY128,Arts (Global Languages)
+624,GY129,Arts (Global Experience)
+625,GY130,Arts (Music)
+626,GY132,Government (Politics  Economics and Law)
+627,GY133,Education (Computer Science and Mathematical Studi
+628,GY134,Geography and Geosystems
+629,GY135,Arts (Global Media)
+630,GY136,Na Dána (Léann Teanga - options)
+631,GY201,Commerce
+632,GY202,Commerce (International) with French
+633,GY203,Commerce (International) with German
+634,GY204,Commerce (International) with Spanish
+635,GY206,Business Information Systems (Work Placement and O
+636,GY207,Commerce (Accounting) including optional Global Ex
+637,GY208,Commerce (Gaeilge)
+638,GY209,Commerce (Global Experience)
+639,GY250,Law and Business
+640,GY251,Law (BCL)
+641,GY252,Law (BCL) and Human Rights
+642,GY253,Law and Taxation
+643,GY254,Law (BCL)  Criminology and Criminal Justice
+644,GY261,Business Studies in International Hotel Management
+645,GY262,Commerce in International Hotel Management (interv
+646,GY301,Science
+647,GY303,Biomedical Science
+648,GY304,Biotechnology
+649,GY308,Environmental Science
+650,GY309,Financial Mathematics and Economics
+651,GY310,Marine Science
+652,GY313,Environmental Health and Safety
+653,GY314,Earth and Ocean Sciences
+654,GY318,Biopharmaceutical Chemistry
+655,GY319,Mathematical Science
+656,GY320,Physics (Degree options: Applied Astrophysics Biom
+657,GY321,Genetics and Genomics
+658,GY322,Agricultural Sciences
+659,GY350,Computer Science and Information Technology
+660,GY401,Engineering (Undenominated)
+661,GY402,Civil Engineering
+662,GY405,Mechanical Engineering
+663,GY406,Electronic and Computer Engineering
+664,GY408,Biomedical Engineering
+665,GY410,Project and Construction Management
+666,GY413,Energy Systems Engineering
+667,GY414,Electrical and Electronic Engineering
+668,GY501,Medicine (five year/six year course  HPAT required
+669,GY502,Occupational Therapy
+670,GY503,Speech and Language Therapy
+671,GY504,Podiatric Medicine
+672,GY515,General Nursing (Galway and Portiuncula)
+673,GY516,Mental Health Nursing
+674,GY517,Midwifery
+675,LY108,Business - Accounting
+676,LY118,Business
+677,LY128,Marketing with Online Technologies
+678,LY208,Law
+679,LY228,Sports and Exercise - Common Entry
+680,LY408,Design - Common Entry
+681,LY508,Fire Safety Engineering
+682,LY518,Quantity Surveying
+683,LY528,Construction Management
+684,LY538,Architectural Technology
+685,LY608,Mechanical Engineering
+686,LY618,Electronic Engineering
+687,LY708,Applied Computing
+688,LY748,Computer Science
+689,LY818,Science - Common Entry
+690,LY828,Agriculture - Common Entry
+691,LY908,General Nursing
+692,LY918,Psychiatric Nursing
+693,LY928,Intellectual Disability Nursing
+694,LY968,Early Childhood Care  Health and Education
+695,LY978,Health and Social Care - Common Entry
+696,MI001,Contemporary and Applied Theatre Studies
+697,MI002,Arts
+698,MI004,Education - Primary Teaching - International
+699,MI005,Education - Primary Teaching
+700,MI006,Education - Primary Teaching - Gaeltacht Applicant
+701,MI007,Early Childhood Care and Education
+702,MI008,Education and Psychology - Primary Teaching
+703,MI009,Education  Business Studies and Accounting
+704,MI010,Education  Business Studies and Religious Studies
+705,MI011,Education  Gaeilge and Religious Studies
+706,MI012,Education  Gaeilge and Business Studies
+707,MI013,Education  Mathematics and Gaeilge
+708,MI014,Education  Mathematics and Business Studies
+709,CI110,Counselling and Psychotherapy
+710,CI111,Counselling and Psychotherapy with Addiction Studi
+711,CI112,Counselling and Psychotherapy with Youth Studies
+712,LC110,Art and Design (Common Entry  portfolio)
+713,LC114,Fashion and Textiles for Product and Costume (port
+714,LC115,Art and Design Teacher Education (LIT and UL  port
+715,LC220,Digital Marketing
+716,LC223,Law and Taxation
+717,LC224,Accounting and Finance
+718,LC225,Marketing and Management
+719,LC226,Enterprise and Innovation
+720,LC233,Software Development
+721,LC234,Immersive Digital Media and Spatial Computing
+722,LC236,Internet Systems Development
+723,LC239,Computer Networks and Systems Management
+724,LC241,Construction Management
+725,LC242,Property Valuation and Management
+726,LC243,Quantity Surveying
+727,LC248,Built Environment (Common Entry)
+728,LC252,Civil Engineering Management
+729,LC263,Medical Technology
+730,LC265,Forensic and Pharmaceutical Sciences
+731,LC266,Drug and Medicinal Product Analysis
+732,LC275,Electrical Engineering
+733,LC288,Mechanical Engineering
+734,LC289,Precision Engineering
+735,LC292,Social Care Work
+736,LC293,Business Studies with Travel and Tourism Managemen
+737,LC294,Business Studies with Event Management
+738,LC295,Business Studies with Sports Management
+739,LC297,Community and Addiction Studies
+740,LC320,Business
+741,LC330,Business with Computing
+742,LC340,Interior Design
+743,LC362,Biotechnology and Biopharmaceutical Sciences
+744,LC371,Creative Broadcast and Film Production
+745,LC372,Music Technology and Production
+746,LC374,Renewable and Electrical Energy Engineering
+747,LC375,Industrial Automation and Robotic Systems
+748,LC376,Electronic Engineering with Computer Systems
+749,LC380,Automotive Engineering and Transport Management
+750,LC392,Business Studies in Beauty and Spa Management
+751,LC393,Early Childhood Education and Care
+752,LC402,Social Care Work
+753,LC408,Environmental Science and Climate
+754,LC416,Business
+755,LC418,Computing - Games Design and Development
+756,LC422,Applied Strength and Conditioning
+757,LC502,Game Art and Design (portfolio)
+758,LC517,Creative Media and Design
+759,LC518,Digital Animation Production (portfolio)
+760,LC612,Social Care Work
+761,LM002,Arts
+762,LM019,Social Sciences
+763,LM020,Law and Accounting
+764,LM026,Performing Arts (audition format TBC)
+765,LM028,Criminal Justice
+766,LM029,Law Plus
+767,LM038,Psychology and Sociology
+768,LM039,Journalism and Digital Communication
+769,LM040,European Studies
+770,LM044,Applied Languages
+771,LM050,Business Studies (options)
+772,LM056,International Business
+773,LM058,Financial Mathematics
+774,LM063,Technology Management
+775,LM066,Environmental Science
+776,LM068,Food Science and Health
+777,LM076,Product Design and Technology (portfolio required)
+778,LM077,Aeronautical Engineering
+779,LM082,Construction Management and Engineering
+780,LM089,Sport and Exercise Sciences
+781,LM090,Physical Education with concurrent Teacher Educati
+782,LM091,Languages with concurrent Teacher Education
+783,LM092,Science with Teacher Ed (Biology with Physics/Chem
+784,LM093,Equine Science
+785,LM094,Materials and Architectural Technology with concur
+786,LM095,Materials and Engineering Technology with concurre
+787,LM096,Science with Teacher Ed (Physical Sciences with Ch
+788,LM097,Mathematics and Computer Science with concurrent T
+789,LM099,Architecture
+790,LM100,Physiotherapy
+791,LM101,Medicine  - Graduate Entry (GAMSAT required)
+792,LM102,Psychology
+793,LM103,Paramedic Studies (Full B/Provisional C1 Drivers L
+794,LM105,Exercise and Health Fitness Management
+795,LM115,Chemical and Biochemical Engineering
+796,LM116,Engineering (Biomedical/Civil/Design and Manufactu
+797,LM118,Electronic and Computer Engineering
+798,LM121,Computer Science (Computer Systems/Games Dev/Cyber
+799,LM122,Creative Media and Interaction Design (Digital Des
+800,LM123,Biological and Chemical Sc. (Biosci/Envir Sci/Ind
+801,LM124,Mathematics (Math Science/Maths and Physics/Econom
+802,LM125,Physics (Applied Physics or Mathematics and Physic
+803,LM150,General Nursing
+804,LM152,Mental Health Nursing
+805,LM154,Intellectual Disability Nursing
+806,LM156,Midwifery
+807,MU001,Theology and Arts
+808,MU002,Theology
+809,MH001,Education - Primary Teaching (Froebel)
+810,MH002,Education - Primary Teaching - Gaeltacht Applicant
+811,MH003,Early Childhood - Teaching and Learning (full-time
+812,MH101,Arts
+813,MH103,Music
+814,MH106,Psychology - 3 years
+815,MH107,Social Science
+816,MH109,Media Studies
+817,MH116,Community and Youth Work (Full-Time)
+818,MH201,Science
+819,MH202,Biotechnology
+820,MH203,Biological and Geographical Sciences
+821,MH204,Physics with Astrophysics
+822,MH206,Theoretical Physics and Mathematics
+823,MH207,Data Science
+824,MH208,Biological and Biomedical Sciences
+825,MH209,Psychology (through Science) - 4 years
+826,MH210,Pharmaceutical and Biomedical Chemistry
+827,MH212,Science|Maths and Computer Science|Mathematics (wi
+828,MH304,Engineering (Computer/Electronic/Communications)
+829,MH305,Product Design
+830,MH306,Robotics and Intelligent Devices
+831,MH401,Finance (options)
+832,MH402,Quantitative Finance
+833,MH403,Accounting and Finance
+834,MH404,Business (options)
+835,MH407,Business and Accounting
+836,MH411,Entrepreneurship
+837,MH501,LLB Law - four year Single Major Law programme
+838,MH502,Law (options)
+839,MH601,Computer Science through Arts (options)
+840,MH602,Computer Science through Science (options)
+841,MH603,Computational Thinking
+842,MH801,Early Childhood - Teaching and Learning (part-time
+843,MH802,Community and Youth Work (part-time  in service)
+844,MH803,Local Studies/Community Studies (part-time  evenin
+845,AS001,Education  Home Economics and Biology - with concu
+846,AS002,Education  Home Economics and Religious Ed - with
+847,AS003,Education  Home Economics and Irish - with concurr
+848,AS051,Nutrition  Food and Business Management
+849,AS054,Home Economics
+850,AS110,General Nursing
+851,AS130,Intellectual Disability Nursing
+852,SG141,Business
+853,SG145,Business and ICT
+854,SG146,Accounting
+855,SG147,Sport with Business
+856,SG148,Tourism with Event Management
+857,SG150,Business in Marketing
+858,SG241,Performing Arts
+859,SG242,Early Childhood Care and Education
+860,SG243,Social Care Practice
+861,SG244,Fine Art
+862,SG245,Creative Design
+863,SG246,Computing
+864,SG247,English and Psychology
+865,SG248,Sociology and Politics
+866,SG249,Writing and Literature
+867,SG252,Software Development
+868,SG253,Computing in Computer Networks and Cyber Security
+869,SG254,Writing and Literature Online
+870,SG255,Law and Business
+871,SG341,General Engineering
+872,SG342,Civil Engineering
+873,SG343,Quantity Surveying
+874,SG344,Mechanical Engineering
+875,SG346,Construction Project Management and Applied Techno
+876,SG347,Architecture
+877,SG348,Interior Architecture and Design
+878,SG349,Electronics and Self Driving Technologies
+879,SG350,Robotics and Automation
+880,SG442,Occupational Safety and Health
+881,SG443,Human Nutrition
+882,SG444,Science Undenominated
+883,SG445,Pharmaceutical Science with Drug Development
+884,SG447,Health Science and Physical Activity
+885,SG448,Forensic Investigation and Analysis
+886,SG449,Medical Biotechnology
+887,SG450,Environmental Science with Ecology (Level 8)
+888,TL801,Animation  Visual Effects and Motion Design (Level
+889,TL802,TV  Radio and New Media (Level 8)
+890,TL810,Computing with Software Development
+891,TL811,Computing with Games Development
+892,TL815,Computing (Degree Award options)
+893,TL823,Event Management (3 year programme)
+894,TL831,Business Studies (Major Specialism in: Acctng or M
+895,TL842,Construction Management
+896,TL844,Agricultural Engineering
+897,TL845,Civil Engineering
+898,TL847,Manufacturing Engineering
+899,TL848,Agricultural Science
+900,TL851,Wildlife Biology (Degree Award options)
+901,TL855,Pharmaceutical Science (Degree Award options)
+902,TL858,Veterinary Bioscience
+903,TL871,Health and Leisure (Degree Award options)
+904,TL872,Health and Leisure with Massage
+905,TL873,Coaching and Sports Performance
+906,TL874,Inclusive Sport and Physical Activity
+907,TL880,Early Childhood Care and Education
+908,TL881,Social Care
+909,TL889,Counselling with Addiction - Mature applicants onl
+910,TL890,General Nursing and Mature Applicants
+911,TL891,Mental Health Nursing and Mature Applicants
+912,WD001,Applied Computing (options)
+913,WD002,Science (options)
+914,WD005,Health Sciences (options)
+915,WD006,Exercise Sciences (options)
+916,WD007,Engineering (options)
+917,WD025,Construction Management and Engineering
+918,WD027,Music
+919,WD048,Business (options)
+920,WD084,Accounting
+921,WD091,Hospitality Management
+922,WD116,General Nursing
+923,WD117,Psychiatric Nursing
+924,WD120,Intellectual Disability Nursing
+925,WD134,International Business
+926,WD137,Design (Visual Communications)
+927,WD140,Laws
+928,WD144,Architecture
+929,WD147,Pharmaceutical Science
+930,WD150,Criminal Justice Studies
+931,WD152,Visual Art
+932,WD161,Computer Forensics and Security
+933,WD162,Quantity Surveying
+934,WD163,Psychology
+935,WD186,Sports Coaching and Performance
+936,WD187,Social Science
+937,WD191,Agricultural Science
+938,WD192,Social Care Practice
+939,WD193,Marketing and Digital Media
+940,WD194,Culinary Arts
+941,WD195,Architectural and Building Information Modelling T
+942,WD200,Arts (options)
+943,WD210,Software Systems Development
+944,WD211,Creative Computing
+945,WD212,Recreation and Sport Management
+946,WD230,Mechanical and Manufacturing Engineering
+947,WD231,Early Childhood Care and Education
+948,WD232,Business Information Systems
+949,AC120,International Business
+950,AC137,Liberal Arts
+951,AD101,First Year Art & Design (Common Entryportfolio)
+952,AD102,Graphic Design and Moving Image Design (portfolio)
+953,AD103,Textile & Surface Design and Jewellery & Objects (portfolio)
+954,AD202,Education & Design or Fine Art (Second Level Teachingportfolio))
+955,AD204,Fine Art (portfolio)
+956,AD211,Fashion Design (portfolio)
+957,AD212,Product Design (portfolio)
+958,AD215,Visual Culture
+959,AD217,Illustration (portfolio)
+960,AD222,Interaction Design (portfolio)
+961,AL801,Software Design with Virtual Reality and Gaming
+962,AL802,Software Design with Artificial Intelligence for Cloud Computing
+963,AL803,Software Design with Mobile Apps and Connected Devices
+964,AL805,Computer Engineering with Network Infrastructure
+965,AL810,Quantity Surveying
+966,AL811,Civil Engineering
+967,AL820,Mechanical and Polymer Engineering
+968,AL830,General Nursing
+969,AL832,Psychiatric Nursing
+970,AL836,Nutrition and Health Science
+971,AL837,Sports Science with Exercise Physiology
+972,AL838,Biotechnology
+973,AL839,Microbiology
+974,AL840,Pharmaceutical Sciences
+975,AL841,Athletic and Rehabilitation Therapy
+976,AL842,Bioveterinary Science
+977,AL843,Physical Activity and Health Science
+978,AL850,Business
+979,AL851,Business and Law
+980,AL852,Accounting
+981,AL854,Sport Management (with international placement)
+982,AL855,Hospitality Management (with international placement)
+983,AL857,Digital Marketing
+984,AL860,Social Care Practice
+985,AL861,Animation and Illustration (portfolio)
+986,AL863,Graphic and Digital Design (portfolio)
+987,AL864,Early Years Care and Education
+988,AL870,Applied Psychology
+989,AS001,Education Home Economics and Biology - with concurrent Teacher Ed
+990,AS002,Education Home Economics and Religious Ed - with concurrent Teacher Ed
+991,AS003,Education Home Economics and Irish - with concurrent Teacher Ed
+992,AS051,Nutrition Food and Business Management
+993,AS054,Home Economics
+994,AS110,General Nursing
+995,AS130,Intellectual Disability Nursing
+996,CI110,Counselling and Psychotherapy
+997,CI111,Counselling and Addiction Studies
+998,CI112,Counselling and Youth Studies
+999,CK101,Arts - 3 years
+1000,CK102,Social Science
+1001,CK104,Arts with Music - 3 or 4 years (BMus or Chinese/European/Int`l Pathway)
+1002,CK105,Film and Screen Media - 3 years or 4 years (International Pathway)
+1003,CK107,Geographical and Archaeological Sciences - 3 or 4 years (Int`l Pathway)
+1004,CK108,Arts International - 4 years
+1005,CK109,English - 3 years or 4 years (International Pathway)
+1006,CK110,World Languages
+1007,CK111,Early Years and Childhood Studies
+1008,CK112,Theatre and Performative Practices - 3 or 4 years (Int`l Pathway)
+1009,CK113,Criminology - 3 years or 4 years (International Pathway)
+1010,CK114,Social Science (Youth and Community Work) - 3 years
+1011,CK115,Social Work - Mature Applicants only
+1012,CK118,Digital Humanities and IT - 3 or 4 years (Work Exper. or Int`l Pathway)
+1013,CK120,Applied Psychology
+1014,CK121,Psychology and Computing - 3 or 4 years (Work Experience Pathway)
+1015,CK122,Government and Political Science
+1016,CK123,Anthropology
+1017,CK124,Education - Gaeilge
+1018,CK125,Sports Studies and Physical Education
+1019,CK201,Commerce
+1020,CK202,Accounting
+1021,CK203,Business Information Systems
+1022,CK204,Finance
+1023,CK205,Commerce (International) with French
+1024,CK206,Commerce (International) with German
+1025,CK207,Commerce (International) with Italian
+1026,CK208,Commerce (International) with Hispanic Studies
+1027,CK209,Commerce (International) with Irish
+1028,CK211,Commerce (International) with Chinese Studies
+1029,CK212,Economics (through Transformational Learning) 3 or 4 years Int`l Pathway
+1030,CK213,Food Marketing and Entrepreneurship
+1031,CK214,International Development
+1032,CK301,Law (Pathways) -  3 or 4 years
+1033,CK302,Law and French
+1034,CK304,Law and Irish
+1035,CK307,Law and Business
+1036,CK401,Computer Science
+1037,CK402,Biological and Chemical Sciences
+1038,CK404,Biological Earth and Environmental Sciences
+1039,CK405,Genetics
+1040,CK406,Chemical Sciences
+1041,CK407,Mathematical Sciences
+1042,CK408,Physics and Astrophysics
+1043,CK409,Industrial Physics - Offered jointly by UCC and CIT
+1044,CK411,Data Science and Analytics
+1045,CK412,Agricultural Science
+1046,CK504,Nutritional Sciences
+1047,CK505,Food Science
+1048,CK600,Engineering
+1049,CK606,Architecture - Offered jointly by UCC and CIT
+1050,CK701,Medicine (Undergraduate Entry - HPAT required)
+1051,CK702,Dentistry
+1052,CK703,Pharmacy
+1053,CK704,Occupational Therapy
+1054,CK705,Speech and Language Therapy
+1055,CK706,Public Health Sciences
+1056,CK707,Medical and Health Sciences
+1057,CK710,General Nursing
+1058,CK712,Children`s and General Nursing (Integrated)
+1059,CK720,Mental Health Nursing
+1060,CK730,Intellectual Disability Nursing
+1061,CK740,Midwifery
+1062,CK791,Medicine  - Graduate Entry (GAMSAT required)
+1063,CM001,Education - Primary Teaching
+1064,CM002,Education - Primary Teaching - Gaeltacht Applicants
+1065,CM003,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge – Gaeltacht
+1066,CM004,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge – Gaeltacht
+1067,CM010,Education Studies
+1068,CM020,Early Childhood Education
+1069,CR105,Chemical and Biopharmaceutical Engineering
+1070,CR106,Software Development
+1071,CR108,Mechanical Engineering
+1072,CR109,Structural Engineering
+1073,CR110,Automotive Business Management and Technology
+1074,CR112,Creative Digital Media
+1075,CR116,Computer Systems
+1076,CR121,Music at CIT Cork School of Music
+1077,CR125,Popular Music: Electric Bass Guitar at CIT Cork School of Music
+1078,CR126,Popular Music: Drums at CIT Cork School of Music
+1079,CR127,Popular Music: Electric Guitar at CIT Cork School of Music
+1080,CR128,Popular Music: Keyboards at CIT Cork School of Music
+1081,CR129,Popular Music: Voice at CIT Cork School of Music
+1082,CR130,Musical Theatre at CIT Cork School of Music
+1083,CR150,Business Information Systems
+1084,CR210,Contemporary Applied Art (Ceramics Glass Textiles) at CIT Crawford
+1085,CR220,Fine Art at CIT Crawford College of Art and Design
+1086,CR225,Photography with New Media
+1087,CR305,Physical Sciences (Common Entry)
+1088,CR310,IT Management
+1089,CR320,Biomedical Science - Offered jointly by CIT and UCC
+1090,CR325,Pharmaceutical Biotechnology
+1091,CR333,Nutrition and Health Science
+1092,CR335,Biological Sciences (Common Entry)
+1093,CR340,Analytical Chemistry with Quality Assurance
+1094,CR360,Instrument Engineering
+1095,CR365,Environmental Science and Sustainable Technology
+1096,CR370,Agri-Biosciences
+1097,CR400,Accounting
+1098,CR420,Marketing
+1099,CR425,International Business with Language
+1100,CR430,Sport and Exercise Management
+1101,CR440,Montessori Education
+1102,CR500,Engineering (Common Entry)
+1103,CR510,Sustainable Energy Engineering
+1104,CR520,Biomedical Engineering
+1105,CR560,Architectural Technology
+1106,CR565,Interior Architecture
+1107,CR570,Quantity Surveying
+1108,CR572,Construction Management
+1109,CR580,Electrical Engineering
+1110,CR590,Electronic Engineering
+1111,CR600,Visual Communications
+1112,CR660,Tourism Management
+1113,CR700,Theatre and Drama Studies at CIT Cork School of Music
+1114,CT125,Information Technology
+1115,CT325,Business
+1116,CW018,Business (options)
+1117,CW028,Early Childhood Education and Care
+1118,CW038,Art (portfolio)
+1119,CW058,Tourism and Event Management
+1120,CW068,Applied Social Studies in Professional Social Care
+1121,CW078,Sustainable Farm Management and Agribusiness
+1122,CW088,Visual Communications and Design
+1123,CW108,Science (options)
+1124,CW128,Brewing and Distilling
+1125,CW138,Sport and Exercise Science
+1126,CW148,Strength and Conditioning
+1127,CW188,Sport Rehabilitation and Athletic Therapy
+1128,CW208,Computer Games Development
+1129,CW238,Software Development
+1130,CW248,Information Technology Management
+1131,CW258,Cybercrime and IT Security
+1132,CW268,Computing in Interactive Digital Art and Design
+1133,CW438,Construction (options)
+1134,CW468,Architectural Technology
+1135,CW478,Civil Engineering
+1136,CW548,Mechanical Engineering
+1137,CW558,Electronic Systems
+1138,CW568,Aerospace Engineering
+1139,CW578,TV and Media Production
+1140,CW708,Law - LLB
+1141,CW728,Product Design Innovation
+1142,CW748,Early Childhood Education and Care
+1143,CW758,Professional Social Care Practice
+1144,CW808,Media and Public Relations
+1145,CW848,Digital Marketing with Analytics
+1146,CW858,Sports Management and Coaching (options portfolio)
+1147,CW908,Business (options)
+1148,CW938,Business with Law
+1149,CW948,Accounting
+1150,DB500,Computing
+1151,DB501,Computing (Cloud Computing)
+1152,DB502,Computing (Data Analytics and Big Data)
+1153,DB503,Computing (Software Development)
+1154,DB504,Computing (Web and Mobile Technology)
+1155,DB510,Audio Production and Music Project Management
+1156,DB512,Business Studies
+1157,DB514,Business Studies (Law)
+1158,DB515,Business Studies (Human Resource Management)
+1159,DB516,Financial Services
+1160,DB517,Marketing (Event Management)
+1161,DB521,Accounting and Finance
+1162,DB524,Business (Information Systems)
+1163,DB526,Business (Cloud Computing)
+1164,DB527,Applied Social Care
+1165,DB531,Marketing
+1166,DB562,Psychology
+1167,DB566,Social Science
+1168,DB567,Film and Creative Media
+1169,DB568,Law
+1170,DB569,Business (Psychology)
+1171,DC001,Education - Early Childhood Education
+1172,DC002,Education - Primary Teaching
+1173,DC003,Education - Primary Teaching - Gaeltacht Applicants
+1174,DC004,Education - Primary Teaching (Church of Ireland Centre formerly CICE)
+1175,DC009,Arts (Joint Honours) - Humanities
+1176,DC010,Post Primary Teacher Education - Religious Education and English
+1177,DC011,Post Primary Teacher Education - Religious Education and History
+1178,DC012,Post Primary Teacher Education - Religious Education and Music
+1179,DC013,Post Primary Teacher Ed - Gaeilge with French/German/Spanish
+1180,DC014,BA in Jazz and Contemporary Music Performance (audition)
+1181,DC110,Business Studies International
+1182,DC111,Business Studies
+1183,DC112,Global Business (France)
+1184,DC113,Global Business (Germany)
+1185,DC114,Global Business (Spain)
+1186,DC115,Accounting and Finance
+1187,DC116,Global Business (USA)
+1188,DC117,Aviation Management / Aviation Management with Pilot Studies
+1189,DC118,Gnó agus Gaeilge / Business and Irish
+1190,DC119,Global Business (Canada)
+1191,DC120,Enterprise Computing
+1192,DC121,Computer Applications
+1193,DC123,Data Science
+1194,DC126,Actuarial Mathematics
+1195,DC127,Common Entry into Actuarial and Financial Mathematics
+1196,DC131,Communication Studies
+1197,DC132,Journalism
+1198,DC133,Multimedia
+1199,DC155,Applied Language and Translation Studies
+1200,DC161,Analytical Science
+1201,DC162,Chemical and Pharmaceutical Sciences
+1202,DC166,Environmental Science and Technology
+1203,DC168,Genetics and Cell Biology
+1204,DC175,Physics General Entry (options)
+1205,DC181,Biotechnology
+1206,DC190,Electronic and Computer Engineering (with choice of four majors)
+1207,DC193,Mechatronic Engineering
+1208,DC195,Mechanical and Manufacturing Engineering
+1209,DC197,Biomedical Engineering
+1210,DC200,Common Entry into Engineering (Undenominated Entry)
+1211,DC201,Common Entry into Science (Undenominated Entry)
+1212,DC202,Sport Science and Health
+1213,DC203,Science Education
+1214,DC204,Athletic Therapy and Training
+1215,DC205,Physical Education with Biology
+1216,DC206,Physical Education with Mathematics
+1217,DC208,Psychology
+1218,DC209,Health and Society
+1219,DC215,General Nursing
+1220,DC216,Mental Health Nursing
+1221,DC217,Intellectual Disability Nursing
+1222,DC218,Children`s and General Nursing (Integrated)
+1223,DC230,Economics Politics and Law
+1224,DC231,International Relations
+1225,DC232,Law and Society (BCL)
+1226,DC235,Education and Training - Daytime and Flexible Delivery Mode (full-time)
+1227,DC238,Social Sciences and Cultural Innovation
+1228,DC239,Gaeilge Iriseoireacht agus na Meáin Dhigiteacha
+1229,DC240,Marketing Innovation and Technology
+1230,DC291,Arts (Joint Honours) - Media Studies
+1231,DC292,Arts (Joint Honours) - Law
+1232,DC293,Arts (Joint Honours) - International Languages
+1233,DC295,Arts (Joint Honours) - Politics
+1234,DK810,Accounting and Finance
+1235,DK816,Business Studies
+1236,DK820,Computing in Games Development
+1237,DK821,Computing in Software Development
+1238,DK822,Augmented and Virtual Reality
+1239,DK830,Building Surveying
+1240,DK831,Architectural Technology
+1241,DK832,Construction Management
+1242,DK843,Engineering (Common Entry)
+1243,DK844,Mechanical Engineering
+1244,DK845,Electrical & Electronic Engineering
+1245,DK846,Civil Engineering
+1246,DK850,International Tourism Management
+1247,DK860,Music (audition)
+1248,DK861,Arts
+1249,DK862,Social Care
+1250,DK863,Creative Media
+1251,DK864,Film and Television Production
+1252,DK865,Audio and Music Production
+1253,DK870,General Nursing
+1254,DK872,Intellectual Disability Nursing
+1255,DK874,Mental Health Nursing
+1256,DK876,Early Childhood Studies
+1257,DK877,Midwifery
+1258,DK880,Health and Physical Activity
+1259,DK882,Agriculture (Award options)
+1260,DK883,Science (Award options)
+1261,DK884,Sustainable Agriculture
+1262,DK885,Agri-Food Production
+1263,DK886,Biopharmaceutical Science
+1264,DK887,Environmental Science
+1265,DL821,English Media and Cultural Studies
+1266,DL822,Arts Management
+1267,DL823,Business Management
+1268,DL825,Applied Psychology
+1269,DL826,Visual Communication Design
+1270,DL827,Art
+1271,DL828,3D Design Modelmaking and Digital Art
+1272,DL829,Design for Stage and Screen (Costume Design)
+1273,DL830,Design for Stage and Screen (Character Makeup Design)
+1274,DL831,Design for Stage and Screen (Production Design)
+1275,DL832,Animation
+1276,DL833,Photography
+1277,DL834,Film and Television Production
+1278,DL836,Creative Computing
+1279,DL837,New Media Studies
+1280,DL838,Creative Music Production
+1281,DL839,Interaction and User Experience Design
+1282,DL840,Digital Marketing
+1283,DL841,English and Equality Studies
+1284,DN100,Architecture
+1285,DN120,Landscape Architecture
+1286,DN130,City Planning and Environmental Policy
+1287,DN150,Engineering (Common Entry)
+1288,DN200,Science (options)
+1289,DN201,Computer Science (Common Entry)
+1290,DN230,Actuarial and Financial Studies
+1291,DN240,Sustainability
+1292,DN250,Agricultural Science (options)
+1293,DN252,Dairy Business
+1294,DN253,Agri - Environmental Sciences
+1295,DN261,Food Science
+1296,DN262,Human Nutrition
+1297,DN271,Forestry
+1298,DN272,Horticulture Landscape and Sportsturf Management
+1299,DN300,Veterinary Medicine - Undergraduate Entry
+1300,DN301,Veterinary Medicine - Graduate Entry (GAMSAT required)
+1301,DN310,Veterinary Nursing
+1302,DN400,Medicine - Undergraduate Entry (HPAT required)
+1303,DN401,Medicine - Graduate Entry (GAMSAT required)
+1304,DN410,Radiography
+1305,DN411,Radiography - Graduate Entry
+1306,DN420,Physiotherapy
+1307,DN425,Health and Performance Science
+1308,DN430,Sport and Exercise Management
+1309,DN440,Biomedical Health and Life Sciences
+1310,DN450,General Nursing
+1311,DN451,Children`s and General Nursing (Integrated)
+1312,DN452,Midwifery
+1313,DN453,Mental Health Nursing
+1314,DN520,Joint Honours (options)
+1315,DN530,Humanities (options)
+1316,DN541,Modern Languages (options)
+1317,DN600,Law (options)
+1318,DN610,Business and Law
+1319,DN650,Commerce
+1320,DN660,Commerce International (options)
+1321,DN670,Economics and Finance
+1322,DN700,Social Sciences (options)
+1323,DN710,Economics
+1324,DN720,Psychology
+1325,DN750,Social Policy and Sociology
+1326,GA181,Accounting
+1327,GA182,Business
+1328,GA183,Business Information Systems
+1329,GA184,Marketing and Sales
+1330,GA185,Finance and Economics
+1331,GA186,Business with Entrepreneurship
+1332,GA187,Rural Enterprise and Agri-Business
+1333,GA281,Film and Documentary
+1334,GA282,Heritage Studies
+1335,GA283,Contemporary Art
+1336,GA284,Design
+1337,GA285,Education (Art Design and Graphics)
+1338,GA380,International Hotel Management
+1339,GA381,International Tourism Management
+1340,GA382,Culinary and Gastronomic Science
+1341,GA384,Event Management with Public Relations
+1342,GA480,Construction Management
+1343,GA482,Quantity Surveying and Construction Economics
+1344,GA483,Architectural Technology
+1345,GA484,Civil Engineering
+1346,GA580,Software and Electronic Engineering
+1347,GA680,Mechanical Engineering
+1348,GA681,Energy Engineering
+1349,GA682,Biomedical Engineering
+1350,GA683,Agricultural Engineering
+1351,GA684,Engineering (Common entry to Agri/Biomed/Energy/Mech Eng)
+1352,GA685,Manufacturing Engineering Design
+1353,GA780,Applied Freshwater and Marine Biology
+1354,GA781,Applied Biology and Biopharmaceutical Science
+1355,GA782,Chemical and Pharmaceutical Science
+1356,GA783,Physics and Instrumentation
+1357,GA784,Science (Undenominated)
+1358,GA785,Medical Science
+1359,GA786,Forensic Science and Analysis
+1360,GA787,Computing in Software Development
+1361,GA788,Computing and Digital Media
+1362,GA789,Agriculture and Environmental Management
+1363,GA790,Sport and Exercise Science
+1364,GA791,Public Health Nutrition
+1365,GA880,General Nursing
+1366,GA882,Psychiatric Nursing
+1367,GA885,Outdoor Education
+1368,GA887,History and Geography
+1369,GA889,Applied Social Care
+1370,GA890,Early Childhood Education and Care
+1371,GA891,Geography and Outdoor Education
+1372,GA980,Education (Design Graphics and Construction)
+1373,GA984,Furniture Design Making and Technology - Common Entry
+1374,GC200,Business Studies
+1375,GC201,Accounting and Finance
+1376,GC230,Computing Science
+1377,GC250,Communications and Media Production
+1378,GC300,Business Studies
+1379,GC301,Accounting & Finance
+1380,GC302,Business Studies - HRM
+1381,GC305,International Hospitality Management
+1382,GC400,Business Studies
+1383,GC401,Accounting and Finance
+1384,GC402,Business Studies (HRM)
+1385,GC403,Law
+1386,GC407,Business Studies (Marketing)
+1387,GC430,Computing Science
+1388,GC450,Communications and Media Production
+1389,GC462,Design Communication (portfolio)
+1390,GC489,Interior Architecture (portfolio)
+1391,GC494,Fashion Design (portfolio)
+1392,GY101,Arts (Joint-Honours)
+1393,GY104,Arts (Psychology)
+1394,GY105,Arts (History)
+1395,GY107,Na Dána (Gaeilge agus Léann an Aistriúcháin)
+1396,GY109,Arts (Mathematics and Education)
+1397,GY110,Arts with Children`s Studies
+1398,GY111,Arts with Creative Writing
+1399,GY112,Arts with Film Studies
+1400,GY113,Arts with Human Rights
+1401,GY115,Arts with Performing Arts Studies
+1402,GY118,Arts (Drama Theatre and Performance Studies)
+1403,GY119,Arts (Journalism)
+1404,GY120,Arts (Child Youth and Family: Policy and Practice)
+1405,GY121,Arts (Children`s Studies)
+1406,GY122,Na Dána (Cumarsáid agus Gaeilge)
+1407,GY123,Applied Social Sciences
+1408,GY124,Arts (Arts with Data Science)
+1409,GY125,Arts (Digital Arts and Technology)
+1410,GY126,Arts (English and Media Studies)
+1411,GY127,Arts (Film and Digital Media)
+1412,GY128,Arts (Global Languages)
+1413,GY129,Arts (International)
+1414,GY130,Arts (Music)
+1415,GY131,Arts (History and Globalisation Studies)
+1416,GY132,Government (Politics Economics and Law)
+1417,GY133,Education (Computer Science and Mathematical Studies)
+1418,GY134,Geography and Geosystems
+1419,GY201,Commerce
+1420,GY202,Commerce (International) with French
+1421,GY203,Commerce (International) with German
+1422,GY204,Commerce (International) with Spanish
+1423,GY206,Business Information Systems (Work Placement & Optional Int`l Study)
+1424,GY207,Commerce (Accounting) including optional Global Experience year
+1425,GY208,Commerce (Gaeilge)
+1426,GY209,Commerce (Global Experience)
+1427,GY250,Law and Business
+1428,GY251,Law (BCL)
+1429,GY252,Law (BCL) and Human Rights
+1430,GY253,Law and Taxation
+1431,GY254,Law (BCL) Criminology and Criminal Justice
+1432,GY261,Business Studies (International Hotel Management interview)
+1433,GY262,Commerce (International Hotel Management interview)
+1434,GY301,Science
+1435,GY303,Biomedical Science
+1436,GY304,Biotechnology
+1437,GY308,Environmental Science
+1438,GY309,Financial Mathematics and Economics
+1439,GY310,Marine Science
+1440,GY313,Environmental Health and Safety
+1441,GY314,Earth and Ocean Sciences
+1442,GY318,Biopharmaceutical Chemistry
+1443,GY319,Mathematical Science
+1444,GY320,Physics (Degree options: AppliedAstrophysicsBiomedicalTheoretical)
+1445,GY321,Genetics and Genomics
+1446,GY350,Computer Science and Information Technology
+1447,GY401,Engineering (Undenominated)
+1448,GY402,Civil Engineering
+1449,GY405,Mechanical Engineering
+1450,GY406,Electronic and Computer Engineering
+1451,GY408,Biomedical Engineering
+1452,GY410,Project and Construction Management
+1453,GY413,Energy Systems Engineering
+1454,GY414,Electrical and Electronic Engineering
+1455,GY501,Medicine (five year/six year course HPAT required)
+1456,GY502,Occupational Therapy
+1457,GY503,Speech and Language Therapy
+1458,GY504,Podiatric Medicine
+1459,GY515,General Nursing (Galway and Portiuncula)
+1460,GY516,Mental Health Nursing
+1461,GY517,Midwifery
+1462,ID001,Accounting and Finance
+1463,ID002,Business Studies
+1464,LC110,Art and Design (Common Entry portfolio)
+1465,LC114,Fashion and Textiles for Product and Costume (portfolio)
+1466,LC115,Art and Design Teacher Education (portfolio)
+1467,LC220,Digital Marketing
+1468,LC223,Law and Taxation
+1469,LC224,Accounting and Finance
+1470,LC225,Marketing and Management
+1471,LC226,Enterprise and Innovation
+1472,LC233,Software Development
+1473,LC234,Interactive Digital Media
+1474,LC236,Internet Systems Development
+1475,LC239,Computer Networks and Systems Management
+1476,LC241,Construction Management
+1477,LC242,Property Valuation and Management
+1478,LC243,Quantity Surveying
+1479,LC248,Built Environment (Common Entry)
+1480,LC252,Civil Engineering Management
+1481,LC263,Clinical Technology
+1482,LC265,Forensic and Pharmaceutical Sciences
+1483,LC266,Drug and Medicinal Product Analysis
+1484,LC275,Electrical Engineering
+1485,LC288,Mechanical Engineering
+1486,LC289,Precision Engineering
+1487,LC292,Social Care Work
+1488,LC293,Business Studies with Travel and Tourism Management
+1489,LC294,Business Studies with Event Management
+1490,LC295,Business Studies with Sports Management
+1491,LC297,Community Development
+1492,LC320,Business
+1493,LC330,Business with Computing
+1494,LC340,Interior Design
+1495,LC362,Biotechnology and Biopharmaceutical Sciences
+1496,LC371,Creative Broadcast and Film Production
+1497,LC372,Music Technology and Production
+1498,LC374,Renewable and Electrical Energy Engineering
+1499,LC375,Industrial Automation and Robotic Systems
+1500,LC376,Electronic Engineering
+1501,LC380,Automotive Engineering and Transport Management
+1502,LC392,Business Studies in Beauty and Spa Management
+1503,LC393,Early Childhood Education and Care
+1504,LC401,Early Childhood Education and Care
+1505,LC402,Social Care Work
+1506,LC408,Environmental Science and Climate
+1507,LC414,Data Analytics and Cyber Security
+1508,LC416,Business
+1509,LC418,Computing - Games Design and Development
+1510,LC422,Sports Strength and Conditioning
+1511,LC434,Environmental Science and Agriculture
+1512,LC502,Game Art and Design (portfolio)
+1513,LC517,Creative Media and Design
+1514,LC518,Digital Animation Production (portfolio)
+1515,LC612,Social Care Work
+1516,LC613,Early Childhood Education and Care
+1517,LM002,Arts
+1518,LM020,Law and Accounting
+1519,LM026,Performing Arts (audition required)
+1520,LM028,Criminal Justice
+1521,LM029,Law Plus
+1522,LM038,Psychology and Sociology
+1523,LM039,Journalism and Digital Communication
+1524,LM040,European Studies
+1525,LM044,Applied Languages
+1526,LM050,Business Studies (options)
+1527,LM056,International Business
+1528,LM058,Financial Mathematics
+1529,LM063,Technology Management
+1530,LM068,Food Science and Health
+1531,LM076,Product Design and Technology (portfolio required)
+1532,LM077,Aeronautical Engineering
+1533,LM082,Construction Management and Engineering
+1534,LM089,Sport and Exercise Sciences
+1535,LM090,Physical Education with concurrent Teacher Education
+1536,LM091,Languages with concurrent Teacher Education
+1537,LM092,Science with Teacher Ed (Biology with Physics/Chemistry/Ag Science)
+1538,LM093,Equine Science
+1539,LM094,Materials and Architectural Technology with concurrent Teacher Education
+1540,LM095,Materials and Engineering Technology with concurrent Teacher Education
+1541,LM096,Science with Teacher Ed (Physical Sciences with Chemistry and Physics)
+1542,LM097,Mathematics and Computer Science with concurrent Teacher Education
+1543,LM099,Architecture (portfolio requirement suspended)
+1544,LM100,Physiotherapy
+1545,LM101,Medicine  - Graduate Entry (GAMSAT required)
+1546,LM102,Psychology
+1547,LM103,Paramedic Studies (B/C1/C1 Provisional Drivers Licence)
+1548,LM115,Chemical and Biochemical Engineering
+1549,LM116,Engineering (Biomedical/Civil/Design and Manufacture/Mechanical)
+1550,LM118,Electronic and Computer Engineering
+1551,LM121,Computer Science (Computer Systems/Games Dev/Mobile Comm Security)
+1552,LM122,Creative Media and Interaction Design (Digital Design/Music Media Tech)
+1553,LM123,Biological & Chemical Sciences (Biosci/Envir Sci/Ind Bio/IndPharma Chem)
+1554,LM124,Mathematics (Math Science/Maths and Physics/Economics and Maths)
+1555,LM125,Physics (Applied Physics or Mathematics & Physics)
+1556,LM150,General Nursing
+1557,LM152,Mental Health Nursing
+1558,LM154,Intellectual Disability Nursing
+1559,LM156,Midwifery
+1560,LY108,Business - Accounting
+1561,LY118,Business
+1562,LY208,Law
+1563,LY228,Sports and Exercise - Common Entry
+1564,LY408,Design - Common Entry
+1565,LY508,Fire Safety Engineering
+1566,LY518,Quantity Surveying
+1567,LY528,Construction Management
+1568,LY608,Mechanical Engineering
+1569,LY618,Electronic Engineering
+1570,LY708,Applied Computing
+1571,LY748,Computer Science
+1572,LY818,Science - Common Entry
+1573,LY828,Agriculture - Common Entry
+1574,LY908,General Nursing
+1575,LY918,Psychiatric Nursing
+1576,LY928,Intellectual Disability Nursing
+1577,LY968,Early Childhood Care Health and Education
+1578,LY978,Health & Social Care - Common Entry
+1579,MH001,Education - Primary Teaching (Froebel)
+1580,MH002,Education - Primary Teaching - Gaeltacht Applicants (Froebel)
+1581,MH101,Arts
+1582,MH103,Music
+1583,MH106,Psychology - 3 years
+1584,MH107,Social Science
+1585,MH109,Media Studies
+1586,MH116,Community and Youth Work (Full-Time)
+1587,MH201,Science
+1588,MH202,Biotechnology
+1589,MH203,Biological and Geographical Sciences
+1590,MH204,Physics with Astrophysics
+1591,MH206,Theoretical Physics and Mathematics
+1592,MH207,Data Science
+1593,MH208,Biological and Biomedical Sciences
+1594,MH209,Psychology (through Science) - 4 years
+1595,MH210,Pharmaceutical and Biomedical Chemistry
+1596,MH212,Science or Maths & Computer Science or Maths & Applied Maths (with Ed)
+1597,MH304,Engineering (Computer/Electronic/Communications)
+1598,MH305,Product Design
+1599,MH306,Robotics and Intelligent Devices
+1600,MH401,Finance (options)
+1601,MH402,Quantitative Finance
+1602,MH403,Accounting and Finance
+1603,MH404,Business (options)
+1604,MH405,Equine Business
+1605,MH407,Business and Accounting
+1606,MH411,Entrepreneurship
+1607,MH501,LLB Law - four year Single Major Law programme
+1608,MH502,Law (options)
+1609,MH601,Computer Science through Arts (options)
+1610,MH602,Computer Science through Science (options)
+1611,MH603,Computational Thinking
+1612,MH801,Early Childhood - Teaching and Learning (part-time)
+1613,MH802,Community and Youth Work (part-time in service)
+1614,MH803,Local Studies/Community Studies (part-time evening) - Mature Students
+1615,MI001,Contemporary & Applied Theatre Studies
+1616,MI002,Arts
+1617,MI004,Education - Primary Teaching - International
+1618,MI005,Education - Primary Teaching
+1619,MI006,Education - Primary Teaching - Gaeltacht Applicants
+1620,MI007,Early Childhood Care and Education
+1621,MI008,Education and Psychology - Primary Teaching
+1622,MI009,Education Business Studies and Accounting
+1623,MI010,Education Business Studies and Religious Studies
+1624,MI011,Education Gaeilge and Religious Studies
+1625,MI012,Education Gaeilge and Business Studies
+1626,MI013,Education Mathematics and Gaeilge
+1627,MI014,Education Mathematics and Business Studies
+1628,MU001,Theology and Arts
+1629,MU002,Theology
+1630,NC003,Computing (Degree Award options)
+1631,NC005,Human Resource Management
+1632,NC009,Business
+1633,NC010,Psychology
+1634,NC020,Marketing Practice
+1635,NC022,Accounting and Finance
+1636,NC023,Technology Management (with specialisations)
+1637,NM801,Montessori Education
+1638,PC405,Social Political and Community Studies
+1639,PC410,Arts and Humanities (fulfils Teaching Council requirements)
+1640,PC411,English and History (fulfils Teaching Council requirements)
+1641,RC001,Medicine - Undergraduate Entry (HPAT required)
+1642,RC004,Physiotherapy
+1643,RC005,Pharmacy
+1644,RC101,Medicine - Graduate Entry (GAMSAT required)
+1645,SG141,Business
+1646,SG142,Business in International Marketing and Languages (French)
+1647,SG144,Business in International Marketing and Languages (Spanish)
+1648,SG146,Accounting
+1649,SG147,Sport with Business
+1650,SG148,Tourism with Event Management
+1651,SG241,Performing Arts
+1652,SG242,Early Childhood Care and Education
+1653,SG243,Social Care Practice
+1654,SG244,Fine Art
+1655,SG245,Creative Design
+1656,SG246,Computing
+1657,SG247,English and Psychology
+1658,SG248,Sociology and Politics
+1659,SG249,Writing and Literature
+1660,SG250,Application Design and User Experience
+1661,SG251,Computing (Smart Technologies)
+1662,SG252,Software Development
+1663,SG253,Computer Networks and Cloud Infrastructure
+1664,SG254,Writing and Literature Online
+1665,SG342,Civil Engineering
+1666,SG343,Quantity Surveying
+1667,SG346,Construction Project Management and Applied Technology
+1668,SG347,Architecture
+1669,SG348,Interior Architecture and Design
+1670,SG442,Occupational Safety and Health
+1671,SG443,Human Nutrition
+1672,SG444,Science Undenominated
+1673,SG445,Pharmaceutical Science with Drug Development
+1674,SG447,Health Science and Physical Activity
+1675,SG448,Forensic Investigation and Analysis
+1676,SG449,Medical Biotechnology
+1677,SG450,Environmental Science with Ecology (Level 8)
+1678,TL801,Animation Visual Effects and Motion Design (Level 8)
+1679,TL802,TV Radio and New Media (Level 8)
+1680,TL810,Computing with Software Development
+1681,TL811,Computing with Games Development
+1682,TL815,Computing (Degree Award options)
+1683,TL823,Event Management (3 year programme)
+1684,TL831,Business Studies (Major Specialism in: Acctng or Mktg or Mgmnt)
+1685,TL844,Agricultural Engineering
+1686,TL845,Civil Engineering
+1687,TL847,Manufacturing Engineering
+1688,TL848,Agricultural Science
+1689,TL851,Wildlife Biology (Degree Award options)
+1690,TL855,Pharmaceutical Science (Degree Award options)
+1691,TL858,Veterinary Bioscience
+1692,TL871,Health and Leisure (Degree Award options)
+1693,TL872,Health and Leisure with Massage
+1694,TL873,Coaching and Sports Performance
+1695,TL880,Early Childhood Care and Education
+1696,TL881,Social Care
+1697,TL889,Counselling with Addiction - Mature applicants only
+1698,TL890,General Nursing and Mature Applicants
+1699,TL891,Mental Health Nursing and Mature Applicants
+1700,TR002,Music
+1701,TR003,History
+1702,TR004,Law
+1703,TR005,Philosophy
+1704,TR006,Psychology
+1705,TR007,Clinical Speech and Language Studies
+1706,TR009,Music Education
+1707,TR012,History and Political Science
+1708,TR015,Philosophy Political Science Economics and Sociology
+1709,TR016,Deaf Studies
+1710,TR017,Law and Business
+1711,TR018,Law and French
+1712,TR019,Law and German
+1713,TR020,Law and Political Science
+1714,TR021,Classics Ancient History and Archaeology
+1715,TR022,Early and Modern Irish
+1716,TR023,English Studies
+1717,TR024,European Studies
+1718,TR025,Drama and Theatre Studies
+1719,TR028,Ancient and Medieval History and Culture
+1720,TR029,Political Science and Geography
+1721,TR031,Mathematics
+1722,TR032,Engineering
+1723,TR033,Computer Science
+1724,TR034,Management Science and Information Systems Studies
+1725,TR035,Theoretical Physics
+1726,TR038,Engineering with Management
+1727,TR039,Computer Science and Language
+1728,TR040,Middle Eastern and European Languages and Cultures
+1729,TR041,Religion
+1730,TR042,Film
+1731,TR043,History of Art and Architecture
+1732,TR051,Medicine (HPAT required)
+1733,TR052,Dental Science
+1734,TR053,Physiotherapy
+1735,TR054,Occupational Therapy
+1736,TR055,Radiation Therapy
+1737,TR056,Human Health and Disease
+1738,TR060,Biological and Biomedical Sciences
+1739,TR061,Chemical Sciences
+1740,TR062,Geography and Geoscience
+1741,TR063,Physical Sciences
+1742,TR072,Pharmacy
+1743,TR080,Global Business
+1744,TR081,Business Economic and Social Studies (BESS)
+1745,TR082,Computer Science and Business
+1746,TR083,Sociology and Social Policy
+1747,TR084,Social Studies (Social Work)
+1748,TR085,Business Studies and French
+1749,TR086,Business Studies and German
+1750,TR087,Business Studies and Russian
+1751,TR089,Business Studies and Polish
+1752,TR090,Business Studies and Spanish
+1753,TR091,General Nursing (Meath and St James`s)
+1754,TR093,General Nursing (Adelaide School of Nursing)
+1755,TR095,Mental Health Nursing
+1756,TR097,Intellectual Disability Nursing
+1757,TR111,Ancient History and Archaeology/Geography
+1758,TR112,Ancient History and Archaeology/History
+1759,TR113,Ancient History and Archaeology/History of Art and Architecture
+1760,TR114,Ancient History and Archaeology/Modern Language
+1761,TR117,Ancient History and Archaeology/Religion
+1762,TR166,Classical Civilisation/English Literature
+1763,TR173,Classical Civilisation/History of Art and Architecture
+1764,TR177,Classical Civilisation/Modern Language
+1765,TR179,Classical Civilisation/Philosophy
+1766,TR198,Economics/Geography
+1767,TR202,Economics/History
+1768,TR207,Economics/Mathematics
+1769,TR208,Economics/Modern Language
+1770,TR209,Economics/Philosophy
+1771,TR212,Economics/Sociology
+1772,TR228,Classical Languages/English Literature
+1773,TR231,Classical Languages/History of Art and Architecture
+1774,TR233,Classical Languages/Middle EasternJewish and Islamic Civilisations
+1775,TR239,Classical Languages/Modern Language
+1776,TR262,English Literature/History
+1777,TR263,English Literature/History of Art and Architecture
+1778,TR269,English Literature/Philosophy
+1779,TR272,English Literature/Sociology
+1780,TR276,English Literature/Drama Studies
+1781,TR277,English Literature/Modern Language
+1782,TR311,Film/Drama Studies
+1783,TR312,Film/English Literature
+1784,TR320,Film/Music
+1785,TR322,Geography/History
+1786,TR323,Drama Studies/Modern Language
+1787,TR324,Film/Modern Language
+1788,TR325,Film/History
+1789,TR326,Geography/Modern Language
+1790,TR332,Geography/Sociology
+1791,TR443,History/History of Art and Architecture
+1792,TR447,History/Modern Language
+1793,TR449,History/Philosophy
+1794,TR452,History/Sociology
+1795,TR454,History/Religion
+1796,TR455,History of Art and Architecture/Modern Language
+1797,TR479,History of Art and Architecture/Philosophy
+1798,TR547,Middle EasternJewish and Islamic Civ./Ancient History and Archaeology
+1799,TR548,Middle EasternJewish and Islamic Civilisations/Classical Civilisation
+1800,TR554,Middle EasternJewish and Islamic Civilisations/History
+1801,TR563,Middle EasternJewish and Islamic Civilisations/Modern Language
+1802,TR564,Middle EasternJewish and Islamic Civilisations/Music
+1803,TR565,Middle EasternJewish and Islamic Civilisations/Religion
+1804,TR597,Mathematics/Modern Language
+1805,TR598,Mathematics/Music
+1806,TR599,Mathematics/Philosophy
+1807,TR629,Music/Philosophy
+1808,TR635,Music/Drama Studies
+1809,TR636,Music/Modern Language
+1810,TR638,Music/Religion
+1811,TR639,Philosophy/Modern Language
+1812,TR662,Philosophy/Sociology
+1813,TR663,Religion/Classical Civilisation
+1814,TR664,Religion/English Literature
+1815,TR665,Religion/History of Art and Architecture
+1816,TR666,Religion/Modern Language
+1817,TR667,French/Modern Language
+1818,TR668,German/Modern Language
+1819,TR669,Irish/Modern Language
+1820,TR670,Italian/Modern Language
+1821,TR671,Russian/Modern Language
+1822,TR672,Spanish/Modern Language
+1823,TR755,Sociology/Drama Studies
+1824,TR756,Sociology/Modern Language
+1825,TR911,Children`s and General Nursing (Integrated)
+1826,TR913,Midwifery
+1827,TU801,Biomedical Design
+1828,TU802,Electrical Services and Energy Management
+1829,TU803,Electronic Engineering
+1830,TU804,Engineering (Common Entry with Award options)
+1831,TU805,Engineering (General Entry)
+1832,TU806,Sustainable Energy Engineering
+1833,TU807,Computer Engineering in Mobile Systems
+1834,TU808,Engineering Software
+1835,TU809,Mechanical Engineering
+1836,TU810,Mechatronic Engineering
+1837,TU811,Product Design
+1838,TU812,DesignTechnology and Innovation
+1839,TU813,Automation Engineering
+1840,TU814,Transport Operations and Technology
+1841,TU831,Architectural Technology
+1842,TU832,Architecture (Suitability Test and Interview)
+1843,TU833,Construction Management
+1844,TU834,Geographic Science
+1845,TU835,Planning and Environmental Management
+1846,TU836,Property Economics (Valuation Surveying)
+1847,TU837,Quantity Surveying and Construction Economics
+1848,TU851,Analytical Chemistry (Environmental Forensic and Pharmaceutical)
+1849,TU852,Chemical Sciences with Medicinal Chemistry
+1850,TU854,Science (General Entry)
+1851,TU855,Science with Nanotechnology
+1852,TU856,Computer Science
+1853,TU857,Computer Science (Infrastructure)
+1854,TU858,Computer Science (International)
+1855,TU859,Computing
+1856,TU860,Computing (Information Technology)
+1857,TU861,Computing with Language (French/German/Spanish)
+1858,TU862,Computing with Data Analytics
+1859,TU863,Digital Forensics and Cyber Security
+1860,TU864,DNA and Forensic Analysis
+1861,TU865,Computing with IT Management
+1862,TU866,Biomedical and Molecular Diagnostics
+1863,TU867,Biomedical Science
+1864,TU868,Clinical Measurement Science
+1865,TU869,Environmental Health
+1866,TU870,Human Nutrition and Dietetics
+1867,TU871,Optometry
+1868,TU872,Public Health Nutrition
+1869,TU873,Industrial Mathematics
+1870,TU874,Mathematical Sciences
+1871,TU875,Pharmaceutical Healthcare
+1872,TU876,Pharmaceutical Science
+1873,TU877,Physics Technology
+1874,TU878,Physics with Energy and Environment
+1875,TU879,Physics with Medical Physics and Bioengineering
+1876,TU880,Physics with Data Science
+1877,TU881,Food Innovation
+1878,TU882,Nutraceuticals in Health and Nutrition
+1879,TU901,Business
+1880,TU902,Business (Common Entry with Award options)
+1881,TU903,Business and Management
+1882,TU904,Business and Law
+1883,TU905,Economics and Finance
+1884,TU906,Human Resource Management
+1885,TU907,Logistics and Supply Chain Management
+1886,TU908,Management
+1887,TU909,Accounting and Finance
+1888,TU910,Accounting and Finance
+1889,TU911,Accounting and Finance
+1890,TU912,Business Analytics
+1891,TU913,Business and Information Technology
+1892,TU914,Business Computing
+1893,TU915,International Business
+1894,TU916,International Business
+1895,TU917,Law (LLB ) with a Language
+1896,TU918,Law (LLB)
+1897,TU919,Advertising and Marketing Communications
+1898,TU920,Digital Marketing
+1899,TU921,Digital Marketing Technologies
+1900,TU922,Marketing
+1901,TU923,Marketing Management
+1902,TU924,E-Commerce in Retailing
+1903,TU925,Retail and Services Management
+1904,TU935,Sports Management and Coaching
+1905,TU936,Sports Science and Health
+1906,TU941,Botanical Cuisine
+1907,TU942,Culinary Arts
+1908,TU943,Culinary Entrepreneurship
+1909,TU944,Culinary Science
+1910,TU951,International Hospitality and Tourism Management
+1911,TU952,International Hospitality Management
+1912,TU953,Tourism and Digital Marketing
+1913,TU954,Event Management
+1914,TU955,Sports & Leisure Management
+1915,TU961,Commercial Modern Music
+1916,TU962,Drama (Performance)
+1917,TU963,Music
+1918,TU965,International Business and Languages
+1919,TU966,Languages and English Studies
+1920,TU967,Languages and International Tourism
+1921,TU971,Contemporary Visual Culture
+1922,TU972,Creative and Cultural Industries
+1923,TU973,Design - Visual Communication
+1924,TU974,Fine Art
+1925,TU975,Interior Design
+1926,TU976,Photography
+1927,TU981,Creative Digital Media
+1928,TU982,Creative Digital Media
+1929,TU983,Film and Broadcasting
+1930,TU984,Game Design
+1931,TU985,Journalism
+1932,TU986,Print Media Technology and Management
+1933,TU991,Applied Social Studies in Social Care
+1934,TU992,Community and Youth Development
+1935,TU993,Early Childhood Care and Education
+1936,TU994,Early Childhood Care and Education
+1937,TU995,Early Childhood Education
+1938,TU996,Social Care
+1939,TU997,Applied Social Care
+1940,WD001,Applied Computing (options)
+1941,WD002,Science (options)
+1942,WD005,Health Sciences (options)
+1943,WD006,Exercise Sciences (options)
+1944,WD007,Engineering (options)
+1945,WD025,Construction Management and Engineering
+1946,WD027,Music
+1947,WD048,Business (options)
+1948,WD084,Accounting
+1949,WD091,Hospitality Management
+1950,WD116,General Nursing
+1951,WD117,Psychiatric Nursing
+1952,WD120,Intellectual Disability Nursing
+1953,WD134,International Business
+1954,WD137,Design (Visual Communications)
+1955,WD140,Laws
+1956,WD144,Architecture
+1957,WD147,Pharmaceutical Science
+1958,WD149,Early Childhood Studies
+1959,WD150,Criminal Justice Studies
+1960,WD152,Visual Art
+1961,WD161,Computer Forensics and Security
+1962,WD162,Quantity Surveying
+1963,WD163,Psychology
+1964,WD186,Sports Coaching and Performance
+1965,WD187,Social Science
+1966,WD191,Agricultural Science
+1967,WD192,Social Care Practice
+1968,WD193,Marketing and Digital Media
+1969,WD194,Culinary Arts
+1970,WD195,Architectural and Building Information Modelling Technology
+1971,WD200,Arts (options)
+1972,WD210,Software Systems Development
+1973,WD211,Creative Computing
+1974,WD212,Recreation and Sport Management
+1975,WD230,Mechanical and Manufacturing Engineering
+1976,AL801,Sofwre Design wih Virul Reliy nd Ging
+1977,AL802,Sofwre Design wih Cloud Copuing
+1978,AL803,Sofwre Design wih Mobile Apps nd Conneced Devices
+1979,AL805,Nework Mngeen nd Cloud Infrsrucure
+1980,AL810,Quniy Surveying
+1981,AL820,Mechnicl nd Polyer Engineering
+1982,AL830,Generl Nursing
+1983,AL832,Psychiric Nursing
+1984,AL836,Nuriion nd Helh Science
+1985,AL837,Spors Science wih Exercise Physiology
+1986,AL838,Bioechnology
+1987,AL839,Microbiology
+1988,AL840,Phrceuicl Sciences
+1989,AL841,Ahleic nd Rehbiliion Therpy
+1990,AL842,Bioveerinry Science
+1991,AL843,Physicl Aciviy nd Helh Science
+1992,AL850,Business
+1993,AL851,Business nd Lw
+1994,AL852,Accouning (wih opionl plceen)
+1995,AL853,Accouning nd Lw
+1996,AL855,Hospiliy Mngeen (wih Inernionl plceen)
+1997,AL857,Digil Mrkeing
+1998,AL860,Socil Cre Prcice
+1999,AL861,Aniion nd Illusrion (porfolio)
+2000,AL863,Grphic nd Digil Design (porfolio)
+2001,AL864,Erly Yers Cre nd Educion
+2002,AL870,Applied Psychology
+2003,CW018,Business (opions Wexford)
+2004,CW028,Erly Childhood Educion nd Cre (Wexford)
+2005,CW038,Ar (porfolio Wexford)
+2006,CW058,Touris nd Even Mngeen (Wexford)
+2007,CW068,Applied Socil Sudies - Professionl Socil Cre (Wexford)
+2008,CW078,Susinble Fr Mngeen nd Agribusiness (Wexford)
+2009,CW088,Visul Counicions nd Design (Wexford)
+2010,CW108,Science (opions)
+2011,CW128,Brewing nd Disilling
+2012,CW178,Spor Science (opions)
+2013,CW188,Spor Rehbiliion nd Ahleic Therpy
+2014,CW208,Copuer Ges Developen
+2015,CW238,Sofwre Developen
+2016,CW248,Inforion Technology Mngeen
+2017,CW258,Cybercrie nd IT Securiy
+2018,CW268,Copuing in Inercive Digil Ar nd Design
+2019,CW438,Consrucion (opions)
+2020,CW468,Archiecurl Technology
+2021,CW478,Civil Engineering
+2022,CW548,Mechnicl Engineering
+2023,CW558,Elecronic Syses
+2024,CW568,Aerospce Engineering
+2025,CW578,TV nd Medi Producion
+2026,CW708,Lw - LLB
+2027,CW728,Produc Design Innovion
+2028,CW748,Erly Childhood Educion nd Cre
+2029,CW758,Applied Socil Sudies - Professionl Socil Cre
+2030,CW808,Medi nd Public Relions
+2031,CW848,Digil Mrkeing wih Anlyics
+2032,CW858,Spors Mngeen nd Coching (opions porfolio)
+2033,CW908,Business (opions)
+2034,CW938,Business wih Lw
+2035,CW948,Accouning
+2036,PC405,Socil Poliicl nd Couniy Sudies
+2037,PC410,Ars nd Huniies (fulfils Teching Council requireens)
+2038,PC411,English nd Hisory (fulfils Teching Council requireens)
+2039,CR105,Cheicl nd Biophrceuicl Engineering
+2040,CR106,Sofwre Developen
+2041,CR108,Mechnicl Engineering
+2042,CR109,Srucurl Engineering
+2043,CR110,Auooive Business Mngeen nd Technology
+2044,CR112,Creive Digil Medi
+2045,CR116,Copuer Syses
+2046,CR121,Music  CIT Cork School of Music
+2047,CR125,Populr Music: Elecric Bss Guir  CIT Cork School of Music
+2048,CR126,Populr Music: Drus  CIT Cork School of Music
+2049,CR127,Populr Music: Elecric Guir  CIT Cork School of Music
+2050,CR128,Populr Music: Keybords  CIT Cork School of Music
+2051,CR129,Populr Music: Voice  CIT Cork School of Music
+2052,CR130,Musicl There
+2053,CR150,Business Inforion Syses
+2054,CR210,Coneporry Applied Ar (Cerics Glss Texiles)  CIT Crwford
+2055,CR220,Fine Ar  CIT Crwford College of Ar nd Design
+2056,CR225,Phoogrphy wih New Medi
+2057,CR305,Physicl Sciences (Coon Enry)
+2058,CR310,IT Mngeen
+2059,CR320,Bioedicl Science (Offered joinly by CIT nd UCC)
+2060,CR325,Phrceuicl Bioechnology
+2061,CR333,Nuriion nd Helh Science
+2062,CR335,Biologicl Sciences (Coon Enry)
+2063,CR340,Anlyicl Cheisry wih Quliy Assurnce
+2064,CR360,Insruen Engineering
+2065,CR365,Environenl Science nd Susinble Technology
+2066,CR370,Agri-Biosciences
+2067,CR400,Accouning
+2068,CR420,Mrkeing
+2069,CR425,Inernionl Business wih Lnguge
+2070,CR500,Engineering (Coon Enry)
+2071,CR510,Susinble Energy Engineering
+2072,CR520,Bioedicl Engineering
+2073,CR560,Archiecurl Technology
+2074,CR565,Inerior Archiecure
+2075,CR570,Quniy Surveying
+2076,CR572,Consrucion Mngeen
+2077,CR580,Elecricl Engineering
+2078,CR590,Elecronic Engineering
+2079,CR600,Visul Counicions
+2080,CR660,Touris Mngeen
+2081,CR700,There nd Dr Sudies  CIT Cork School of Music
+2082,CK101,Ars - 3 yers
+2083,CK102,Socil Science
+2084,CK104,Ars wih Music - 3 or 4 yers (BMus or Chinese/Europen/In`l Phwy)
+2085,CK105,Fil nd Screen Medi - 3 yers or 4 yers (Inernionl Phwy)
+2086,CK107,Geogrphicl nd Archeologicl Sciences - 3 or 4 yers (In`l Phwy)
+2087,CK108,Ars Inernionl - 4 yers
+2088,CK109,English - 3 yers or 4 yers (Inernionl Phwy)
+2089,CK110,World Lnguges
+2090,CK111,Erly Yers nd Childhood Sudies
+2091,CK112,There nd Perforive Prcices - 3 or 4 yers (In`l Phwy)
+2092,CK113,Criinology - 3 yers or 4 yers (Inernionl Phwy)
+2093,CK114,Socil Science (Youh nd Couniy Work) - 3 yers
+2094,CK115,Socil Work - Mure Applicns only
+2095,CK116,Spors Sudies nd Physicl Educion
+2096,CK118,Digil Huniies nd IT - 3 or 4 yers (Work Exper. or In`l Phwy)
+2097,CK120,Applied Psychology
+2098,CK121,Psychology nd Copuing - 3 or 4 yers (Work Experience Phwy)
+2099,CK122,Governen nd Poliicl Science
+2100,CK201,Coerce
+2101,CK202,Accouning
+2102,CK203,Business Inforion Syses
+2103,CK204,Finnce
+2104,CK205,Coerce (Inernionl) wih French
+2105,CK206,Coerce (Inernionl) wih Gern
+2106,CK207,Coerce (Inernionl) wih Ilin
+2107,CK208,Coerce (Inernionl) wih Hispnic Sudies
+2108,CK209,Coerce (Inernionl) wih Irish
+2109,CK211,Coerce (Inernionl) wih Chinese Sudies
+2110,CK212,Econoics (Trnsforionl Lerning) - 3 or 4 yers (In`l Phwy)
+2111,CK301,Lw (Phwys) -  3 or 4 yers
+2112,CK302,Lw nd French
+2113,CK304,Lw nd Irish
+2114,CK307,Lw nd Business
+2115,CK401,Copuer Science
+2116,CK402,Biologicl nd Cheicl Sciences
+2117,CK404,Biologicl Erh nd Environenl Sciences
+2118,CK405,Geneics
+2119,CK406,Cheicl Sciences
+2120,CK407,Mheicl Sciences
+2121,CK408,Physics nd Asrophysics
+2122,CK409,Indusril Physics (offered joinly by UCC nd CIT)
+2123,CK411,D Science nd Anlyics
+2124,CK412,Agriculurl Science
+2125,CK502,Food Mrkeing nd Enrepreneurship
+2126,CK504,Nuriionl Sciences
+2127,CK505,Food Science
+2128,CK506,Inernionl Developen nd Food Policy
+2129,CK600,Engineering
+2130,CK606,Archiecure (offered joinly by UCC nd CIT)
+2131,CK701,Medicine (Undergrdue Enry - HPAT required)
+2132,CK702,Denisry
+2133,CK703,Phrcy
+2134,CK704,Occupionl Therpy
+2135,CK705,Speech nd Lnguge Therpy
+2136,CK706,Public Helh Sciences
+2137,CK707,Medicl nd Helh Sciences
+2138,CK710,Generl Nursing
+2139,CK712,Children`s nd Generl Nursing (Inegred)
+2140,CK720,Menl Helh Nursing
+2141,CK730,Inellecul Disbiliy Nursing
+2142,CK740,Midwifery
+2143,CK791,Medicine  - Grdue Enry (GAMSAT required)
+2144,AC120,Inernionl Business
+2145,AC137,Liberl Ars
+2146,CT125,Inforion Technology
+2147,CM001,Educion - Priry Teching
+2148,CM002,Educion - Priry Teching - Gelch Applicns
+2149,CM003,Oidechs - Bunhúineoirech Trí Mheán n Geilge
+2150,CM004,Oidechs - Bunhúineoirech Trí Mheán n Geilge (dlí Gelch)
+2151,CM010,Educion Sudies
+2152,CM020,Erly Childhood Educion
+2153,DB500,Copuing
+2154,DB501,Copuing (Cloud Copuing)
+2155,DB502,Copuing (D Anlyics nd Big D)
+2156,DB503,Copuing (Sofwre Developen)
+2157,DB504,Copuing (Web nd Mobile Technology)
+2158,DB510,Audio Producion nd Music Projec Mngeen
+2159,DB512,Business Sudies
+2160,DB514,Business Sudies (Lw)
+2161,DB515,Business Sudies (Hun Resource Mngeen)
+2162,DB516,Finncil Services
+2163,DB517,Even Mngeen
+2164,DB518,Mrkeing (Digil Medi)
+2165,DB521,Accouning nd Finnce
+2166,DB524,Business Inforion Syses
+2167,DB525,Mrkeing (Digil Medi nd Cloud Copuing)
+2168,DB526,Business Inforion Syses (Cloud Copuing)
+2169,DB527,Applied Socil Cre
+2170,DB531,Mrkeing
+2171,DB562,Psychology
+2172,DB566,Socil Science
+2173,DB567,Fil
+2174,DB568,Lw
+2175,DB569,Business (Psychology)
+2176,DC001,Educion - Erly Childhood Educion
+2177,DC002,Educion - Priry Teching
+2178,DC003,Educion - Priry Teching - Gelch Applicns
+2179,DC004,Educion - Priry Teching (Church of Irelnd Cenre forerly CICE)
+2180,DC005,Educion - Priry Teching - Irish Sign Lnguge
+2181,DC009,Ars (Join Honours) - Huniies
+2182,DC010,Pos Priry Techer Educion - Religious Educion nd English
+2183,DC011,Pos Priry Techer Educion - Religious Educion nd Hisory
+2184,DC012,Pos Priry Techer Educion - Religious Educion nd Music
+2185,DC013,Pos Priry Techer Ed - Geilge wih French/Gern/Spnish
+2186,DC014,BA in Jzz nd Coneporry Music Perfornce
+2187,DC110,Business Sudies Inernionl
+2188,DC111,Business Sudies
+2189,DC112,Globl Business (Frnce)
+2190,DC113,Globl Business (Gerny)
+2191,DC114,Globl Business (Spin)
+2192,DC115,Accouning nd Finnce
+2193,DC116,Globl Business (USA)
+2194,DC117,Aviion Mngeen / Aviion Mngeen wih Pilo Sudies
+2195,DC118,Gnó gus Geilge / Business nd Irish
+2196,DC119,Globl Business (Cnd)
+2197,DC120,Enerprise Copuing
+2198,DC121,Copuer Applicions
+2199,DC123,D Science
+2200,DC126,Acuril Mheics
+2201,DC127,Coon Enry ino Acuril nd Finncil Mheics
+2202,DC131,Counicion Sudies
+2203,DC132,Journlis
+2204,DC133,Muliedi
+2205,DC155,Applied Lnguge nd Trnslion Sudies
+2206,DC161,Anlyicl Science
+2207,DC162,Cheicl nd Phrceuicl Sciences
+2208,DC166,Environenl Science nd Technology
+2209,DC167,Physics wih Asronoy
+2210,DC168,Geneics nd Cell Biology
+2211,DC171,Applied Physics
+2212,DC173,Physics wih Bioedicl Sciences
+2213,DC181,Bioechnology
+2214,DC190,Elecronic nd Copuer Engineering (wih choice of four jors)
+2215,DC193,Mechronic Engineering
+2216,DC195,Mechnicl nd Mnufcuring Engineering
+2217,DC197,Bioedicl Engineering
+2218,DC200,Coon Enry ino Engineering (Undenoined Enry)
+2219,DC201,Coon Enry ino Science (Undenoined Enry)
+2220,DC202,Spor Science nd Helh
+2221,DC203,Science Educion
+2222,DC204,Ahleic Therpy nd Trining
+2223,DC205,Physicl Educion wih Biology
+2224,DC206,Physicl Educion wih Mheics
+2225,DC208,Psychology
+2226,DC209,Helh nd Sociey
+2227,DC215,Generl Nursing
+2228,DC216,Menl Helh Nursing
+2229,DC217,Inellecul Disbiliy Nursing
+2230,DC218,Children's nd Generl Nursing (Inegred)
+2231,DC230,Econoics Poliics nd Lw
+2232,DC231,Inernionl Relions
+2233,DC232,Lw nd Sociey (BCL)
+2234,DC235,Educion nd Trining - Dyie Delivery Mode (full-ie)
+2235,DC238,Socil Sciences nd Culurl Innovion
+2236,DC240,Mrkeing Innovion nd Technology
+2237,DC291,Ars (Join Honours) - Medi Sudies
+2238,DC292,Ars (Join Honours) - Lw
+2239,DC293,Ars (Join Honours) - Inernionl Lnguges
+2240,DC295,Ars (Join Honours) - Poliics
+2241,DT001,Produc Design
+2242,DT028,Trnspor Operions nd Technology
+2243,DT035,Elecricl Services nd Energy Mngeen
+2244,DT066,Engineering (Generl Enry)
+2245,DT101,Archiecure (es nd inerview)
+2246,DT106,Plnning nd Environenl Mngeen
+2247,DT110,Propery Econoics (Vluion Surveying)
+2248,DT111,Quniy Surveying nd Consrucion Econoics
+2249,DT112,Geogrphic Science
+2250,DT117,Consrucion Mngeen
+2251,DT175,Archiecurl Technology
+2252,DT201,Science (Generl Enry)
+2253,DT203,Anlyicl Cheisry (Environenl Forensic nd Phrceuicl)
+2254,DT204,Bioedicl Science
+2255,DT205,Mheicl Sciences
+2256,DT206,Bioedicl nd Moleculr Dignosics
+2257,DT211,Copuer Science (Infrsrucure)
+2258,DT220,Indusril Mheics
+2259,DT221,Physics wih Energy nd Environen
+2260,DT222,Physics Technology
+2261,DT223,Hun Nuriion nd Dieeics
+2262,DT224,Opoery
+2263,DT225,Public Helh Nuriion
+2264,DT227,Science wih Nnoechnology
+2265,DT228,Copuer Science
+2266,DT229,Clinicl Mesureen Science
+2267,DT235,Physics wih Medicl Physics nd Bioengineering
+2268,DT282,Copuer Science (Inernionl)
+2269,DT299,Cheicl Sciences wih Medicinl Cheisry
+2270,DT302,Business Anlyics
+2271,DT304,E-Coerce in Reiling
+2272,DT321,Business nd Lw
+2273,DT341,Mrkeing
+2274,DT343,Reil nd Services Mngeen
+2275,DT354,Business Copuing
+2276,DT358,Logisics nd Supply Chin Mngeen
+2277,DT365,Business nd Mngeen
+2278,DT366,Accouning nd Finnce
+2279,DT398,Hun Resource Mngeen
+2280,DT399,Econoics nd Finnce
+2281,DT401,Inernionl Hospiliy Mngeen
+2282,DT405,Culinry Science
+2283,DT407,Culinry Ars
+2284,DT412,Touris Mrkeing
+2285,DT413,Even Mngeen
+2286,DT416,Culinry Enrepreneurship
+2287,DT420,Nurceuicls in Helh nd Nuriion
+2288,DT421,Food Innovion
+2289,DT422,Phrceuicl Helhcre
+2290,DT491,Environenl Helh
+2291,DT501,Music
+2292,DT504,Fil nd Brodcsing
+2293,DT506,Coercil Modern Music
+2294,DT508,Ge Design
+2295,DT517,Lnguges nd English Sudies
+2296,DT518,Lnguges nd Inernionl Touris
+2297,DT529,Dr (Perfornce)
+2298,DT532,Lw (LL.B.)
+2299,DT533,Coneporry Visul Culure
+2300,DT544,Inerior Design
+2301,DT545,Design - Visul Counicion
+2302,DT546,Fine Ar
+2303,DT555,Inernionl Business nd Lnguges
+2304,DT559,Phoogrphy
+2305,DT571,Socil Cre
+2306,DT572,Erly Childhood Educion
+2307,DT582,Journlis
+2308,DT596,Prin Medi Technology nd Mngeen
+2309,DT597,Creive nd Culurl Indusries
+2310,DL821,English Medi nd Culurl Sudies
+2311,DL822,Ars Mngeen
+2312,DL823,Business Sudies - Enrepreneurship nd Mngeen
+2313,DL825,Applied Psychology
+2314,DL826,Visul Counicion Design
+2315,DL827,Ar
+2316,DL828,3D Design Modelking nd Digil Ar
+2317,DL829,Design for Sge nd Screen (Cosue Design)
+2318,DL830,Design for Sge nd Screen (Mkeup Design)
+2319,DL831,Design for Sge nd Screen (Producion Design)
+2320,DL832,Aniion
+2321,DL833,Phoogrphy
+2322,DL834,Fil nd Television Producion
+2323,DL835,Creive Medi Technologies
+2324,DL836,Creive Copuing
+2325,DL837,New Medi Sudies
+2326,DL838,Creive Music Producion
+2327,GC200,Business Sudies (Cork)
+2328,GC201,Accouning nd Finnce (Cork)
+2329,GC230,Copuing Science (Cork)
+2330,GC300,Business Sudies (Lierick)
+2331,GC301,Accouning nd Finnce
+2332,GC302,Business Sudies - (HRM Lierick)
+2333,GC305,Inernionl Hospiliy Mngeen (Lierick)
+2334,GC400,Business Sudies (Dublin)
+2335,GC401,Accouning nd Finnce (Dublin)
+2336,GC402,Business Sudies (HRM Dublin)
+2337,GC403,Lw (Dublin)
+2338,GC405,Inernionl Hospiliy Mngeen (Dublin)
+2339,GC407,Business Sudies (Mrkeing Dublin)
+2340,GC430,Copuing Science (Dublin)
+2341,GC450,Journlis nd Visul Medi (Dublin)
+2342,GC462,Design Counicion (Dublin)
+2343,GC489,Inerior Archiecure (Dublin)
+2344,GC494,Fshion Design (Dublin)
+2345,ID001,Accouning nd Finnce
+2346,ID002,Business Sudies
+2347,ID003,Business Sudies wih Chinese
+2348,BN101,Business
+2349,BN103,Business nd Inforion Technology
+2350,BN104,Copuing (Inforion Technology)
+2351,BN107,Applied Socil Sudies in Socil Cre
+2352,BN108,Engineering (Coon Enry wih Awrd opions)
+2353,BN109,Business (Coon Enry wih Awrd opions)
+2354,BN110,Inernionl Business
+2355,BN111,Spors Mngeen nd Coching
+2356,BN112,Creive Digil Medi
+2357,BN113,Horiculure
+2358,BN114,Accouning nd Finnce
+2359,BN115,Couniy nd Youh Developen
+2360,BN117,Copuer Engineering in Mobile Syses
+2361,BN118,Erly Childhood Cre nd Educion
+2362,BN119,Digil Mrkeing
+2363,BN120,Digil Forensics nd Cyber Securiy
+2364,BN121,Mechronic Engineering
+2365,BN123,DesignTechnology nd Innovion
+2366,TA022,Creive Digil Medi
+2367,TA023,Adverising nd Mrkeing Counicions
+2368,TA024,Erly Childhood Cre nd Educion
+2369,TA025,Socil Cre Prcice
+2370,TA026,Inernionl Hospiliy nd Touris Mngeen
+2371,TA027,Bonicl Cuisine
+2372,TA028,Digil Mrkeing Technologies
+2373,TA121,Accouning nd Finnce
+2374,TA122,Mngeen
+2375,TA123,Mrkeing Mngeen
+2376,TA125,Inernionl Business
+2377,TA221,Elecronic Engineering
+2378,TA222,Mechnicl Engineering
+2379,TA223,Susinble Energy Engineering
+2380,TA224,Bioedicl Design
+2381,TA225,Auoion Engineering
+2382,TA226,Engineering Sofwre
+2383,TA321,Phrceuicl Science
+2384,TA322,Copuing
+2385,TA323,Copuing wih IT Mngeen
+2386,TA326,DNA nd Forensic Anlysis
+2387,TA327,Spors Science nd Helh
+2388,TA328,Copuing wih Lnguge (French/Gern/Spnish)
+2389,TA329,Copuing wih D Anlyics
+2390,AD101,Firs Yer Ar & Design (Coon Enry)
+2391,AD102,Grphic Design nd Moving Ige Design
+2392,AD103,Texile & Surfce Design nd Jewellery & Objecs
+2393,AD202,Educion & Design or Fine Ar (Second Level Teching)
+2394,AD204,Fine Ar
+2395,AD211,Fshion Design
+2396,AD212,Produc Design
+2397,AD215,Visul Culure
+2398,AD217,Illusrion
+2399,AD222,Inercion Design
+2400,NC003,Copuing (Degree Awrd opions)
+2401,NC005,Hun Resource Mngeen
+2402,NC009,Business
+2403,NC010,Psychology
+2404,NC020,Mrkeing Prcice
+2405,NC022,Accouning nd Finnce
+2406,NC023,Technology Mngeen (wih specilisions)
+2407,NC025,D Science
+2408,RC001,Medicine - Undergrdue Enry (HPAT required)
+2409,RC004,Physioherpy
+2410,RC005,Phrcy
+2411,RC101,Medicine - Grdue Enry (GAMSAT required)
+2412,TR002,Music
+2413,TR003,Hisory
+2414,TR004,Lw
+2415,TR005,Philosophy
+2416,TR006,Psychology
+2417,TR007,Clinicl Speech nd Lnguge Sudies
+2418,TR009,Music Educion
+2419,TR012,Hisory nd Poliicl Science
+2420,TR015,Philosophy Poliicl Science Econoics nd Sociology
+2421,TR016,Def Sudies
+2422,TR017,Lw nd Business
+2423,TR018,Lw nd French
+2424,TR019,Lw nd Gern
+2425,TR020,Lw nd Poliicl Science
+2426,TR021,Clssics Ancien Hisory nd Archeology
+2427,TR022,Erly nd Modern Irish
+2428,TR023,English Sudies
+2429,TR024,Europen Sudies
+2430,TR025,Dr nd There Sudies
+2431,TR028,Ancien nd Medievl Hisory nd Culure
+2432,TR029,Poliicl Science nd Geogrphy
+2433,TR031,Mheics
+2434,TR032,Engineering
+2435,TR033,Copuer Science
+2436,TR034,Mngeen Science nd Inforion Syses Sudies
+2437,TR035,Theoreicl Physics
+2438,TR038,Engineering wih Mngeen
+2439,TR039,Copuer Science nd Lnguge
+2440,TR040,Middle Esern nd Europen Lnguges nd Culures
+2441,TR041,Religion
+2442,TR051,Medicine (HPAT required)
+2443,TR052,Denl Science
+2444,TR053,Physioherpy
+2445,TR054,Occupionl Therpy
+2446,TR055,Rdiion Therpy
+2447,TR056,Hun Helh nd Disese
+2448,TR060,Biologicl nd Bioedicl Sciences
+2449,TR061,Cheicl Sciences
+2450,TR062,Geogrphy nd Geoscience
+2451,TR063,Physicl Sciences
+2452,TR072,Phrcy
+2453,TR080,Globl Business
+2454,TR081,Business Econoic nd Socil Sudies (BESS)
+2455,TR082,Copuer Science nd Business
+2456,TR083,Sociology nd Socil Policy
+2457,TR084,Socil Sudies (Socil Work)
+2458,TR085,Business Sudies nd French
+2459,TR086,Business Sudies nd Gern
+2460,TR087,Business Sudies nd Russin
+2461,TR089,Business Sudies nd Polish
+2462,TR090,Business Sudies nd Spnish
+2463,TR091,Generl Nursing (Meh nd S Jes`s)
+2464,TR093,Generl Nursing (Adelide School of Nursing)
+2465,TR095,Menl Helh Nursing
+2466,TR097,Inellecul Disbiliy Nursing
+2467,TR911,Children`s nd Generl Nursing (Inegred)
+2468,TR913,Midwifery
+2469,DN100,Archiecure
+2470,DN120,Lndscpe Archiecure
+2471,DN130,Ciy Plnning nd Environenl Policy
+2472,DN150,Engineering (Coon Enry)
+2473,DN200,Science (opions)
+2474,DN201,Copuer Science (Coon Enry)
+2475,DN230,Acuril nd Finncil Sudies
+2476,DN250,Agriculurl Science (opions)
+2477,DN252,Diry Business
+2478,DN253,Agri - Environenl Sciences
+2479,DN261,Food Science
+2480,DN262,Hun Nuriion
+2481,DN271,Foresry
+2482,DN272,Horiculure Lndscpe nd Sporsurf Mngeen
+2483,DN300,Veerinry Medicine - Undergrdue Enry
+2484,DN301,Veerinry Medicine - Grdue Enry
+2485,DN310,Veerinry Nursing
+2486,DN400,Medicine - Undergrdue Enry (HPAT required)
+2487,DN401,Medicine - Grdue Enry (GAMSAT required)
+2488,DN410,Rdiogrphy
+2489,DN411,Rdiogrphy - Grdue Enry
+2490,DN420,Physioherpy
+2491,DN425,Helh nd Perfornce Science
+2492,DN430,Spor nd Exercise Mngeen
+2493,DN440,Bioedicl Helh nd Life Sciences
+2494,DN450,Generl Nursing
+2495,DN451,Children`s nd Generl Nursing (Inegred)
+2496,DN452,Midwifery
+2497,DN453,Menl Helh Nursing
+2498,DN520,Ars (Two Subjecs)
+2499,DN530,Huniies (opions)
+2500,DN541,Modern Lnguges (opions)
+2501,DN600,Lw (opions)
+2502,DN610,Business nd Lw
+2503,DN650,Coerce
+2504,DN660,Coerce Inernionl (opions)
+2505,DN670,Econoics nd Finnce
+2506,DN700,Socil Sciences (opions)
+2507,DN710,Econoics
+2508,DN720,Psychology
+2509,DN750,Socil Policy nd Sociology
+2510,DK810,Accouning nd Finnce
+2511,DK816,Business Sudies
+2512,DK820,Copuing in Ges Developen
+2513,DK821,Copuing in Sofwre Developen
+2514,DK830,Building Surveying
+2515,DK831,Archiecurl Technology
+2516,DK832,Consrucion Mngeen
+2517,DK843,Engineering (Coon Enry)
+2518,DK860,Music
+2519,DK861,Ars
+2520,DK862,Socil Cre
+2521,DK863,Creive Medi
+2522,DK864,Fil nd Television Producion
+2523,DK865,Audio nd Music Producion
+2524,DK870,Generl Nursing
+2525,DK872,Inellecul Disbiliy Nursing
+2526,DK874,Menl Helh Nursing
+2527,DK876,Erly Childhood Sudies
+2528,DK877,Midwifery
+2529,DK880,Helh nd Physicl Aciviy
+2530,DK882,Agriculure (Awrd opions)
+2531,DK883,Science (Awrd opions)
+2532,GA181,Accouning
+2533,GA182,Business
+2534,GA183,Business Inforion Syses
+2535,GA184,Mrkeing nd Sles
+2536,GA185,Finnce nd Econoics
+2537,GA186,Business wih Enrepreneurship
+2538,GA187,Rurl Enerprise nd Agri-Business (Mounbellew Cpus)
+2539,GA281,Fil nd Docuenry
+2540,GA282,Herige Sudies
+2541,GA283,Coneporry Ar
+2542,GA284,Design
+2543,GA380,Inernionl Hoel Mngeen
+2544,GA381,Inernionl Touris Mngeen
+2545,GA382,Culinry nd Gsronoic Science
+2546,GA384,Even Mngeen wih Public Relions
+2547,GA385,Reil Mngeen
+2548,GA480,Consrucion Mngeen
+2549,GA482,Quniy Surveying nd Consrucion Econoics
+2550,GA483,Archiecurl Technology
+2551,GA484,Civil Engineering
+2552,GA580,Sofwre nd Elecronic Engineering
+2553,GA680,Mechnicl Engineering
+2554,GA681,Energy Engineering
+2555,GA682,Bioedicl Engineering
+2556,GA683,Agriculurl Engineering
+2557,GA684,Engineering (Coon enry o Agri/Bioed/Energy/Mech Eng)
+2558,GA780,Applied Freshwer nd Mrine Biology
+2559,GA781,Applied Biology nd Biophrceuicl Science
+2560,GA782,Cheicl nd Phrceuicl Science
+2561,GA783,Physics nd Insruenion
+2562,GA784,Science (Undenoined)
+2563,GA785,Medicl Science
+2564,GA786,Forensic Science nd Anlysis
+2565,GA787,Copuing in Sofwre Developen
+2566,GA788,Copuing nd Digil Medi
+2567,GA789,Agriculure nd Environenl Mngeen (Mounbellew Cpus)
+2568,GA790,Spor nd Exercise Science
+2569,GA791,Public Helh Nuriion
+2570,GA880,Generl Nursing - Myo Cpus
+2571,GA882,Psychiric Nursing - Myo Cpus
+2572,GA885,Oudoor Educion - Myo Cpus
+2573,GA887,Hisory nd Geogrphy - Myo Cpus
+2574,GA889,Applied Socil Cre - Myo Cpus
+2575,GA890,Erly Childhood Cre nd Educion - Myo Cpus
+2576,GA980,Educion (Design Grphics nd Consrucion) - Leerfrck Cpus
+2577,GA981,Furniure Design nd Mnufcure - Leerfrck Cpus
+2578,GA982,Furniure nd Wood Technology - Leerfrck Cpus
+2579,GY101,Ars (Join-Honours)
+2580,GY104,Ars (Psychology)
+2581,GY105,Ars (Hisory)
+2582,GY107,N Dán (Geilge gus Lénn n Aisriúcháin)
+2583,GY109,Ars (Mheics nd Educion)
+2584,GY110,Ars wih Children's Sudies
+2585,GY111,Ars wih Creive Wriing
+2586,GY112,Ars wih Fil Sudies
+2587,GY113,Ars wih Hun Righs
+2588,GY115,Ars wih Perforing Ars Sudies
+2589,GY118,Ars (Dr There nd Perfornce Sudies)
+2590,GY119,Journlis
+2591,GY120,Ars (Child Youh nd Fily: Policy nd Prcice)
+2592,GY121,Ars (Children's Sudies)
+2593,GY122,N Dán (Cursáid gus Geilge) 
+2594,GY123,BSc (Applied Socil Sciences)
+2595,GY124,Ars (Ars wih D Science)
+2596,GY125,Ars (Digil Ars nd Technology)
+2597,GY126,Ars (English nd Medi Sudies)
+2598,GY127,Ars (Fil nd Digil Medi)
+2599,GY128,Ars (Globl Lnguges)
+2600,GY129,Ars (Inernionl)
+2601,GY130,Ars (Music)
+2602,GY131,Ars (Hisory nd Globlision Sudies)
+2603,GY132,Governen (Poliics Econoics nd Lw)
+2604,GY133,Educion (Copuer Science nd Mheicl  Sudies)
+2605,GY201,Coerce
+2606,GY202,Coerce (Inernionl) wih French
+2607,GY203,Coerce (Inernionl) wih Gern
+2608,GY204,Coerce (Inernionl) wih Spnish
+2609,GY206,Business Inforion Syses (Work Plceen & Opionl In`l Sudy)
+2610,GY207,Coerce (Accouning) including opionl Globl Experience yer
+2611,GY208,Coerce (Geilge)
+2612,GY209,Coerce (Globl Experience)
+2613,GY250,Lw & Business
+2614,GY251,Lw
+2615,GY252,Lw & Hun Righs
+2616,GY261,Business Sudies (Inernionl Hoel Mngeen Shnnon)
+2617,GY262,Coerce (Inernionl Hoel Mngeen Shnnon)
+2618,GY301,Science
+2619,GY303,Bioedicl Science
+2620,GY304,Bioechnology
+2621,GY308,Environenl Science
+2622,GY309,Finncil Mheics nd Econoics
+2623,GY310,Mrine Science
+2624,GY313,Environenl Helh nd Sfey
+2625,GY314,Erh nd Ocen Sciences
+2626,GY318,Biophrceuicl Cheisry
+2627,GY319,Mheicl Science
+2628,GY320,Physics (Degree opions: AppliedAsrophysicsBioediclTheoreicl)
+2629,GY350,Copuer Science nd Inforion Technology
+2630,GY401,Engineering (Undenoined)
+2631,GY402,Civil Engineering
+2632,GY405,Mechnicl Engineering
+2633,GY406,Elecronic nd Copuer Engineering
+2634,GY408,Bioedicl Engineering
+2635,GY410,Projec nd Consrucion Mngeen
+2636,GY413,Energy Syses Engineering
+2637,GY414,Elecricl nd Elecronic Engineering
+2638,GY501,Medicine (five yer/six yer course HPAT required)
+2639,GY502,Occupionl Therpy
+2640,GY503,Speech nd Lnguge Therpy
+2641,GY504,Podiric Medicine
+2642,GY515,Generl Nursing (Glwy nd Poriuncul)
+2643,GY516,Menl Helh Nursing
+2644,GY517,Midwifery
+2645,LY108,Business - Accouning
+2646,LY118,Business
+2647,LY208,Lw
+2648,LY218,Business - wih Spnish/Irish opions
+2649,LY228,Spors nd Exercise (Coon Enry)
+2650,LY408,Design (Coon Enry)
+2651,LY508,Fire Sfey Engineering
+2652,LY518,Quniy Surveying
+2653,LY528,Consrucion Mngeen
+2654,LY608,Mechnicl Engineering
+2655,LY618,Elecronics nd Ebedded Syses
+2656,LY708,Applied Copuing
+2657,LY818,Science (Coon Enry)
+2658,LY828,Agriculure (Coon Enry)
+2659,LY908,Generl Nursing
+2660,LY918,Psychiric Nursing
+2661,LY928,Inellecul Disbiliy Nursing
+2662,LY968,Erly Childhood Cre Helh nd Educion
+2663,LY978,Helh & Socil Cre (Coon Enry)
+2664,MI001,Coneporry & Applied There Sudies
+2665,MI002,Ars (offered in conjuncion wih he Universiy of Lierick)
+2666,MI005,Educion - Priry Teching
+2667,MI006,Educion - Priry Teching (Gelch Applicns)
+2668,MI007,Erly Childhood Cre nd Educion
+2669,MI008,Educion nd Psychology - Priry Teching
+2670,MI009,Educion Business Sudies nd Accouning (Thurles Cpus)
+2671,MI010,Educion Business Sudies nd Religious Sudies (Thurles Cpus)
+2672,MI011,Educion Irish nd Religious Sudies (Thurles Cpus)
+2673,MI012,Educion Irish nd Business Sudies (Thurles Cpus)
+2674,MI013,Educion Mheics nd Geilge (Thurles Cpus)
+2675,CI101,Counselling nd Psychoherpy (Lierick)
+2676,LC110,Ar nd Design (Coon Enry porfolio)
+2677,LC114,Fshion nd Texiles for Produc nd Cosue (porfolio)
+2678,LC220,Digil Mrkeing
+2679,LC223,Lw nd Txion
+2680,LC224,Accouning nd Finnce
+2681,LC225,Mrkeing nd Mngeen
+2682,LC226,Enerprise nd Innovion
+2683,LC233,Sofwre Developen
+2684,LC234,Inercive Digil Medi
+2685,LC236,Inerne Syses Developen
+2686,LC239,Copuer Neworks nd Syses Mngeen
+2687,LC241,Consrucion Mngeen
+2688,LC242,Propery Vluion nd Mngeen
+2689,LC243,Quniy Surveying
+2690,LC248,Buil Environen (Coon Enry)
+2691,LC252,Civil Engineering Mngeen
+2692,LC263,Clinicl Technology
+2693,LC265,Forensic nd Phrceuicl Sciences
+2694,LC266,Drug nd Medicinl Produc Anlysis
+2695,LC275,Elecricl Engineering
+2696,LC288,Mechnicl Engineering
+2697,LC289,Precision Engineering
+2698,LC292,Socil Cre Work
+2699,LC293,Business Sudies wih Trvel nd Touris Mngeen
+2700,LC294,Business Sudies wih Even Mngeen
+2701,LC295,Business Sudies wih Spors Mngeen
+2702,LC297,Couniy Developen
+2703,LC320,Business
+2704,LC330,Business wih Copuing
+2705,LC340,Inerior Design
+2706,LC362,Bioechnology nd Biophrceuicl Sciences
+2707,LC371,Creive Brodcs nd Fil Producion
+2708,LC372,Music Technology nd Producion
+2709,LC374,Renewble nd Elecricl Energy Engineering
+2710,LC375,Indusril Auoion & Roboic Syses
+2711,LC376,Elecronic Engineering
+2712,LC380,Auooive Engineering nd Trnspor Mngeen
+2713,LC392,Beuy nd Sp Mngeen
+2714,LC393,Erly Childhood Educion & Cre
+2715,LC401,Erly Childhood Educion & Cre (Thurles)
+2716,LC402,Socil Cre Work (Thurles)
+2717,LC408,Environenl nd Geogrphicl Sciences (Thurles)
+2718,LC411,Mrkeing nd Mngeen (Thurles)
+2719,LC418,Copuing - Ges Design nd Developen (Thurles)
+2720,LC422,Spors Srengh nd Condiioning (Thurles)
+2721,LC434,Environenl Mngeen in Agriculure (Thurles)
+2722,LC502,Ge Ar nd Design (Clonel porfolio)
+2723,LC517,Creive Medi nd Design (Clonel)
+2724,LC518,Digil Aniion Producion (Clonel porfolio)
+2725,LC612,Socil Cre Work (Ennis)
+2726,LC613,Erly Childhood Educion & Cre (Ennis)
+2727,LM002,Ars (offered in conjuncion wih Mry Icule College)
+2728,LM020,Lw nd Accouning
+2729,LM026,Perforing Ars (udiion required)
+2730,LM028,Criinl Jusice
+2731,LM029,Lw Plus
+2732,LM038,Psychology nd Sociology
+2733,LM039,Journlis nd New Medi
+2734,LM040,Europen Sudies
+2735,LM044,Applied Lnguges
+2736,LM050,Business Sudies
+2737,LM056,Inernionl Business
+2738,LM058,Finncil Mheics
+2739,LM063,Technology Mngeen
+2740,LM068,Food Science nd Helh
+2741,LM076,Produc Design nd Technology (porfolio required)
+2742,LM077,Aeronuicl Engineering
+2743,LM082,Consrucion Mngeen nd Engineering
+2744,LM089,Spor nd Exercise Sciences
+2745,LM090,Physicl Educion wih concurren Techer Educion
+2746,LM092,Science wih Techer Ed (Biology wih Physics/Cheisry/Ag Science)
+2747,LM093,Equine Science
+2748,LM094,Merils nd Archiecurl Technology wih concurren Techer Educion
+2749,LM095,Merils nd Engineering Technology wih concurren Techer Educion
+2750,LM096,Science wih Techer Ed (Physicl Sciences wih Cheisry nd Physics)
+2751,LM099,Archiecure (porfolio required)
+2752,LM100,Physioherpy
+2753,LM101,Medicine  - Grdue Enry (GAMSAT required)
+2754,LM102,Psychology
+2755,LM103,Predic Sudies (B nd C1 Drivers Licence)
+2756,LM115,Cheicl nd Biocheicl Engineering
+2757,LM116,Engineering (Bioedicl/Civil/Design nd Mnufcure/Mechnicl)
+2758,LM118,Elecronic nd Copuer Engineering
+2759,LM121,Copuer Science (Copuer Syses/Ges Dev/Mobile Co Securiy)
+2760,LM122,Creive Medi nd Inercion Design (Digil Design/Music Medi Tech)
+2761,LM123,Biologicl & Cheicl Sciences (Biosci/Envir Sci/Ind Bio/IndPhr Che)
+2762,LM124,Mheics (Mh Science/Mhs nd Physics/Econoics nd Mh Scienc
+2763,LM125,Physics (Applied Physics/Mheics nd Physics)
+2764,LM150,Generl Nursing
+2765,LM152,Menl Helh Nursing
+2766,LM154,Inellecul Disbiliy Nursing
+2767,LM156,Midwifery
+2768,MU001,Theology nd Ars
+2769,MU002,Theology
+2770,MH001,Educion - Priry Teching (Froebel)
+2771,MH002,Educion - Priry Teching - Gelch Applicns (Froebel)
+2772,MH101,Ars
+2773,MH103,Music
+2774,MH106,Psychology - 3 yers
+2775,MH107,Socil Science
+2776,MH109,Medi Sudies
+2777,MH116,Couniy nd Youh Work (Full-Tie)
+2778,MH201,Science
+2779,MH202,Bioechnology
+2780,MH204,Physics wih Asrophysics
+2781,MH206,Theoreicl Physics nd Mheics
+2782,MH207,D Science
+2783,MH208,Biologicl nd Bioedicl Sciences
+2784,MH209,Psychology (hrough Science) - 4 yers
+2785,MH210,Phrceuicl nd Bioedicl Cheisry
+2786,MH212,Science/Copuer Science/Mheics (wih Educion) - opions
+2787,MH304,Engineering (Copuer/Elecronic/Counicions)
+2788,MH305,Produc Design
+2789,MH306,Roboics nd Inelligen Devices
+2790,MH401,Finnce (opions)
+2791,MH402,Quniive Finnce
+2792,MH403,Accouning nd Finnce
+2793,MH404,Business (opions)
+2794,MH405,Equine Business
+2795,MH407,Business nd Accouning
+2796,MH411,Enrepreneurship
+2797,MH501,LLB Lw - four yer Single Mjor Lw progre
+2798,MH502,Lw (opions)
+2799,MH601,Copuer Science hrough Ars (opions)
+2800,MH602,Copuer Science hrough Science (opions)
+2801,MH603,Copuionl Thinking
+2802,MH801,Erly Childhood - Teching nd Lerning (pr-ie)
+2803,MH802,Couniy nd Youh Work (pr-ie in service
+2804,MH803,Locl Sudies or Couniy Sudies (pr-ie evening)- Mure Sudens
+2805,AS001,Educion Hoe Econoics nd Biology - wih concurren Techer Ed
+2806,AS002,Educion Hoe Econoics nd Religious Ed - wih concurren Techer Ed
+2807,AS003,Educion Hoe Econoics nd Irish - wih concurren Techer Ed
+2808,AS051,Nuriion Food nd Business Mngeen
+2809,AS054,Hoe Econoics
+2810,AS110,Generl Nursing
+2811,AS130,Inellecul Disbiliy Nursing
+2812,SG141,Business
+2813,SG142,Business in Inernionl Mrkeing nd Sles wih French
+2814,SG144,Business in Inernionl Mrkeing nd Sles wih Spnish
+2815,SG146,Accouning
+2816,SG147,Spor wih Business
+2817,SG148,Touris wih Even Mngeen
+2818,SG149,Business in Finnce nd Invesen
+2819,SG241,Perforing Ars
+2820,SG242,Erly Childhood Cre nd Educion
+2821,SG243,Socil Cre Prcice
+2822,SG244,Fine Ar
+2823,SG245,Creive Design
+2824,SG246,Copuing
+2825,SG247,English nd Psychology
+2826,SG248,Sociology nd Poliics
+2827,SG249,Wriing nd Lierure
+2828,SG250,Applicion Design nd User Experience
+2829,SG251,Copuing (Sr Technologies)
+2830,SG252,Sofwre Developen
+2831,SG253,Copuer Neworks nd Cloud Infrsrucure
+2832,SG343,Quniy Surveying
+2833,SG346,Consrucion Projec Mngeen nd Applied Technology
+2834,SG347,Archiecure
+2835,SG441,Environenl Science
+2836,SG442,Occupionl Sfey nd Helh
+2837,SG443,Hun Nuriion
+2838,SG444,Science (Undenoined)
+2839,SG445,Phrceuicl Science wih Drug Developen
+2840,SG446,Applied Archeology
+2841,SG447,Helh Science nd Physicl Aciviy
+2842,SG448,Forensic Invesigion nd Anlysis
+2843,SG449,Medicl Bioechnology
+2844,TL801,Aniion Visul Effecs nd Moion Design
+2845,TL802,TV Rdio nd New Medi
+2846,TL803,Music Technology
+2847,TL810,Copuing wih Sofwre Developen
+2848,TL811,Copuing wih Ges Developen
+2849,TL812,Copuing wih Digil Medi
+2850,TL815,Copuing (Degree Awrd opions)
+2851,TL823,Even Mngeen (3 yer progre)
+2852,TL831,Business Sudies (Mjor Specilis in: Accng or Mkg or Mgn)
+2853,TL842,Consrucion Mngeen
+2854,TL844,Agriculurl Engineering
+2855,TL845,Civil Engineering
+2856,TL847,Mnufcuring Engineering
+2857,TL848,Agriculurl Science
+2858,TL851,Wildlife Biology (Degree Awrd opions)
+2859,TL855,Phrceuicl Science (Degree Awrd opions)
+2860,TL858,Veerinry Bioscience
+2861,TL871,Helh nd Leisure (Degree Awrd opions)
+2862,TL872,Helh nd Leisure wih Mssge
+2863,TL873,Coching nd Spors Perfornce
+2864,TL880,Erly Childhood Cre nd Educion
+2865,TL881,Socil Cre
+2866,TL889,Counselling wih Addicion - Mure pplicns only
+2867,TL890,Generl Nursing nd Mure Applicns
+2868,TL891,Menl Helh Nursing nd Mure Applicns
+2869,WD001,Applied Copuing (opions)
+2870,WD002,Science (opions)
+2871,WD005,Helh Sciences (opions)
+2872,WD006,Exercise Sciences (opions)
+2873,WD007,Engineering (opions)
+2874,WD025,Consrucion Mngeen nd Engineering
+2875,WD027,Music
+2876,WD048,Business (opions)
+2877,WD084,Accouning
+2878,WD091,Hospiliy Mngeen
+2879,WD116,Generl Nursing
+2880,WD117,Psychiric Nursing
+2881,WD120,Inellecul Disbiliy Nursing
+2882,WD134,Inernionl Business
+2883,WD137,Design (Visul Counicions)
+2884,WD140,Lws
+2885,WD144,Archiecure
+2886,WD147,Phrceuicl Science
+2887,WD148,Touris Mrkeing
+2888,WD149,Erly Childhood Sudies
+2889,WD150,Criinl Jusice Sudies
+2890,WD152,Visul Ar
+2891,WD161,Copuer Forensics nd Securiy
+2892,WD162,Quniy Surveying
+2893,WD163,Psychology
+2894,WD186,Spors Coching nd Perfornce
+2895,WD187,Socil Science
+2896,WD191,Agriculurl Science
+2897,WD192,Socil Cre Prcice
+2898,WD193,Mrkeing nd Digil Medi
+2899,WD194,Culinry Ars
+2900,WD195,Archiecurl nd Building Inforion Modelling Technology
+2901,WD200,Ars (opions)
+2902,WD210,Sofwre Syses Developen
+2903,WD211,Creive Copuing
+2904,WD212,Recreion nd Spor Mngeen
+2905,WD230,Mechnicl nd Mnufcuring Engineering
