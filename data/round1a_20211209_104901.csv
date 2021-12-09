@@ -1,0 +1,1215 @@
+code,title,points_r1_2021,points_r1_2020,points_r1_2019,Change 21 vs 20,21 vs 20,21 vs 19,20 vs 19,,,,,,
+AL801,Software Design for Virtual Reality and Gaming,300,303,304,Points decrease,-3,-4,-1,-3,-4,-1,TRUE,TRUE,TRUE
+AL802,Software Design in Artificial Intelligence for Clo,313,332,301,Points decrease,-19,12,31,-19,12,31,TRUE,TRUE,TRUE
+AL803,Software Design for Mobile Apps and Connected Devi,350,337,309,Points decrease,13,41,28,13,41,28,TRUE,TRUE,TRUE
+AL805,Computer Engineering for Network Infrastructure,321,333,329,Points decrease,-12,-8,4,-12,-8,4,TRUE,TRUE,TRUE
+AL810,Quantity Surveying,328,319,307,Points decrease,9,21,12,9,21,12,TRUE,TRUE,TRUE
+AL811,Civil Engineering,,320,,Points decrease,,,,-320,0,320,FALSE,TRUE,FALSE
+AL820,Mechanical and Polymer Engineering,327,308,300,Points decrease,19,27,8,19,27,8,TRUE,TRUE,TRUE
+AL830,General Nursing,451,442,410,Points decrease,9,41,32,9,41,32,TRUE,TRUE,TRUE
+AL832,Mental Health Nursing,440,387,387,Points decrease,53,53,0,53,53,0,TRUE,TRUE,TRUE
+AL835,Pharmacology,356,,,Points decrease,,,,356,356,0,FALSE,FALSE,TRUE
+AL836,Nutrition and Health Science,346,334,352,Points decrease,12,-6,-18,12,-6,-18,TRUE,TRUE,TRUE
+AL837,Sports Science with Exercise Physiology,357,351,351,Points decrease,6,6,0,6,6,0,TRUE,TRUE,TRUE
+AL838,Biotechnology,324,307,302,Points decrease,17,22,5,17,22,5,TRUE,TRUE,TRUE
+AL839,Microbiology,325,325,322,Points decrease,0,3,3,0,3,3,TRUE,TRUE,TRUE
+AL840,Pharmaceutical Sciences,346,347,328,Points decrease,-1,18,19,-1,18,19,TRUE,TRUE,TRUE
+AL841,Athletic and Rehabilitation Therapy,477,430,423,Points decrease,47,54,7,47,54,7,TRUE,TRUE,TRUE
+AL842,Bioveterinary Science,338,313,310,Points decrease,25,28,3,25,28,3,TRUE,TRUE,TRUE
+AL843,Physical Activity and Health Science,306,306,310,Points decrease,0,-4,-4,0,-4,-4,TRUE,TRUE,TRUE
+AL849,Culinary Entrepreneurship,297,,,Points decrease,,,,297,297,0,FALSE,FALSE,TRUE
+AL850,Business,309,309,307,Points decrease,0,2,2,0,2,2,TRUE,TRUE,TRUE
+AL851,Business and Law,302,295,301,Points decrease,7,1,-6,7,1,-6,TRUE,TRUE,TRUE
+AL852,Accounting,336,309,290,Points decrease,27,46,19,27,46,19,TRUE,TRUE,TRUE
+AL854,Sport Management (with international placement),300,302,,Points decrease,-2,,,-2,300,302,TRUE,FALSE,FALSE
+AL855,Hospitality Management (with international placeme,309,308,312,Points decrease,1,-3,-4,1,-3,-4,TRUE,TRUE,TRUE
+AL857,Digital Marketing,304,304,300,Points decrease,0,4,4,0,4,4,TRUE,TRUE,TRUE
+AL859,International Business,308,,,Points decrease,,,,308,308,0,FALSE,FALSE,TRUE
+AL860,Social Care Practice,301,300,309,Points decrease,1,-8,-9,1,-8,-9,TRUE,TRUE,TRUE
+AL861,Animation and Illustration (portfolio),575,578,615,Points decrease,-3,-40,-37,-3,-40,-37,TRUE,TRUE,TRUE
+AL863,Graphic and Digital Design (portfolio),747,781,703,Points decrease,-34,44,78,-34,44,78,TRUE,TRUE,TRUE
+AL864,Early Years Care and Education,306,307,307,Points decrease,-1,-1,0,-1,-1,0,TRUE,TRUE,TRUE
+AL870,Applied Psychology,484,418,409,Points decrease,66,75,9,66,75,9,TRUE,TRUE,TRUE
+CW018,Business (options),307,298,327,Points decrease,9,-20,-29,9,-20,-29,TRUE,TRUE,TRUE
+CW028,Early Childhood Education and Care,260,252,252,Points decrease,8,8,0,8,8,0,TRUE,TRUE,TRUE
+CW038,Art (portfolio),700,700,700,Points decrease,0,0,0,0,0,0,TRUE,TRUE,TRUE
+CW058,Tourism and Event Management,292,298,252,Points decrease,-6,40,46,-6,40,46,TRUE,TRUE,TRUE
+CW068,Applied Social Studies in Professional Social Care,250,245,251,Points decrease,5,-1,-6,5,-1,-6,TRUE,TRUE,TRUE
+CW078,Sustainable Farm Management and Agribusiness,270,269,266,Points decrease,1,4,3,1,4,3,TRUE,TRUE,TRUE
+CW088,Visual Communications and Design,270,274,309,Points decrease,-4,-39,-35,-4,-39,-35,TRUE,TRUE,TRUE
+CW108,Science (options),266,261,261,Points decrease,5,5,0,5,5,0,TRUE,TRUE,TRUE
+CW128,Brewing and Distilling,307,263,271,Points decrease,44,36,-8,44,36,-8,TRUE,TRUE,TRUE
+CW138,Sport and Exercise Science,430,423,,Points decrease,7,,,7,430,423,TRUE,FALSE,FALSE
+CW148,Strength and Conditioning,388,379,,Points decrease,9,,,9,388,379,TRUE,FALSE,FALSE
+CW188,Sport Rehabilitation and Athletic Therapy,451,451,454,Points decrease,0,-3,-3,0,-3,-3,TRUE,TRUE,TRUE
+CW208,Computer Games Development,272,279,281,Points decrease,-7,-9,-2,-7,-9,-2,TRUE,TRUE,TRUE
+CW238,Software Development,295,297,300,Points decrease,-2,-5,-3,-2,-5,-3,TRUE,TRUE,TRUE
+CW248,Information Technology Management,293,285,307,Points decrease,8,-14,-22,8,-14,-22,TRUE,TRUE,TRUE
+CW258,Cybercrime and IT Security,292,293,300,Points decrease,-1,-8,-7,-1,-8,-7,TRUE,TRUE,TRUE
+CW268,Computing in Interactive Digital Art and Design,291,287,274,Points decrease,4,17,13,4,17,13,TRUE,TRUE,TRUE
+CW438,Construction (options),260,272,271,Points decrease,-12,-11,1,-12,-11,1,TRUE,TRUE,TRUE
+CW468,Architectural Technology,291,262,252,Points decrease,29,39,10,29,39,10,TRUE,TRUE,TRUE
+CW478,Civil Engineering,465,433,348,Points decrease,32,117,85,32,117,85,TRUE,TRUE,TRUE
+CW548,Mechanical Engineering,330,321,310,Points decrease,9,20,11,9,20,11,TRUE,TRUE,TRUE
+CW558,Electronic Systems,280,280,279,Points decrease,0,1,1,0,1,1,TRUE,TRUE,TRUE
+CW568,Aerospace Engineering,371,380,366,Points decrease,-9,5,14,-9,5,14,TRUE,TRUE,TRUE
+CW578,TV and Media Production,318,325,327,Points decrease,-7,-9,-2,-7,-9,-2,TRUE,TRUE,TRUE
+CW708,Law - LLB,292,302,298,Points decrease,-10,-6,4,-10,-6,4,TRUE,TRUE,TRUE
+CW728,Product Design Innovation,246,252,286,Points decrease,-6,-40,-34,-6,-40,-34,TRUE,TRUE,TRUE
+CW748,Early Childhood Education and Care,290,270,265,Points decrease,20,25,5,20,25,5,TRUE,TRUE,TRUE
+CW758,Professional Social Care Practice,360,336,290,Points decrease,24,70,46,24,70,46,TRUE,TRUE,TRUE
+CW808,Media and Public Relations,247,251,248,Points decrease,-4,-1,3,-4,-1,3,TRUE,TRUE,TRUE
+CW848,Digital Marketing with Analytics,269,254,279,Points decrease,15,-10,-25,15,-10,-25,TRUE,TRUE,TRUE
+CW858,Sports Management and Coaching (options  portfolio,700,700,700,Points decrease,0,0,0,0,0,0,TRUE,TRUE,TRUE
+CW908,Business (options),272,280,260,Points decrease,-8,12,20,-8,12,20,TRUE,TRUE,TRUE
+CW938,Business with Law,270,283,270,Points decrease,-13,0,13,-13,0,13,TRUE,TRUE,TRUE
+CW948,Accounting,319,300,301,Points decrease,19,18,-1,19,18,-1,TRUE,TRUE,TRUE
+PC405,Social  Political and Community Studies,263,253,251,Points decrease,10,12,2,10,12,2,TRUE,TRUE,TRUE
+PC410,Arts and Humanities (fulfils Teaching Council requ,262,252,203,Points decrease,10,59,49,10,59,49,TRUE,TRUE,TRUE
+PC411,English and History (fulfils Teaching Council requ,243,255,168,Points decrease,-12,75,87,-12,75,87,TRUE,TRUE,TRUE
+CR105,Chemical and Biopharmaceutical Engineering,443,443,432,Points decrease,0,11,11,0,11,11,TRUE,TRUE,TRUE
+CR106,Software Development,431,411,351,Points decrease,20,80,60,20,80,60,TRUE,TRUE,TRUE
+CR108,Mechanical Engineering,434,434,425,Points decrease,0,9,9,0,9,9,TRUE,TRUE,TRUE
+CR109,Structural Engineering,396,394,341,Points decrease,2,55,53,2,55,53,TRUE,TRUE,TRUE
+CR110,Automotive Business Management and Technology,336,311,318,Points decrease,25,18,-7,25,18,-7,TRUE,TRUE,TRUE
+CR112,Creative Digital Media at CIT Crawford College of,390,361,335,Points decrease,29,55,26,29,55,26,TRUE,TRUE,TRUE
+CR116,Computer Systems,365,332,318,Points decrease,33,47,14,33,47,14,TRUE,TRUE,TRUE
+CR121,Music at CIT Cork School of Music,904,868,633,Points decrease,36,271,235,36,271,235,TRUE,TRUE,TRUE
+CR125,Popular Music at CIT Cork School of Music,1028,1088,972,Points decrease,-60,56,116,-60,56,116,TRUE,TRUE,TRUE
+CR130,Musical Theatre at CIT Cork School of Music,525,548,500,Points decrease,-23,25,48,-23,25,48,TRUE,TRUE,TRUE
+CR150,Business Information Systems,350,335,326,Points decrease,15,24,9,15,24,9,TRUE,TRUE,TRUE
+CR210,Contemporary Applied Art (Ceramics  Glass  Textile,450,,979,Points decrease,,-529,,450,-529,-979,FALSE,TRUE,FALSE
+CR220,Fine Art at CIT Crawford College of Art and Design,400,,620,Points decrease,,-220,,400,-220,-620,FALSE,TRUE,FALSE
+CR225,Photography with New Media at CIT Crawford College,435,,920,Points decrease,,-485,,435,-485,-920,FALSE,TRUE,FALSE
+CR305,Physical Sciences (Common Entry),260,282,279,Points decrease,-22,-19,3,-22,-19,3,TRUE,TRUE,TRUE
+CR310,IT Management,347,297,282,Points decrease,50,65,15,50,65,15,TRUE,TRUE,TRUE
+CR320,Biomedical Science - Offered jointly by CIT and UC,590,565,546,Points decrease,25,44,19,25,44,19,TRUE,TRUE,TRUE
+CR325,Pharmaceutical Biotechnology,466,398,388,Points decrease,68,78,10,68,78,10,TRUE,TRUE,TRUE
+CR333,Nutrition and Health Science,425,402,360,Points decrease,23,65,42,23,65,42,TRUE,TRUE,TRUE
+CR335,Biological Sciences (Common Entry),473,420,381,Points decrease,53,92,39,53,92,39,TRUE,TRUE,TRUE
+CR340,Analytical Chemistry with Quality Assurance,327,251,288,Points decrease,76,39,-37,76,39,-37,TRUE,TRUE,TRUE
+CR360,Instrument Engineering,301,261,291,Points decrease,40,10,-30,40,10,-30,TRUE,TRUE,TRUE
+CR365,Environmental Science and Sustainable Technology,262,253,334,Points decrease,9,-72,-81,9,-72,-81,TRUE,TRUE,TRUE
+CR370,Agri-Biosciences,368,397,408,Points decrease,-29,-40,-11,-29,-40,-11,TRUE,TRUE,TRUE
+CR400,Accounting,315,316,316,Points decrease,-1,-1,0,-1,-1,0,TRUE,TRUE,TRUE
+CR420,Marketing,290,285,288,Points decrease,5,2,-3,5,2,-3,TRUE,TRUE,TRUE
+CR425,International Business with Language,279,298,300,Points decrease,-19,-21,-2,-19,-21,-2,TRUE,TRUE,TRUE
+CR430,Sport and Exercise Management,402,322,,Points decrease,80,,,80,402,322,TRUE,FALSE,FALSE
+CR435,Coaching Science and Sports Pedagogy,410,,,Points decrease,,,,410,410,0,FALSE,FALSE,TRUE
+CR440,Montessori Education,409,288,,Points decrease,121,,,121,409,288,TRUE,FALSE,FALSE
+CR500,Engineering (Common Entry),475,411,381,Points decrease,64,94,30,64,94,30,TRUE,TRUE,TRUE
+CR510,Sustainable Energy Engineering,320,320,319,Points decrease,0,1,1,0,1,1,TRUE,TRUE,TRUE
+CR520,Biomedical Engineering,444,444,434,Points decrease,0,10,10,0,10,10,TRUE,TRUE,TRUE
+CR560,Architectural Technology,375,308,288,Points decrease,67,87,20,67,87,20,TRUE,TRUE,TRUE
+CR565,Interior Architecture,431,359,336,Points decrease,72,95,23,72,95,23,TRUE,TRUE,TRUE
+CR570,Quantity Surveying,375,336,279,Points decrease,39,96,57,39,96,57,TRUE,TRUE,TRUE
+CR572,Construction Management,300,269,253,Points decrease,31,47,16,31,47,16,TRUE,TRUE,TRUE
+CR580,Electrical Engineering,342,318,344,Points decrease,24,-2,-26,24,-2,-26,TRUE,TRUE,TRUE
+CR590,Electronic Engineering,329,303,342,Points decrease,26,-13,-39,26,-13,-39,TRUE,TRUE,TRUE
+CR600,Visual Communications at CIT Crawford College of A,280,,587,Points decrease,,-307,,280,-307,-587,FALSE,TRUE,FALSE
+CR660,Tourism Management,246,252,249,Points decrease,-6,-3,3,-6,-3,3,TRUE,TRUE,TRUE
+CR700,Theatre and Drama Studies at CIT Cork School of Mu,609,740,768,Points decrease,-131,-159,-28,-131,-159,-28,TRUE,TRUE,TRUE
+CR930,Home Economics and Business,518,,,Points decrease,,,,518,518,0,FALSE,FALSE,TRUE
+CK101,Arts - 3 years,300,300,300,Points decrease,0,0,0,0,0,0,TRUE,TRUE,TRUE
+CK102,Social Science,434,412,391,Points decrease,22,43,21,22,43,21,TRUE,TRUE,TRUE
+CK104,Arts with Music - 3 or 4 years (BMus or Chinese/Eu,339,302,340,Points decrease,37,-1,-38,37,-1,-38,TRUE,TRUE,TRUE
+CK105,Film and Screen Media - 3 years or 4 years (Intern,421,368,397,Points decrease,53,24,-29,53,24,-29,TRUE,TRUE,TRUE
+CK107,Geographical and Archaeological Sciences - 3 or 4,312,328,326,Points decrease,-16,-14,2,-16,-14,2,TRUE,TRUE,TRUE
+CK108,Arts International - 4 years,440,401,429,Points decrease,39,11,-28,39,11,-28,TRUE,TRUE,TRUE
+CK109,English - 3 years or 4 years (International Pathwa,367,318,347,Points decrease,49,20,-29,49,20,-29,TRUE,TRUE,TRUE
+CK110,World Languages,488,452,456,Points decrease,36,32,-4,36,32,-4,TRUE,TRUE,TRUE
+CK111,Early Years and Childhood Studies,409,419,398,Points decrease,-10,11,21,-10,11,21,TRUE,TRUE,TRUE
+CK112,Theatre and Performative Practices - 3 or 4 years,371,330,324,Points decrease,41,47,6,41,47,6,TRUE,TRUE,TRUE
+CK113,Criminology - 3 years or 4 years (International Pa,464,423,408,Points decrease,41,56,15,41,56,15,TRUE,TRUE,TRUE
+CK114,Social Science (Youth and Community Work),,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+CK115,Social Work - Mature Applicants only,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+CK118,Digital Humanities and IT - 3 or 4 years (Work Exp,347,336,307,Points decrease,11,40,29,11,40,29,TRUE,TRUE,TRUE
+CK120,Applied Psychology,544,533,506,Points decrease,11,38,27,11,38,27,TRUE,TRUE,TRUE
+CK121,Psychology and Computing - 3 or 4 years (Work Expe,499,466,393,Points decrease,33,106,73,33,106,73,TRUE,TRUE,TRUE
+CK122,Government and Political Science,399,337,355,Points decrease,62,44,-18,62,44,-18,TRUE,TRUE,TRUE
+CK123,Anthropology,308,308,,Points decrease,0,,,0,308,308,TRUE,FALSE,FALSE
+CK124,Education - Gaeilge,473,463,,Points decrease,10,,,10,473,463,TRUE,FALSE,FALSE
+CK125,Sports Studies and Physical Education,564,510,,Points decrease,54,,,54,564,510,TRUE,FALSE,FALSE
+CK201,Commerce,500,477,465,Points decrease,23,35,12,23,35,12,TRUE,TRUE,TRUE
+CK202,Accounting,553,509,467,Points decrease,44,86,42,44,86,42,TRUE,TRUE,TRUE
+CK203,Business Information Systems,455,430,409,Points decrease,25,46,21,25,46,21,TRUE,TRUE,TRUE
+CK204,Finance,566,556,531,Points decrease,10,35,25,10,35,25,TRUE,TRUE,TRUE
+CK205,Commerce (International) with French,465,445,409,Points decrease,20,56,36,20,56,36,TRUE,TRUE,TRUE
+CK206,Commerce (International) with German,466,420,408,Points decrease,46,58,12,46,58,12,TRUE,TRUE,TRUE
+CK207,Commerce (International) with Italian,423,388,408,Points decrease,35,15,-20,35,15,-20,TRUE,TRUE,TRUE
+CK208,Commerce (International) with Hispanic Studies,488,402,431,Points decrease,86,57,-29,86,57,-29,TRUE,TRUE,TRUE
+CK209,Commerce (International) with Irish,507,484,509,Points decrease,23,-2,-25,23,-2,-25,TRUE,TRUE,TRUE
+CK211,Commerce (International) with Chinese Studies,385,397,398,Points decrease,-12,-13,-1,-12,-13,-1,TRUE,TRUE,TRUE
+CK212,Economics (through Transformational Learning) 3 or,445,444,400,Points decrease,1,45,44,1,45,44,TRUE,TRUE,TRUE
+CK213,Food Marketing and Entrepreneurship,466,462,,Points decrease,4,,,4,466,462,TRUE,FALSE,FALSE
+CK214,International Development,332,346,,Points decrease,-14,,,-14,332,346,TRUE,FALSE,FALSE
+CK301,Law (Pathways) -  3 or 4 years,533,507,476,Points decrease,26,57,31,26,57,31,TRUE,TRUE,TRUE
+CK302,Law and French,545,542,453,Points decrease,3,92,89,3,92,89,TRUE,TRUE,TRUE
+CK304,Law and Irish,588,540,462,Points decrease,48,126,78,48,126,78,TRUE,TRUE,TRUE
+CK307,Law and Business,589,556,522,Points decrease,33,67,34,33,67,34,TRUE,TRUE,TRUE
+CK401,Computer Science,503,468,402,Points decrease,35,101,66,35,101,66,TRUE,TRUE,TRUE
+CK402,Biological and Chemical Sciences,555,510,498,Points decrease,45,57,12,45,57,12,TRUE,TRUE,TRUE
+CK404,Biological  Earth and Environmental Sciences,500,467,412,Points decrease,33,88,55,33,88,55,TRUE,TRUE,TRUE
+CK405,Genetics,543,487,476,Points decrease,56,67,11,56,67,11,TRUE,TRUE,TRUE
+CK406,Chemical Sciences,532,485,457,Points decrease,47,75,28,47,75,28,TRUE,TRUE,TRUE
+CK407,Mathematical Sciences,566,566,531,Points decrease,0,35,35,0,35,35,TRUE,TRUE,TRUE
+CK408,Physics and Astrophysics,566,554,511,Points decrease,12,55,43,12,55,43,TRUE,TRUE,TRUE
+CK409,Industrial Physics - Offered jointly by UCC and CI,465,432,413,Points decrease,33,52,19,33,52,19,TRUE,TRUE,TRUE
+CK411,Data Science and Analytics,531,510,509,Points decrease,21,22,1,21,22,1,TRUE,TRUE,TRUE
+CK412,Agricultural Science,506,496,457,Points decrease,10,49,39,10,49,39,TRUE,TRUE,TRUE
+CK504,Nutritional Sciences,555,518,492,Points decrease,37,63,26,37,63,26,TRUE,TRUE,TRUE
+CK505,Food Science,463,441,444,Points decrease,22,19,-3,22,19,-3,TRUE,TRUE,TRUE
+CK600,Engineering,510,487,465,Points decrease,23,45,22,23,45,22,TRUE,TRUE,TRUE
+CK606,Architecture - Offered jointly by UCC and CIT,543,484,465,Points decrease,59,78,19,59,78,19,TRUE,TRUE,TRUE
+CK701,Medicine (Undergraduate Entry - HPAT required),738,731,729,Points decrease,7,9,2,7,9,2,TRUE,TRUE,TRUE
+CK702,Dentistry,625,613,590,Points decrease,12,35,23,12,35,23,TRUE,TRUE,TRUE
+CK703,Pharmacy,613,590,577,Points decrease,23,36,13,23,36,13,TRUE,TRUE,TRUE
+CK704,Occupational Therapy,601,566,532,Points decrease,35,69,34,35,69,34,TRUE,TRUE,TRUE
+CK705,Speech and Language Therapy,568,520,509,Points decrease,48,59,11,48,59,11,TRUE,TRUE,TRUE
+CK706,Public Health Sciences,500,454,419,Points decrease,46,81,35,46,81,35,TRUE,TRUE,TRUE
+CK707,Medical and Health Sciences,578,542,510,Points decrease,36,68,32,36,68,32,TRUE,TRUE,TRUE
+CK710,General Nursing,498,454,440,Points decrease,44,58,14,44,58,14,TRUE,TRUE,TRUE
+CK712,Children`s and General Nursing (Integrated),565,533,499,Points decrease,32,66,34,32,66,34,TRUE,TRUE,TRUE
+CK720,Mental Health Nursing,455,423,398,Points decrease,32,57,25,32,57,25,TRUE,TRUE,TRUE
+CK730,Intellectual Disability Nursing,431,419,359,Points decrease,12,72,60,12,72,60,TRUE,TRUE,TRUE
+CK740,Midwifery,509,484,444,Points decrease,25,65,40,25,65,40,TRUE,TRUE,TRUE
+CK791,Medicine  - Graduate Entry (GAMSAT required),60,57,58,Points decrease,3,2,-1,3,2,-1,TRUE,TRUE,TRUE
+AC120,International Business,294,209,234,Points decrease,85,60,-25,85,60,-25,TRUE,TRUE,TRUE
+AC137,Liberal Arts,271,252,252,Points decrease,19,19,0,19,19,0,TRUE,TRUE,TRUE
+CT125,Computing and IT,242,220,235,Points decrease,22,7,-15,22,7,-15,TRUE,TRUE,TRUE
+CT325,Business,253,338,,Points decrease,-85,,,-85,253,338,TRUE,FALSE,FALSE
+CM001,Education - Primary Teaching,508,484,452,Points decrease,24,56,32,24,56,32,TRUE,TRUE,TRUE
+CM002,Education - Primary Teaching - Gaeltacht Applicant,462,,421,Points decrease,,41,,462,41,-421,FALSE,TRUE,FALSE
+CM003,Oideachas – Bunmhúinteoireacht Trí Mheán na Gaeilg,513,528,491,Points decrease,-15,22,37,-15,22,37,TRUE,TRUE,TRUE
+CM004,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilg,480,494,492,Points decrease,-14,-12,2,-14,-12,2,TRUE,TRUE,TRUE
+CM010,Education Studies,382,319,317,Points decrease,63,65,2,63,65,2,TRUE,TRUE,TRUE
+CM020,Early Childhood Education,317,327,336,Points decrease,-10,-19,-9,-10,-19,-9,TRUE,TRUE,TRUE
+DB500,Computing,234,218,242,Points decrease,16,-8,-24,16,-8,-24,TRUE,TRUE,TRUE
+DB501,Computing (Cloud Computing),,227,326,Points decrease,,,-99,-227,-326,-99,FALSE,FALSE,TRUE
+DB502,Computing (Data Analytics and Big Data),267,341,269,Points decrease,-74,-2,72,-74,-2,72,TRUE,TRUE,TRUE
+DB503,Computing (Software Development),,225,242,Points decrease,,,-17,-225,-242,-17,FALSE,FALSE,TRUE
+DB504,Computing (Web and Mobile Technology),,,227,Points decrease,,,,0,-227,-227,TRUE,FALSE,FALSE
+DB510,Audio Production and Music Project Management,217,234,233,Points decrease,-17,-16,1,-17,-16,1,TRUE,TRUE,TRUE
+DB512,Business Studies,243,218,229,Points decrease,25,14,-11,25,14,-11,TRUE,TRUE,TRUE
+DB514,Business Studies (Law),239,252,269,Points decrease,-13,-30,-17,-13,-30,-17,TRUE,TRUE,TRUE
+DB515,Business Studies (Human Resource Management),242,244,225,Points decrease,-2,17,19,-2,17,19,TRUE,TRUE,TRUE
+DB517,Marketing (Event Management),233,238,226,Points decrease,-5,7,12,-5,7,12,TRUE,TRUE,TRUE
+DB518,Marketing (Digital Media),307,,210,Points decrease,,97,,307,97,-210,FALSE,TRUE,FALSE
+DB521,Accounting and Finance,243,225,225,Points decrease,18,18,0,18,18,0,TRUE,TRUE,TRUE
+DB524,Business (Information Systems),247,342,402,Points decrease,-95,-155,-60,-95,-155,-60,TRUE,TRUE,TRUE
+DB525,Marketing (Digital Media and Cloud Computing),288,,284,Points decrease,,4,,288,4,-284,FALSE,TRUE,FALSE
+DB526,Business (Cloud Computing),244,347,253,Points decrease,-103,-9,94,-103,-9,94,TRUE,TRUE,TRUE
+DB527,Applied Social Care,254,234,235,Points decrease,20,19,-1,20,19,-1,TRUE,TRUE,TRUE
+DB531,Marketing,288,293,220,Points decrease,-5,68,73,-5,68,73,TRUE,TRUE,TRUE
+DB562,Psychology,244,243,208,Points decrease,1,36,35,1,36,35,TRUE,TRUE,TRUE
+DB566,Social Science,262,220,216,Points decrease,42,46,4,42,46,4,TRUE,TRUE,TRUE
+DB567,Film and Creative Media,245,218,192,Points decrease,27,53,26,27,53,26,TRUE,TRUE,TRUE
+DB568,Law,254,219,245,Points decrease,35,9,-26,35,9,-26,TRUE,TRUE,TRUE
+DB569,Business (Psychology),240,252,279,Points decrease,-12,-39,-27,-12,-39,-27,TRUE,TRUE,TRUE
+DC001,Education - Early Childhood Education,445,440,398,Points decrease,5,47,42,5,47,42,TRUE,TRUE,TRUE
+DC002,Education - Primary Teaching,518,488,462,Points decrease,30,56,26,30,56,26,TRUE,TRUE,TRUE
+DC003,Education - Primary Teaching - Gaeltacht Applicant,489,445,433,Points decrease,44,56,12,44,56,12,TRUE,TRUE,TRUE
+DC004,Education - Primary Teaching (Church of Ireland Ce,451,411,357,Points decrease,40,94,54,40,94,54,TRUE,TRUE,TRUE
+DC009,Arts (Joint Honours) - Humanities,356,376,347,Points decrease,-20,9,29,-20,9,29,TRUE,TRUE,TRUE
+DC010,Post Primary Teacher Education - Religious Educati,384,441,386,Points decrease,-57,-2,55,-57,-2,55,TRUE,TRUE,TRUE
+DC011,Post Primary Teacher Education - Religious Educati,409,412,352,Points decrease,-3,57,60,-3,57,60,TRUE,TRUE,TRUE
+DC012,Post Primary Teacher Education - Religious Educati,409,378,367,Points decrease,31,42,11,31,42,11,TRUE,TRUE,TRUE
+DC013,Post Primary Teacher Ed - Gaeilge with French/Germ,413,419,410,Points decrease,-6,3,9,-6,3,9,TRUE,TRUE,TRUE
+DC014,BA in Jazz and Contemporary Music Performance (aud,311,419,428,Points decrease,-108,-117,-9,-108,-117,-9,TRUE,TRUE,TRUE
+DC110,Business Studies International,498,465,440,Points decrease,33,58,25,33,58,25,TRUE,TRUE,TRUE
+DC111,Business Studies,511,488,463,Points decrease,23,48,25,23,48,25,TRUE,TRUE,TRUE
+DC112,Global Business (France),542,517,495,Points decrease,25,47,22,25,47,22,TRUE,TRUE,TRUE
+DC113,Global Business (Germany),484,462,440,Points decrease,22,44,22,22,44,22,TRUE,TRUE,TRUE
+DC114,Global Business (Spain),544,522,501,Points decrease,22,43,21,22,43,21,TRUE,TRUE,TRUE
+DC115,Accounting and Finance,544,510,487,Points decrease,34,57,23,34,57,23,TRUE,TRUE,TRUE
+DC116,Global Business (USA),613,579,578,Points decrease,34,35,1,34,35,1,TRUE,TRUE,TRUE
+DC117,Aviation Management / Aviation Management with Pil,484,476,463,Points decrease,8,21,13,8,21,13,TRUE,TRUE,TRUE
+DC118,Gná agus Gaeilge / Business and Irish,368,359,357,Points decrease,9,11,2,9,11,2,TRUE,TRUE,TRUE
+DC119,Global Business (Canada),601,564,566,Points decrease,37,35,-2,37,35,-2,TRUE,TRUE,TRUE
+DC120,Computing for Business,403,357,350,Points decrease,46,53,7,46,53,7,TRUE,TRUE,TRUE
+DC121,Computer Science,475,400,370,Points decrease,75,105,30,75,105,30,TRUE,TRUE,TRUE
+DC123,Data Science,501,465,467,Points decrease,36,34,-2,36,34,-2,TRUE,TRUE,TRUE
+DC126,Actuarial Mathematics,577,560,520,Points decrease,17,57,40,17,57,40,TRUE,TRUE,TRUE
+DC127,Common Entry into Actuarial and Financial Mathemat,541,532,509,Points decrease,9,32,23,9,32,23,TRUE,TRUE,TRUE
+DC131,Communication Studies,421,407,400,Points decrease,14,21,7,14,21,7,TRUE,TRUE,TRUE
+DC132,Journalism,452,429,401,Points decrease,23,51,28,23,51,28,TRUE,TRUE,TRUE
+DC133,Multimedia,435,411,403,Points decrease,24,32,8,24,32,8,TRUE,TRUE,TRUE
+DC155,Applied Language and Translation Studies,427,387,371,Points decrease,40,56,16,40,56,16,TRUE,TRUE,TRUE
+DC161,Analytical Science,498,498,446,Points decrease,0,52,52,0,52,52,TRUE,TRUE,TRUE
+DC162,Chemical and Pharmaceutical Sciences,531,521,488,Points decrease,10,43,33,10,43,33,TRUE,TRUE,TRUE
+DC163,Chemical Sciences General Entry (Undenominated Ent,466,,,Points decrease,,,,466,466,0,FALSE,FALSE,TRUE
+DC166,Environmental Science and Technology,423,433,412,Points decrease,-10,11,21,-10,11,21,TRUE,TRUE,TRUE
+DC168,Genetics and Cell Biology,543,512,489,Points decrease,31,54,23,31,54,23,TRUE,TRUE,TRUE
+DC175,Physics General Entry (options),400,419,,Points decrease,-19,,,-19,400,419,TRUE,FALSE,FALSE
+DC180,Biological Sciences General Entry (Undenominated E,530,,,Points decrease,,,,530,530,0,FALSE,FALSE,TRUE
+DC181,Biotechnology,530,499,476,Points decrease,31,54,23,31,54,23,TRUE,TRUE,TRUE
+DC190,Electronic and Computer Engineering (with choice o,488,413,391,Points decrease,75,97,22,75,97,22,TRUE,TRUE,TRUE
+DC193,Mechatronic Engineering,490,411,404,Points decrease,79,86,7,79,86,7,TRUE,TRUE,TRUE
+DC194,Sustainable Systems and Energy,476,,,Points decrease,,,,476,476,0,FALSE,FALSE,TRUE
+DC195,Mechanical and Manufacturing Engineering,500,425,401,Points decrease,75,99,24,75,99,24,TRUE,TRUE,TRUE
+DC197,Biomedical Engineering,510,423,402,Points decrease,87,108,21,87,108,21,TRUE,TRUE,TRUE
+DC200,Common Entry into Engineering (Undenominated Entry,511,422,381,Points decrease,89,130,41,89,130,41,TRUE,TRUE,TRUE
+DC202,Sport Science and Health,511,500,467,Points decrease,11,44,33,11,44,33,TRUE,TRUE,TRUE
+DC203,Science Education,462,435,424,Points decrease,27,38,11,27,38,11,TRUE,TRUE,TRUE
+DC204,Athletic Therapy and Training,558,522,484,Points decrease,36,74,38,36,74,38,TRUE,TRUE,TRUE
+DC205,Physical Education with Biology,565,531,490,Points decrease,34,75,41,34,75,41,TRUE,TRUE,TRUE
+DC206,Physical Education with Mathematics,521,499,443,Points decrease,22,78,56,22,78,56,TRUE,TRUE,TRUE
+DC207,Psychology and Mathematics,521,,,Points decrease,,,,521,521,0,FALSE,FALSE,TRUE
+DC208,Psychology,565,532,509,Points decrease,33,56,23,33,56,23,TRUE,TRUE,TRUE
+DC209,Health and Society,477,465,419,Points decrease,12,58,46,12,58,46,TRUE,TRUE,TRUE
+DC210,Psychology and Disruptive Technologies,506,,,Points decrease,,,,506,506,0,FALSE,FALSE,TRUE
+DC215,General Nursing,456,454,414,Points decrease,2,42,40,2,42,40,TRUE,TRUE,TRUE
+DC216,Mental Health Nursing,420,418,368,Points decrease,2,52,50,2,52,50,TRUE,TRUE,TRUE
+DC217,Intellectual Disability Nursing,382,370,347,Points decrease,12,35,23,12,35,23,TRUE,TRUE,TRUE
+DC218,Children`s and General Nursing (Integrated),521,500,467,Points decrease,21,54,33,21,54,33,TRUE,TRUE,TRUE
+DC230,Economics  Politics and Law,431,435,400,Points decrease,-4,31,35,-4,31,35,TRUE,TRUE,TRUE
+DC231,International Relations,398,397,387,Points decrease,1,11,10,1,11,10,TRUE,TRUE,TRUE
+DC232,Law and Society (BCL),469,466,453,Points decrease,3,16,13,3,16,13,TRUE,TRUE,TRUE
+DC235,Education and Training - Daytime and Flexible Deli,302,309,307,Points decrease,-7,-5,2,-7,-5,2,TRUE,TRUE,TRUE
+DC238,Social Sciences and Cultural Innovation,387,377,358,Points decrease,10,29,19,10,29,19,TRUE,TRUE,TRUE
+DC240,Marketing  Innovation and Technology,499,476,451,Points decrease,23,48,25,23,48,25,TRUE,TRUE,TRUE
+DC241,Digital Business and Innovation,509,,,Points decrease,,,,509,509,0,FALSE,FALSE,TRUE
+DC291,Arts (Joint Honours) - Media Studies,350,376,349,Points decrease,-26,1,27,-26,1,27,TRUE,TRUE,TRUE
+DC292,Arts (Joint Honours) - Law,400,403,356,Points decrease,-3,44,47,-3,44,47,TRUE,TRUE,TRUE
+DC293,Arts (Joint Honours) - International Languages,379,377,369,Points decrease,2,10,8,2,10,8,TRUE,TRUE,TRUE
+DC294,Climate and Environmental Sustainability,475,,,Points decrease,,,,475,475,0,FALSE,FALSE,TRUE
+DC295,Arts (Joint Honours) - Politics,349,376,348,Points decrease,-27,1,28,-27,1,28,TRUE,TRUE,TRUE
+DL822,Arts Management,254,229,209,Points decrease,25,45,20,25,45,20,TRUE,TRUE,TRUE
+DL823,Business Management,220,235,260,Points decrease,-15,-40,-25,-15,-40,-25,TRUE,TRUE,TRUE
+DL825,Applied Psychology,418,379,349,Points decrease,39,69,30,39,69,30,TRUE,TRUE,TRUE
+DL826,Graphic Design,591,855,736,Points decrease,-264,-145,119,-264,-145,119,TRUE,TRUE,TRUE
+DL827,Art,574,572,583,Points decrease,2,-9,-11,2,-9,-11,TRUE,TRUE,TRUE
+DL832,Animation,989,920,855,Points decrease,69,134,65,69,134,65,TRUE,TRUE,TRUE
+DL833,Photography and Visual Media,671,650,636,Points decrease,21,35,14,21,35,14,TRUE,TRUE,TRUE
+DL836,Creative Computing,235,219,217,Points decrease,16,18,2,16,18,2,TRUE,TRUE,TRUE
+DL837,New Media Studies,298,201,290,Points decrease,97,8,-89,97,8,-89,TRUE,TRUE,TRUE
+DL838,Creative Music Production,713,754,746,Points decrease,-41,-33,8,-41,-33,8,TRUE,TRUE,TRUE
+DL839,Interaction and User Experience Design,757,683,,Points decrease,74,,,74,757,683,TRUE,FALSE,FALSE
+DL840,Digital Marketing,210,228,,Points decrease,-18,,,-18,210,228,TRUE,FALSE,FALSE
+DL841,English and Equality Studies,277,276,,Points decrease,1,,,1,277,276,TRUE,FALSE,FALSE
+DL843,Film,987,,,Points decrease,,,,987,987,0,FALSE,FALSE,TRUE
+DL844,Television,566,,,Points decrease,,,,566,566,0,FALSE,FALSE,TRUE
+DL845,Design for Film (degree options),628,,,Points decrease,,,,628,628,0,FALSE,FALSE,TRUE
+GC200,Business,269,252,269,Points decrease,17,0,-17,17,0,-17,TRUE,TRUE,TRUE
+GC201,Accounting and Finance,260,303,251,Points decrease,-43,9,52,-43,9,52,TRUE,TRUE,TRUE
+GC230,Computing Science,300,335,228,Points decrease,-35,72,107,-35,72,107,TRUE,TRUE,TRUE
+GC300,Business,264,429,251,Points decrease,-165,13,178,-165,13,178,TRUE,TRUE,TRUE
+GC301,Accounting and Finance,,253,307,Points decrease,,,-54,-253,-307,-54,FALSE,FALSE,TRUE
+GC302,Business - HRM,377,,269,Points decrease,,108,,377,108,-269,FALSE,TRUE,FALSE
+GC307,Business (Marketing),289,,,Points decrease,,,,289,289,0,FALSE,FALSE,TRUE
+GC400,Business,250,248,246,Points decrease,2,4,2,2,4,2,TRUE,TRUE,TRUE
+GC401,Accounting and Finance,242,240,181,Points decrease,2,61,59,2,61,59,TRUE,TRUE,TRUE
+GC402,Business (HRM),,264,217,Points decrease,,,47,-264,-217,47,FALSE,FALSE,TRUE
+GC403,Law,245,244,225,Points decrease,1,20,19,1,20,19,TRUE,TRUE,TRUE
+GC407,Business (Marketing),264,280,246,Points decrease,-16,18,34,-16,18,34,TRUE,TRUE,TRUE
+GC430,Computing Science,251,252,217,Points decrease,-1,34,35,-1,34,35,TRUE,TRUE,TRUE
+GC450,Communications and Media Production,225,254,227,Points decrease,-29,-2,27,-29,-2,27,TRUE,TRUE,TRUE
+GC462,Design Communication (portfolio),300,,,Points decrease,,,,300,300,0,FALSE,FALSE,TRUE
+GC489,Interior Architecture (portfolio),288,254,267,Points decrease,34,21,-13,34,21,-13,TRUE,TRUE,TRUE
+GC494,Fashion Design (portfolio),351,337,,Points decrease,14,,,14,351,337,TRUE,FALSE,FALSE
+BY001,Business,210,,,Points decrease,,,,210,210,0,FALSE,FALSE,TRUE
+ID001,Accounting and Finance,,203,229,Points decrease,,,-26,-203,-229,-26,FALSE,FALSE,TRUE
+ID002,Business Studies,,294,285,Points decrease,,,9,-294,-285,9,FALSE,FALSE,TRUE
+AD101,First Year Art and Design (Common Entry portfolio),554,,0,Points decrease,,554,,554,554,0,FALSE,TRUE,TRUE
+AD102,Graphic Design and Moving Image Design (portfolio),538,,0,Points decrease,,538,,538,538,0,FALSE,TRUE,TRUE
+AD103,Textile and Surface Design and Jewellery and Objec,505,,0,Points decrease,,505,,505,505,0,FALSE,TRUE,TRUE
+AD202,Education and Design or Fine Art (Second Level Tea,591,,0,Points decrease,,591,,591,591,0,FALSE,TRUE,TRUE
+AD204,Fine Art (portfolio),514,,0,Points decrease,,514,,514,514,0,FALSE,TRUE,TRUE
+AD211,Fashion Design (portfolio),760,,0,Points decrease,,760,,760,760,0,FALSE,TRUE,TRUE
+AD212,Product Design (portfolio),413,,0,Points decrease,,413,,413,413,0,FALSE,TRUE,TRUE
+AD215,Visual Culture,337,377,300,Points decrease,-40,37,77,-40,37,77,TRUE,TRUE,TRUE
+AD217,Illustration (portfolio),738,,0,Points decrease,,738,,738,738,0,FALSE,TRUE,TRUE
+AD222,Interaction Design (portfolio),444,,0,Points decrease,,444,,444,444,0,FALSE,TRUE,TRUE
+NC003,Computing (Degree Award options),271,260,261,Points decrease,11,10,-1,11,10,-1,TRUE,TRUE,TRUE
+NC005,Human Resource Management,301,300,297,Points decrease,1,4,3,1,4,3,TRUE,TRUE,TRUE
+NC009,Business,300,300,297,Points decrease,0,3,3,0,3,3,TRUE,TRUE,TRUE
+NC010,Psychology,420,400,366,Points decrease,20,54,34,20,54,34,TRUE,TRUE,TRUE
+NC020,Marketing Practice,270,280,270,Points decrease,-10,0,10,-10,0,10,TRUE,TRUE,TRUE
+NC022,Accounting and Finance,330,337,338,Points decrease,-7,-8,-1,-7,-8,-1,TRUE,TRUE,TRUE
+NC023,Technology Management (with specialisations),266,261,260,Points decrease,5,6,1,5,6,1,TRUE,TRUE,TRUE
+NC030,Early Childhood Education and Care,251,,,Points decrease,,,,251,251,0,FALSE,FALSE,TRUE
+RC001,Medicine - Undergraduate Entry (HPAT required),741,733,729,Points decrease,8,12,4,8,12,4,TRUE,TRUE,TRUE
+RC004,Physiotherapy,589,566,532,Points decrease,23,57,34,23,57,34,TRUE,TRUE,TRUE
+RC005,Pharmacy,613,579,555,Points decrease,34,58,24,34,58,24,TRUE,TRUE,TRUE
+RC101,Medicine - Graduate Entry (GAMSAT required),,,60,Points decrease,,,,0,-60,-60,TRUE,FALSE,FALSE
+NM801,Montessori Education,262,220,,Points decrease,42,,,42,262,220,TRUE,FALSE,FALSE
+NM802,Psychology,228,,,Points decrease,,,,228,228,0,FALSE,FALSE,TRUE
+TU801,Sustainable Energy Engineering,235,235,,Points decrease,0,,,0,235,235,TRUE,FALSE,FALSE
+TU802,Electrical Services and Energy Management,309,317,,Points decrease,-8,,,-8,309,317,TRUE,FALSE,FALSE
+TU804,Engineering (Common Entry with Award options),270,271,,Points decrease,-1,,,-1,270,271,TRUE,FALSE,FALSE
+TU805,Engineering (General Entry),466,402,,Points decrease,64,,,64,466,402,TRUE,FALSE,FALSE
+TU807,Computer Engineering in Mobile Systems,274,276,,Points decrease,-2,,,-2,274,276,TRUE,FALSE,FALSE
+TU810,Mechatronic Engineering,271,270,,Points decrease,1,,,1,271,270,TRUE,FALSE,FALSE
+TU811,Product Design,440,411,,Points decrease,29,,,29,440,411,TRUE,FALSE,FALSE
+TU812,Design Technology and Innovation,278,270,,Points decrease,8,,,8,278,270,TRUE,FALSE,FALSE
+TU814,Sustainable Transport Management,253,285,,Points decrease,-32,,,-32,253,285,TRUE,FALSE,FALSE
+TU828,Mechanical Engineering (General Entry),300,,,Points decrease,,,,300,300,0,FALSE,FALSE,TRUE
+TU829,Electronic Engineering (General Entry),248,,,Points decrease,,,,248,248,0,FALSE,FALSE,TRUE
+TU831,Architectural Technology,423,410,,Points decrease,13,,,13,423,410,TRUE,FALSE,FALSE
+TU832,Architecture (Suitability Test and Interview),644,622,,Points decrease,22,,,22,644,622,TRUE,FALSE,FALSE
+TU833,Construction Management,396,367,,Points decrease,29,,,29,396,367,TRUE,FALSE,FALSE
+TU834,Geographic Science,315,288,,Points decrease,27,,,27,315,288,TRUE,FALSE,FALSE
+TU835,Planning and Environmental Management,330,313,,Points decrease,17,,,17,330,313,TRUE,FALSE,FALSE
+TU836,Property Economics (Valuation Surveying),411,401,,Points decrease,10,,,10,411,401,TRUE,FALSE,FALSE
+TU837,Quantity Surveying and Construction Economics,413,385,,Points decrease,28,,,28,413,385,TRUE,FALSE,FALSE
+TU838,Sustainable Timber Technology,307,,,Points decrease,,,,307,307,0,FALSE,FALSE,TRUE
+TU851,Analytical Chemistry (Environmental  Forensic and,400,349,,Points decrease,51,,,51,400,349,TRUE,FALSE,FALSE
+TU852,Chemical Sciences with Medicinal Chemistry,477,476,,Points decrease,1,,,1,477,476,TRUE,FALSE,FALSE
+TU854,Science (General Entry),510,476,,Points decrease,34,,,34,510,476,TRUE,FALSE,FALSE
+TU855,Science with Nanotechnology,322,331,,Points decrease,-9,,,-9,322,331,TRUE,FALSE,FALSE
+TU856,Computer Science,499,476,,Points decrease,23,,,23,499,476,TRUE,FALSE,FALSE
+TU857,Computer Science (Infrastructure),403,391,,Points decrease,12,,,12,403,391,TRUE,FALSE,FALSE
+TU858,Computer Science (International),395,377,,Points decrease,18,,,18,395,377,TRUE,FALSE,FALSE
+TU859,Computing,251,217,,Points decrease,34,,,34,251,217,TRUE,FALSE,FALSE
+TU860,Computing (Information Technology),270,260,,Points decrease,10,,,10,270,260,TRUE,FALSE,FALSE
+TU861,Computing with Language (French/German/Spanish),235,308,,Points decrease,-73,,,-73,235,308,TRUE,FALSE,FALSE
+TU862,Computing with Artificial Intelligence Machine Lea,262,226,,Points decrease,36,,,36,262,226,TRUE,FALSE,FALSE
+TU863,Digital Forensics and Cyber Security,282,280,,Points decrease,2,,,2,282,280,TRUE,FALSE,FALSE
+TU864,DNA and Forensic Analysis,500,400,,Points decrease,100,,,100,500,400,TRUE,FALSE,FALSE
+TU865,Cloud Computing,235,226,,Points decrease,9,,,9,235,226,TRUE,FALSE,FALSE
+TU866,Biomedical and Molecular Diagnostics,522,487,,Points decrease,35,,,35,522,487,TRUE,FALSE,FALSE
+TU867,Biomedical Science,576,524,,Points decrease,52,,,52,576,524,TRUE,FALSE,FALSE
+TU868,Clinical Measurement Science,542,510,,Points decrease,32,,,32,542,510,TRUE,FALSE,FALSE
+TU869,Environmental Health,387,336,,Points decrease,51,,,51,387,336,TRUE,FALSE,FALSE
+TU870,Human Nutrition and Dietetics,601,578,,Points decrease,23,,,23,601,578,TRUE,FALSE,FALSE
+TU871,Optometry,532,509,,Points decrease,23,,,23,532,509,TRUE,FALSE,FALSE
+TU872,Public Health Nutrition,487,491,,Points decrease,-4,,,-4,487,491,TRUE,FALSE,FALSE
+TU874,Mathematical Sciences,294,341,,Points decrease,-47,,,-47,294,341,TRUE,FALSE,FALSE
+TU875,Pharmaceutical Healthcare,451,400,,Points decrease,51,,,51,451,400,TRUE,FALSE,FALSE
+TU876,Pharmaceutical Science,445,377,,Points decrease,68,,,68,445,377,TRUE,FALSE,FALSE
+TU877,Physics Technology,314,308,,Points decrease,6,,,6,314,308,TRUE,FALSE,FALSE
+TU878,Physics with Energy and Environment,339,337,,Points decrease,2,,,2,339,337,TRUE,FALSE,FALSE
+TU879,Physics with Medical Physics and Bioengineering,346,351,,Points decrease,-5,,,-5,346,351,TRUE,FALSE,FALSE
+TU880,Physics with Data Science,412,578,,Points decrease,-166,,,-166,412,578,TRUE,FALSE,FALSE
+TU881,Food Innovation,309,318,,Points decrease,-9,,,-9,309,318,TRUE,FALSE,FALSE
+TU882,Nutraceuticals in Health and Nutrition,380,397,,Points decrease,-17,,,-17,380,397,TRUE,FALSE,FALSE
+TU902,Business (options),270,271,,Points decrease,-1,,,-1,270,271,TRUE,FALSE,FALSE
+TU903,Business and Management,477,463,,Points decrease,14,,,14,477,463,TRUE,FALSE,FALSE
+TU904,Business and Law,462,462,,Points decrease,0,,,0,462,462,TRUE,FALSE,FALSE
+TU905,Economics and Finance,460,465,,Points decrease,-5,,,-5,460,465,TRUE,FALSE,FALSE
+TU906,Human Resource Management,386,395,,Points decrease,-9,,,-9,386,395,TRUE,FALSE,FALSE
+TU907,Logistics and Supply Chain Management,300,300,,Points decrease,0,,,0,300,300,TRUE,FALSE,FALSE
+TU910,Accounting,420,444,,Points decrease,-24,,,-24,420,444,TRUE,FALSE,FALSE
+TU912,Business Analytics,331,330,,Points decrease,1,,,1,331,330,TRUE,FALSE,FALSE
+TU914,Business Computing,322,324,,Points decrease,-2,,,-2,322,324,TRUE,FALSE,FALSE
+TU917,Law (LLB ) with a Language,356,342,,Points decrease,14,,,14,356,342,TRUE,FALSE,FALSE
+TU918,Law (LLB),463,451,,Points decrease,12,,,12,463,451,TRUE,FALSE,FALSE
+TU919,Advertising and Marketing Communications,219,228,,Points decrease,-9,,,-9,219,228,TRUE,FALSE,FALSE
+TU920,Digital Marketing,270,270,,Points decrease,0,,,0,270,270,TRUE,FALSE,FALSE
+TU921,Digital Marketing Technologies,230,212,,Points decrease,18,,,18,230,212,TRUE,FALSE,FALSE
+TU922,Marketing,412,418,,Points decrease,-6,,,-6,412,418,TRUE,FALSE,FALSE
+TU924,E-Commerce in Retailing,307,307,,Points decrease,0,,,0,307,307,TRUE,FALSE,FALSE
+TU925,Retail and Services Management,307,301,,Points decrease,6,,,6,307,301,TRUE,FALSE,FALSE
+TU932,Business (options),211,,,Points decrease,,,,211,211,0,FALSE,FALSE,TRUE
+TU933,Accounting and Finance (campus options),251,,,Points decrease,,,,251,251,0,FALSE,FALSE,TRUE
+TU935,Sports Management and Coaching,300,300,,Points decrease,0,,,0,300,300,TRUE,FALSE,FALSE
+TU936,Sports Science and Health,484,410,,Points decrease,74,,,74,484,410,TRUE,FALSE,FALSE
+TU941,Botanical Cuisine,311,249,,Points decrease,62,,,62,311,249,TRUE,FALSE,FALSE
+TU942,Culinary Arts,252,212,,Points decrease,40,,,40,252,212,TRUE,FALSE,FALSE
+TU943,Culinary Entrepreneurship,261,278,,Points decrease,-17,,,-17,261,278,TRUE,FALSE,FALSE
+TU944,Culinary Science,336,316,,Points decrease,20,,,20,336,316,TRUE,FALSE,FALSE
+TU951,International Hospitality and Tourism Management,244,184,,Points decrease,60,,,60,244,184,TRUE,FALSE,FALSE
+TU952,International Hospitality Management,309,300,,Points decrease,9,,,9,309,300,TRUE,FALSE,FALSE
+TU953,Tourism and Digital Marketing,308,290,,Points decrease,18,,,18,308,290,TRUE,FALSE,FALSE
+TU954,Event Management,326,356,,Points decrease,-30,,,-30,326,356,TRUE,FALSE,FALSE
+TU955,Sports and Leisure Management,275,217,,Points decrease,58,,,58,275,217,TRUE,FALSE,FALSE
+TU961,Commercial Modern Music (BIMM - assessment/auditio,536,608,,Points decrease,-72,,,-72,536,608,TRUE,FALSE,FALSE
+TU962,Drama (Performance  audition),448,379,,Points decrease,69,,,69,448,379,TRUE,FALSE,FALSE
+TU963,Music (audition),364,416,,Points decrease,-52,,,-52,364,416,TRUE,FALSE,FALSE
+TU965,International Business and Languages,357,356,,Points decrease,1,,,1,357,356,TRUE,FALSE,FALSE
+TU967,Languages and International Tourism,298,308,,Points decrease,-10,,,-10,298,308,TRUE,FALSE,FALSE
+TU973,Design - Visual Communication (portfolio),700,717,,Points decrease,-17,,,-17,700,717,TRUE,FALSE,FALSE
+TU974,Fine Art (portfolio),549,709,,Points decrease,-160,,,-160,549,709,TRUE,FALSE,FALSE
+TU975,Interior Design (portfolio),544,632,,Points decrease,-88,,,-88,544,632,TRUE,FALSE,FALSE
+TU976,Photography (portfolio),700,695,,Points decrease,5,,,5,700,695,TRUE,FALSE,FALSE
+TU978,Creative Industries and Visual Culture,299,,,Points decrease,,,,299,299,0,FALSE,FALSE,TRUE
+TU981,Creative Digital Media,280,280,,Points decrease,0,,,0,280,280,TRUE,FALSE,FALSE
+TU982,Media Production and Digital Arts,369,320,,Points decrease,49,,,49,369,320,TRUE,FALSE,FALSE
+TU983,Film and Broadcasting,462,456,,Points decrease,6,,,6,462,456,TRUE,FALSE,FALSE
+TU984,Game Design,414,381,,Points decrease,33,,,33,414,381,TRUE,FALSE,FALSE
+TU985,Journalism,367,322,,Points decrease,45,,,45,367,322,TRUE,FALSE,FALSE
+TU989,Early Childhood Care and Education (campus options,270,,,Points decrease,,,,270,270,0,FALSE,FALSE,TRUE
+TU991,Applied Social Studies in Social Care,326,325,,Points decrease,1,,,1,326,325,TRUE,FALSE,FALSE
+TU992,Community Development and Youth Work,251,251,,Points decrease,0,,,0,251,251,TRUE,FALSE,FALSE
+TU995,Early Childhood Education,378,367,,Points decrease,11,,,11,378,367,TRUE,FALSE,FALSE
+TU996,Social Care,407,400,,Points decrease,7,,,7,407,400,TRUE,FALSE,FALSE
+TU997,Applied Social Care,320,310,,Points decrease,10,,,10,320,310,TRUE,FALSE,FALSE
+TR002,Music,508,435,414,Points decrease,73,94,21,73,94,21,TRUE,TRUE,TRUE
+TR003,History,552,497,486,Points decrease,55,66,11,55,66,11,TRUE,TRUE,TRUE
+TR004,Law,590,566,532,Points decrease,24,58,34,24,58,34,TRUE,TRUE,TRUE
+TR005,Philosophy,510,442,391,Points decrease,68,119,51,68,119,51,TRUE,TRUE,TRUE
+TR006,Psychology,601,567,555,Points decrease,34,46,12,34,46,12,TRUE,TRUE,TRUE
+TR007,Clinical Speech and Language Studies,564,529,499,Points decrease,35,65,30,35,65,30,TRUE,TRUE,TRUE
+TR009,Music Education,496,420,430,Points decrease,76,66,-10,76,66,-10,TRUE,TRUE,TRUE
+TR015,Philosophy  Political Science  Economics and Socio,613,589,566,Points decrease,24,47,23,24,47,23,TRUE,TRUE,TRUE
+TR016,Deaf Studies,389,340,337,Points decrease,49,52,3,49,52,3,TRUE,TRUE,TRUE
+TR018,Law and French,602,565,532,Points decrease,37,70,33,37,70,33,TRUE,TRUE,TRUE
+TR019,Law and German,577,543,523,Points decrease,34,54,20,34,54,20,TRUE,TRUE,TRUE
+TR021,Classics  Ancient History and Archaeology,467,370,377,Points decrease,97,90,-7,97,90,-7,TRUE,TRUE,TRUE
+TR022,Early and Modern Irish,377,398,347,Points decrease,-21,30,51,-21,30,51,TRUE,TRUE,TRUE
+TR023,English Studies,546,487,463,Points decrease,59,83,24,59,83,24,TRUE,TRUE,TRUE
+TR024,European Studies,566,544,520,Points decrease,22,46,24,22,46,24,TRUE,TRUE,TRUE
+TR025,Drama and Theatre Studies,543,564,489,Points decrease,-21,54,75,-21,54,75,TRUE,TRUE,TRUE
+TR028,Ancient and Medieval History and Culture,498,342,339,Points decrease,156,159,3,156,159,3,TRUE,TRUE,TRUE
+TR031,Mathematics,579,531,566,Points decrease,48,13,-35,48,13,-35,TRUE,TRUE,TRUE
+TR032,Engineering,556,510,487,Points decrease,46,69,23,46,69,23,TRUE,TRUE,TRUE
+TR033,Computer Science,566,509,465,Points decrease,57,101,44,57,101,44,TRUE,TRUE,TRUE
+TR034,Management Science and Information Systems Studies,625,613,589,Points decrease,12,36,24,12,36,24,TRUE,TRUE,TRUE
+TR035,Theoretical Physics,590,543,554,Points decrease,47,36,-11,47,36,-11,TRUE,TRUE,TRUE
+TR038,Engineering with Management,589,532,499,Points decrease,57,90,33,57,90,33,TRUE,TRUE,TRUE
+TR039,Computer Science  Linguistics and a Language,443,454,435,Points decrease,-11,8,19,-11,8,19,TRUE,TRUE,TRUE
+TR040,Middle Eastern and European Languages and Cultures,520,466,485,Points decrease,54,35,-19,54,35,-19,TRUE,TRUE,TRUE
+TR041,Religion,417,368,347,Points decrease,49,70,21,49,70,21,TRUE,TRUE,TRUE
+TR042,Film,531,489,,Points decrease,42,,,42,531,489,TRUE,FALSE,FALSE
+TR043,History of Art and Architecture,498,393,,Points decrease,105,,,105,498,393,TRUE,FALSE,FALSE
+TR051,Medicine (HPAT required),743,735,730,Points decrease,8,13,5,8,13,5,TRUE,TRUE,TRUE
+TR052,Dental Science,625,613,590,Points decrease,12,35,23,12,35,23,TRUE,TRUE,TRUE
+TR053,Physiotherapy,590,566,533,Points decrease,24,57,33,24,57,33,TRUE,TRUE,TRUE
+TR054,Occupational Therapy,578,533,500,Points decrease,45,78,33,45,78,33,TRUE,TRUE,TRUE
+TR055,Radiation Therapy,577,543,510,Points decrease,34,67,33,34,67,33,TRUE,TRUE,TRUE
+TR056,Human Health and Disease,601,565,543,Points decrease,36,58,22,36,58,22,TRUE,TRUE,TRUE
+TR060,Biological and Biomedical Sciences,578,543,510,Points decrease,35,68,33,35,68,33,TRUE,TRUE,TRUE
+TR061,Chemical Sciences,558,517,488,Points decrease,41,70,29,41,70,29,TRUE,TRUE,TRUE
+TR062,Geography and Geoscience,495,473,435,Points decrease,22,60,38,22,60,38,TRUE,TRUE,TRUE
+TR063,Physical Sciences,554,498,498,Points decrease,56,56,0,56,56,0,TRUE,TRUE,TRUE
+TR064,Environmental Science and Engineering,555,,,Points decrease,,,,555,555,0,FALSE,FALSE,TRUE
+TR072,Pharmacy,613,590,555,Points decrease,23,58,35,23,58,35,TRUE,TRUE,TRUE
+TR080,Global Business,613,589,565,Points decrease,24,48,24,24,48,24,TRUE,TRUE,TRUE
+TR081,Business  Economic and Social Studies (BESS),577,543,518,Points decrease,34,59,25,34,59,25,TRUE,TRUE,TRUE
+TR084,Social Studies (Social Work),497,462,420,Points decrease,35,77,42,35,77,42,TRUE,TRUE,TRUE
+TR085,Business Studies and French,564,540,509,Points decrease,24,55,31,24,55,31,TRUE,TRUE,TRUE
+TR086,Business Studies and German,530,509,474,Points decrease,21,56,35,21,56,35,TRUE,TRUE,TRUE
+TR087,Business Studies and Russian,487,474,467,Points decrease,13,20,7,13,20,7,TRUE,TRUE,TRUE
+TR089,Business Studies and Polish,391,444,393,Points decrease,-53,-2,51,-53,-2,51,TRUE,TRUE,TRUE
+TR090,Business Studies and Spanish,566,531,510,Points decrease,35,56,21,35,56,21,TRUE,TRUE,TRUE
+TR091,General Nursing (Meath and St James`s),462,429,393,Points decrease,33,69,36,33,69,36,TRUE,TRUE,TRUE
+TR093,General Nursing (Adelaide School of Nursing),473,430,378,Points decrease,43,95,52,43,95,52,TRUE,TRUE,TRUE
+TR095,Mental Health Nursing,442,408,358,Points decrease,34,84,50,34,84,50,TRUE,TRUE,TRUE
+TR097,Intellectual Disability Nursing,412,396,346,Points decrease,16,66,50,16,66,50,TRUE,TRUE,TRUE
+TR911,Children`s and General Nursing (Integrated),531,511,476,Points decrease,20,55,35,20,55,35,TRUE,TRUE,TRUE
+TR913,Midwifery,521,478,423,Points decrease,43,98,55,43,98,55,TRUE,TRUE,TRUE
+DN100,Architecture,555,510,473,Points decrease,45,82,37,45,82,37,TRUE,TRUE,TRUE
+DN120,Landscape Architecture,463,407,353,Points decrease,56,110,54,56,110,54,TRUE,TRUE,TRUE
+DN130,City Planning and Environmental Policy,445,407,367,Points decrease,38,78,40,38,78,40,TRUE,TRUE,TRUE
+DN150,Engineering (Common Entry),565,531,511,Points decrease,34,54,20,34,54,20,TRUE,TRUE,TRUE
+DN200,Science (options),577,533,521,Points decrease,44,56,12,44,56,12,TRUE,TRUE,TRUE
+DN201,Computer Science (Common Entry),554,510,488,Points decrease,44,66,22,44,66,22,TRUE,TRUE,TRUE
+DN230,Actuarial and Financial Studies,613,601,577,Points decrease,12,36,24,12,36,24,TRUE,TRUE,TRUE
+DN240,Sustainability,510,440,,Points decrease,70,,,70,510,440,TRUE,FALSE,FALSE
+DN250,Agricultural Science (options),454,456,420,Points decrease,-2,34,36,-2,34,36,TRUE,TRUE,TRUE
+DN261,Food Science,531,477,434,Points decrease,54,97,43,54,97,43,TRUE,TRUE,TRUE
+DN262,Human Nutrition,566,531,493,Points decrease,35,73,38,35,73,38,TRUE,TRUE,TRUE
+DN300,Veterinary Medicine - Undergraduate Entry,601,589,567,Points decrease,12,34,22,12,34,22,TRUE,TRUE,TRUE
+DN301,Veterinary Medicine - Graduate Entry (GAMSAT requi,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+DN310,Veterinary Nursing,521,478,441,Points decrease,43,80,37,43,80,37,TRUE,TRUE,TRUE
+DN400,Medicine - Undergraduate Entry (HPAT required),743,737,735,Points decrease,6,8,2,6,8,2,TRUE,TRUE,TRUE
+DN401,Medicine - Graduate Entry (GAMSAT required),61,,59,Points decrease,,2,,61,2,-59,FALSE,TRUE,FALSE
+DN410,Radiography,566,534,507,Points decrease,32,59,27,32,59,27,TRUE,TRUE,TRUE
+DN411,Radiography - Graduate Entry,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+DN420,Physiotherapy,601,578,542,Points decrease,23,59,36,23,59,36,TRUE,TRUE,TRUE
+DN425,Health and Performance Science,544,510,488,Points decrease,34,56,22,34,56,22,TRUE,TRUE,TRUE
+DN430,Sport and Exercise Management,484,455,436,Points decrease,29,48,19,29,48,19,TRUE,TRUE,TRUE
+DN440,Biomedical  Health and Life Sciences,613,590,565,Points decrease,23,48,25,23,48,25,TRUE,TRUE,TRUE
+DN450,General Nursing,462,429,398,Points decrease,33,64,31,33,64,31,TRUE,TRUE,TRUE
+DN451,Children`s and General Nursing (Integrated),533,509,462,Points decrease,24,71,47,24,71,47,TRUE,TRUE,TRUE
+DN452,Midwifery,510,489,409,Points decrease,21,101,80,21,101,80,TRUE,TRUE,TRUE
+DN453,Mental Health Nursing,442,397,379,Points decrease,45,63,18,45,63,18,TRUE,TRUE,TRUE
+DN520,Joint Honours (options),381,310,336,Points decrease,71,45,-26,71,45,-26,TRUE,TRUE,TRUE
+DN530,Humanities (options),397,340,348,Points decrease,57,49,-8,57,49,-8,TRUE,TRUE,TRUE
+DN541,Modern Languages (options),320,303,348,Points decrease,17,-28,-45,17,-28,-45,TRUE,TRUE,TRUE
+DN600,Law (options),576,546,520,Points decrease,30,56,26,30,56,26,TRUE,TRUE,TRUE
+DN610,Business and Law,573,545,521,Points decrease,28,52,24,28,52,24,TRUE,TRUE,TRUE
+DN650,Commerce,555,521,498,Points decrease,34,57,23,34,57,23,TRUE,TRUE,TRUE
+DN660,Commerce International (options),555,517,507,Points decrease,38,48,10,38,48,10,TRUE,TRUE,TRUE
+DN670,Economics and Finance,625,613,601,Points decrease,12,24,12,12,24,12,TRUE,TRUE,TRUE
+DN700,Social Sciences (options),475,421,388,Points decrease,54,87,33,54,87,33,TRUE,TRUE,TRUE
+DN710,Economics,534,498,476,Points decrease,36,58,22,36,58,22,TRUE,TRUE,TRUE
+DN720,Psychology,566,530,517,Points decrease,36,49,13,36,49,13,TRUE,TRUE,TRUE
+DN750,Social Policy and Sociology,421,378,330,Points decrease,43,91,48,43,91,48,TRUE,TRUE,TRUE
+DK810,Accounting and Finance,307,305,306,Points decrease,2,1,-1,2,1,-1,TRUE,TRUE,TRUE
+DK816,Business Studies,301,300,300,Points decrease,1,1,0,1,1,0,TRUE,TRUE,TRUE
+DK820,Computing in Games Development,309,311,307,Points decrease,-2,2,4,-2,2,4,TRUE,TRUE,TRUE
+DK821,Computing in Software Development,320,302,301,Points decrease,18,19,1,18,19,1,TRUE,TRUE,TRUE
+DK822,Augmented and Virtual Reality,320,307,,Points decrease,13,,,13,320,307,TRUE,FALSE,FALSE
+DK830,Building Surveying,305,336,302,Points decrease,-31,3,34,-31,3,34,TRUE,TRUE,TRUE
+DK831,Architectural Technology,368,389,301,Points decrease,-21,67,88,-21,67,88,TRUE,TRUE,TRUE
+DK832,Construction Management,358,387,300,Points decrease,-29,58,87,-29,58,87,TRUE,TRUE,TRUE
+DK843,Engineering (Common Entry),404,340,303,Points decrease,64,101,37,64,101,37,TRUE,TRUE,TRUE
+DK844,Mechanical Engineering,336,305,,Points decrease,31,,,31,336,305,TRUE,FALSE,FALSE
+DK845,Electrical and Electronic Engineering,331,304,,Points decrease,27,,,27,331,304,TRUE,FALSE,FALSE
+DK846,Civil Engineering,371,391,,Points decrease,-20,,,-20,371,391,TRUE,FALSE,FALSE
+DK850,International Tourism Management,303,317,,Points decrease,-14,,,-14,303,317,TRUE,FALSE,FALSE
+DK861,Arts,302,302,300,Points decrease,0,2,2,0,2,2,TRUE,TRUE,TRUE
+DK862,Social Care,322,301,300,Points decrease,21,22,1,21,22,1,TRUE,TRUE,TRUE
+DK863,Creative Media,336,308,300,Points decrease,28,36,8,28,36,8,TRUE,TRUE,TRUE
+DK864,Film and Television Production,308,300,300,Points decrease,8,8,0,8,8,0,TRUE,TRUE,TRUE
+DK865,Audio and Music Production,352,301,301,Points decrease,51,51,0,51,51,0,TRUE,TRUE,TRUE
+DK870,General Nursing,440,403,392,Points decrease,37,48,11,37,48,11,TRUE,TRUE,TRUE
+DK872,Intellectual Disability Nursing,367,336,300,Points decrease,31,67,36,31,67,36,TRUE,TRUE,TRUE
+DK874,Mental Health Nursing,398,356,356,Points decrease,42,42,0,42,42,0,TRUE,TRUE,TRUE
+DK876,Early Childhood Studies,300,321,305,Points decrease,-21,-5,16,-21,-5,16,TRUE,TRUE,TRUE
+DK877,Midwifery,482,440,398,Points decrease,42,84,42,42,84,42,TRUE,TRUE,TRUE
+DK880,Health and Physical Activity,301,328,300,Points decrease,-27,1,28,-27,1,28,TRUE,TRUE,TRUE
+DK882,Agriculture (Award options),342,310,303,Points decrease,32,39,7,32,39,7,TRUE,TRUE,TRUE
+DK883,Science (Award options),373,358,300,Points decrease,15,73,58,15,73,58,TRUE,TRUE,TRUE
+DK884,Sustainable Agriculture,348,,,Points decrease,,,,348,348,0,FALSE,FALSE,TRUE
+DK885,Agri-Food Production,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+DK886,Biopharmaceutical Science,379,301,,Points decrease,78,,,78,379,301,TRUE,FALSE,FALSE
+DK887,Environmental Science,377,330,,Points decrease,47,,,47,377,330,TRUE,FALSE,FALSE
+GA181,Accounting,303,309,303,Points decrease,-6,0,6,-6,0,6,TRUE,TRUE,TRUE
+GA182,Business,285,287,290,Points decrease,-2,-5,-3,-2,-5,-3,TRUE,TRUE,TRUE
+GA183,Business Information Systems,298,296,309,Points decrease,2,-11,-13,2,-11,-13,TRUE,TRUE,TRUE
+GA184,Marketing and Sales,300,307,307,Points decrease,-7,-7,0,-7,-7,0,TRUE,TRUE,TRUE
+GA185,Finance and Economics,318,293,307,Points decrease,25,11,-14,25,11,-14,TRUE,TRUE,TRUE
+GA186,Business with Entrepreneurship,287,280,297,Points decrease,7,-10,-17,7,-10,-17,TRUE,TRUE,TRUE
+GA187,Rural Enterprise and Agri-Business,291,281,280,Points decrease,10,11,1,10,11,1,TRUE,TRUE,TRUE
+GA281,Film and Documentary,310,304,287,Points decrease,6,23,17,6,23,17,TRUE,TRUE,TRUE
+GA282,Heritage Studies,252,220,238,Points decrease,32,14,-18,32,14,-18,TRUE,TRUE,TRUE
+GA283,Contemporary Art (portfolio),790,679,260,Points decrease,111,530,419,111,530,419,TRUE,TRUE,TRUE
+GA284,Design,331,303,309,Points decrease,28,22,-6,28,22,-6,TRUE,TRUE,TRUE
+GA285,Education (Art  Design and Graphics),406,,,Points decrease,,,,406,406,0,FALSE,FALSE,TRUE
+GA380,International Hotel Management,218,242,225,Points decrease,-24,-7,17,-24,-7,17,TRUE,TRUE,TRUE
+GA381,International Tourism Management,252,278,261,Points decrease,-26,-9,17,-26,-9,17,TRUE,TRUE,TRUE
+GA382,Culinary and Gastronomic Science,235,206,225,Points decrease,29,10,-19,29,10,-19,TRUE,TRUE,TRUE
+GA384,Event Management with Public Relations,230,212,209,Points decrease,18,21,3,18,21,3,TRUE,TRUE,TRUE
+GA480,Construction Management,302,260,260,Points decrease,42,42,0,42,42,0,TRUE,TRUE,TRUE
+GA482,Quantity Surveying and Construction Economics,304,288,280,Points decrease,16,24,8,16,24,8,TRUE,TRUE,TRUE
+GA483,Architectural Technology,281,265,251,Points decrease,16,30,14,16,30,14,TRUE,TRUE,TRUE
+GA484,Civil Engineering,377,290,270,Points decrease,87,107,20,87,107,20,TRUE,TRUE,TRUE
+GA580,Software and Electronic Engineering,300,300,301,Points decrease,0,-1,-1,0,-1,-1,TRUE,TRUE,TRUE
+GA680,Mechanical Engineering,400,330,336,Points decrease,70,64,-6,70,64,-6,TRUE,TRUE,TRUE
+GA681,Energy Engineering,312,293,281,Points decrease,19,31,12,19,31,12,TRUE,TRUE,TRUE
+GA682,Biomedical Engineering,331,313,331,Points decrease,18,0,-18,18,0,-18,TRUE,TRUE,TRUE
+GA683,Agricultural Engineering,304,309,301,Points decrease,-5,3,8,-5,3,8,TRUE,TRUE,TRUE
+GA684,Engineering Common Entry to Manu/Agri/Biomed/Energ,413,340,346,Points decrease,73,67,-6,73,67,-6,TRUE,TRUE,TRUE
+GA685,Manufacturing Engineering Design,336,309,,Points decrease,27,,,27,336,309,TRUE,FALSE,FALSE
+GA780,Applied Freshwater and Marine Biology,366,327,300,Points decrease,39,66,27,39,66,27,TRUE,TRUE,TRUE
+GA781,Applied Biology and Biopharmaceutical Science,381,337,317,Points decrease,44,64,20,44,64,20,TRUE,TRUE,TRUE
+GA782,Chemical and Pharmaceutical Science,356,336,307,Points decrease,20,49,29,20,49,29,TRUE,TRUE,TRUE
+GA783,Physics and Instrumentation,301,363,373,Points decrease,-62,-72,-10,-62,-72,-10,TRUE,TRUE,TRUE
+GA784,Science (Undenominated),445,372,327,Points decrease,73,118,45,73,118,45,TRUE,TRUE,TRUE
+GA785,Medical Science,517,473,451,Points decrease,44,66,22,44,66,22,TRUE,TRUE,TRUE
+GA786,Forensic Science and Analysis,408,317,300,Points decrease,91,108,17,91,108,17,TRUE,TRUE,TRUE
+GA787,Computing in Software Development,310,270,275,Points decrease,40,35,-5,40,35,-5,TRUE,TRUE,TRUE
+GA788,Computing and Digital Media,270,274,270,Points decrease,-4,0,4,-4,0,4,TRUE,TRUE,TRUE
+GA789,Agriculture and Environmental Management,340,287,297,Points decrease,53,43,-10,53,43,-10,TRUE,TRUE,TRUE
+GA790,Sport and Exercise Science,376,356,350,Points decrease,20,26,6,20,26,6,TRUE,TRUE,TRUE
+GA791,Public Health Nutrition,368,368,364,Points decrease,0,4,4,0,4,4,TRUE,TRUE,TRUE
+GA880,General Nursing,440,429,389,Points decrease,11,51,40,11,51,40,TRUE,TRUE,TRUE
+GA882,Psychiatric Nursing,369,367,346,Points decrease,2,23,21,2,23,21,TRUE,TRUE,TRUE
+GA885,Outdoor Education,269,252,210,Points decrease,17,59,42,17,59,42,TRUE,TRUE,TRUE
+GA887,History and Geography,201,244,228,Points decrease,-43,-27,16,-43,-27,16,TRUE,TRUE,TRUE
+GA889,Applied Social Care,265,266,260,Points decrease,-1,5,6,-1,5,6,TRUE,TRUE,TRUE
+GA890,Early Childhood Education and Care,281,270,278,Points decrease,11,3,-8,11,3,-8,TRUE,TRUE,TRUE
+GA891,Geography and Outdoor Education,261,244,,Points decrease,17,,,17,261,244,TRUE,FALSE,FALSE
+GA892,Community Development and Youth Work (Level 8),,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+GA980,Education (Design Graphics and Construction),410,377,376,Points decrease,33,34,1,33,34,1,TRUE,TRUE,TRUE
+GA981,Furniture Design and Manufacture,346,,271,Points decrease,,75,,346,75,-271,FALSE,TRUE,FALSE
+GA982,Furniture Making and Architectural Woodworking,360,,270,Points decrease,,90,,360,90,-270,FALSE,TRUE,FALSE
+GA983,Furniture and Digital Manufacturing,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+GA984,Furniture Design  Making and Technology - Common E,486,284,,Points decrease,202,,,202,486,284,TRUE,FALSE,FALSE
+GY101,Arts (Joint-Honours),327,300,300,Points decrease,27,27,0,27,27,0,TRUE,TRUE,TRUE
+GY104,BSc (Psychology),564,523,507,Points decrease,41,57,16,41,57,16,TRUE,TRUE,TRUE
+GY105,Arts (History),357,301,318,Points decrease,56,39,-17,56,39,-17,TRUE,TRUE,TRUE
+GY109,Arts (Mathematics and Education),413,403,411,Points decrease,10,2,-8,10,2,-8,TRUE,TRUE,TRUE
+GY110,Arts (Children and Youth Studies - options),387,357,382,Points decrease,30,5,-25,30,5,-25,TRUE,TRUE,TRUE
+GY111,Arts (English and Creative Writing),421,330,402,Points decrease,91,19,-72,91,19,-72,TRUE,TRUE,TRUE
+GY113,Arts with Human Rights,413,368,338,Points decrease,45,75,30,45,75,30,TRUE,TRUE,TRUE
+GY115,Arts with Performing Arts Studies,300,387,328,Points decrease,-87,-28,59,-87,-28,59,TRUE,TRUE,TRUE
+GY118,Arts (Drama  Theatre and Performance Studies),453,451,410,Points decrease,2,43,41,2,43,41,TRUE,TRUE,TRUE
+GY119,Arts (Journalism),484,400,410,Points decrease,84,74,-10,84,74,-10,TRUE,TRUE,TRUE
+GY122,Na Dána (Cumarsáid agus Gaeilge),410,361,308,Points decrease,49,102,53,49,102,53,TRUE,TRUE,TRUE
+GY123,Applied Social Sciences,419,358,357,Points decrease,61,62,1,61,62,1,TRUE,TRUE,TRUE
+GY125,Arts (Digital Arts and Technology),403,328,324,Points decrease,75,79,4,75,79,4,TRUE,TRUE,TRUE
+GY127,Arts (Film and Digital Media),430,401,387,Points decrease,29,43,14,29,43,14,TRUE,TRUE,TRUE
+GY128,Arts (Global Languages),346,352,370,Points decrease,-6,-24,-18,-6,-24,-18,TRUE,TRUE,TRUE
+GY129,Arts (Global Experience),465,420,408,Points decrease,45,57,12,45,57,12,TRUE,TRUE,TRUE
+GY130,Arts (Music),462,408,400,Points decrease,54,62,8,54,62,8,TRUE,TRUE,TRUE
+GY132,Government (Politics  Economics and Law),465,407,402,Points decrease,58,63,5,58,63,5,TRUE,TRUE,TRUE
+GY133,Education (Computer Science and Mathematical Studi,454,422,401,Points decrease,32,53,21,32,53,21,TRUE,TRUE,TRUE
+GY134,Geography and Geosystems,425,410,,Points decrease,15,,,15,425,410,TRUE,FALSE,FALSE
+GY135,Arts (Global Media),442,,,Points decrease,,,,442,442,0,FALSE,FALSE,TRUE
+GY136,Na Dána (Léann Teanga - options),526,,,Points decrease,,,,526,526,0,FALSE,FALSE,TRUE
+GY201,Commerce,476,433,420,Points decrease,43,56,13,43,56,13,TRUE,TRUE,TRUE
+GY202,Commerce (International) with French,520,484,484,Points decrease,36,36,0,36,36,0,TRUE,TRUE,TRUE
+GY203,Commerce (International) with German,518,489,489,Points decrease,29,29,0,29,29,0,TRUE,TRUE,TRUE
+GY204,Commerce (International) with Spanish,506,495,484,Points decrease,11,22,11,11,22,11,TRUE,TRUE,TRUE
+GY206,Business Information Systems (Work Placement and O,509,465,431,Points decrease,44,78,34,44,78,34,TRUE,TRUE,TRUE
+GY207,Commerce (Accounting) including optional Global Ex,543,509,486,Points decrease,34,57,23,34,57,23,TRUE,TRUE,TRUE
+GY208,Commerce (Gaeilge),508,473,473,Points decrease,35,35,0,35,35,0,TRUE,TRUE,TRUE
+GY209,Commerce (Global Experience),551,530,509,Points decrease,21,42,21,21,42,21,TRUE,TRUE,TRUE
+GY250,Law and Business,510,487,436,Points decrease,23,74,51,23,74,51,TRUE,TRUE,TRUE
+GY251,Law (BCL),542,499,473,Points decrease,43,69,26,43,69,26,TRUE,TRUE,TRUE
+GY252,Law (BCL) and Human Rights,565,520,510,Points decrease,45,55,10,45,55,10,TRUE,TRUE,TRUE
+GY253,Law and Taxation,506,509,,Points decrease,-3,,,-3,506,509,TRUE,FALSE,FALSE
+GY254,Law (BCL)  Criminology and Criminal Justice,548,530,,Points decrease,18,,,18,548,530,TRUE,FALSE,FALSE
+GY261,Business Studies in International Hotel Management,503,497,486,Points decrease,6,17,11,6,17,11,TRUE,TRUE,TRUE
+GY262,Commerce in International Hotel Management (interv,709,681,671,Points decrease,28,38,10,28,38,10,TRUE,TRUE,TRUE
+GY301,Science,489,433,400,Points decrease,56,89,33,56,89,33,TRUE,TRUE,TRUE
+GY303,Biomedical Science,613,556,533,Points decrease,57,80,23,57,80,23,TRUE,TRUE,TRUE
+GY304,Biotechnology,498,465,473,Points decrease,33,25,-8,33,25,-8,TRUE,TRUE,TRUE
+GY308,Environmental Science,431,408,413,Points decrease,23,18,-5,23,18,-5,TRUE,TRUE,TRUE
+GY309,Financial Mathematics and Economics,509,487,454,Points decrease,22,55,33,22,55,33,TRUE,TRUE,TRUE
+GY310,Marine Science,467,419,409,Points decrease,48,58,10,48,58,10,TRUE,TRUE,TRUE
+GY313,Environmental Health and Safety,412,412,402,Points decrease,0,10,10,0,10,10,TRUE,TRUE,TRUE
+GY314,Earth and Ocean Sciences,422,403,402,Points decrease,19,20,1,19,20,1,TRUE,TRUE,TRUE
+GY318,Biopharmaceutical Chemistry,555,509,510,Points decrease,46,45,-1,46,45,-1,TRUE,TRUE,TRUE
+GY319,Mathematical Science,543,476,456,Points decrease,67,87,20,67,87,20,TRUE,TRUE,TRUE
+GY320,Physics (Degree options: Applied Astrophysics Biom,465,402,401,Points decrease,63,64,1,63,64,1,TRUE,TRUE,TRUE
+GY321,Genetics and Genomics,532,508,,Points decrease,24,,,24,532,508,TRUE,FALSE,FALSE
+GY322,Agricultural Sciences,485,,,Points decrease,,,,485,485,0,FALSE,FALSE,TRUE
+GY350,Computer Science and Information Technology,495,403,425,Points decrease,92,70,-22,92,70,-22,TRUE,TRUE,TRUE
+GY401,Engineering (Undenominated),522,465,444,Points decrease,57,78,21,57,78,21,TRUE,TRUE,TRUE
+GY402,Civil Engineering,533,455,509,Points decrease,78,24,-54,78,24,-54,TRUE,TRUE,TRUE
+GY405,Mechanical Engineering,541,454,443,Points decrease,87,98,11,87,98,11,TRUE,TRUE,TRUE
+GY406,Electronic and Computer Engineering,555,510,509,Points decrease,45,46,1,45,46,1,TRUE,TRUE,TRUE
+GY408,Biomedical Engineering,554,509,519,Points decrease,45,35,-10,45,35,-10,TRUE,TRUE,TRUE
+GY410,Project and Construction Management,431,403,434,Points decrease,28,-3,-31,28,-3,-31,TRUE,TRUE,TRUE
+GY413,Energy Systems Engineering,509,502,532,Points decrease,7,-23,-30,7,-23,-30,TRUE,TRUE,TRUE
+GY414,Electrical and Electronic Engineering,433,405,454,Points decrease,28,-21,-49,28,-21,-49,TRUE,TRUE,TRUE
+GY501,Medicine (five year/six year course  HPAT required,737,728,726,Points decrease,9,11,2,9,11,2,TRUE,TRUE,TRUE
+GY502,Occupational Therapy,601,555,532,Points decrease,46,69,23,46,69,23,TRUE,TRUE,TRUE
+GY503,Speech and Language Therapy,578,543,529,Points decrease,35,49,14,35,49,14,TRUE,TRUE,TRUE
+GY504,Podiatric Medicine,531,443,434,Points decrease,88,97,9,88,97,9,TRUE,TRUE,TRUE
+GY515,General Nursing (Galway and Portiuncula),502,476,442,Points decrease,26,60,34,26,60,34,TRUE,TRUE,TRUE
+GY516,Mental Health Nursing,475,440,388,Points decrease,35,87,52,35,87,52,TRUE,TRUE,TRUE
+GY517,Midwifery,520,495,429,Points decrease,25,91,66,25,91,66,TRUE,TRUE,TRUE
+LY108,Business - Accounting,312,309,318,Points decrease,3,-6,-9,3,-6,-9,TRUE,TRUE,TRUE
+LY118,Business,288,290,287,Points decrease,-2,1,3,-2,1,3,TRUE,TRUE,TRUE
+LY128,Marketing with Online Technologies,261,,,Points decrease,,,,261,261,0,FALSE,FALSE,TRUE
+LY208,Law,300,300,300,Points decrease,0,0,0,0,0,0,TRUE,TRUE,TRUE
+LY228,Sports and Exercise - Common Entry,290,300,278,Points decrease,-10,12,22,-10,12,22,TRUE,TRUE,TRUE
+LY408,Design - Common Entry,301,320,307,Points decrease,-19,-6,13,-19,-6,13,TRUE,TRUE,TRUE
+LY508,Fire Safety Engineering,283,276,270,Points decrease,7,13,6,7,13,6,TRUE,TRUE,TRUE
+LY518,Quantity Surveying,304,301,307,Points decrease,3,-3,-6,3,-3,-6,TRUE,TRUE,TRUE
+LY528,Construction Management,262,271,267,Points decrease,-9,-5,4,-9,-5,4,TRUE,TRUE,TRUE
+LY538,Architectural Technology,234,,,Points decrease,,,,234,234,0,FALSE,FALSE,TRUE
+LY608,Mechanical Engineering,300,300,304,Points decrease,0,-4,-4,0,-4,-4,TRUE,TRUE,TRUE
+LY618,Electronic Engineering,321,312,307,Points decrease,9,14,5,9,14,5,TRUE,TRUE,TRUE
+LY708,Applied Computing,320,306,300,Points decrease,14,20,6,14,20,6,TRUE,TRUE,TRUE
+LY748,Computer Science,316,317,,Points decrease,-1,,,-1,316,317,TRUE,FALSE,FALSE
+LY818,Science - Common Entry,302,303,302,Points decrease,-1,0,1,-1,0,1,TRUE,TRUE,TRUE
+LY828,Agriculture - Common Entry,308,307,300,Points decrease,1,8,7,1,8,7,TRUE,TRUE,TRUE
+LY908,General Nursing,429,400,383,Points decrease,29,46,17,29,46,17,TRUE,TRUE,TRUE
+LY918,Psychiatric Nursing,367,357,291,Points decrease,10,76,66,10,76,66,TRUE,TRUE,TRUE
+LY928,Intellectual Disability Nursing,357,326,288,Points decrease,31,69,38,31,69,38,TRUE,TRUE,TRUE
+LY968,Early Childhood Care  Health and Education,288,303,300,Points decrease,-15,-12,3,-15,-12,3,TRUE,TRUE,TRUE
+LY978,Health and Social Care - Common Entry,279,280,260,Points decrease,-1,19,20,-1,19,20,TRUE,TRUE,TRUE
+MI001,Contemporary and Applied Theatre Studies,209,375,345,Points decrease,-166,-136,30,-166,-136,30,TRUE,TRUE,TRUE
+MI002,Arts,280,300,300,Points decrease,-20,-20,0,-20,-20,0,TRUE,TRUE,TRUE
+MI004,Education - Primary Teaching - International,589,577,,Points decrease,12,,,12,589,577,TRUE,FALSE,FALSE
+MI005,Education - Primary Teaching,522,495,473,Points decrease,27,49,22,27,49,22,TRUE,TRUE,TRUE
+MI006,Education - Primary Teaching - Gaeltacht Applicant,485,456,442,Points decrease,29,43,14,29,43,14,TRUE,TRUE,TRUE
+MI007,Early Childhood Care and Education,409,357,366,Points decrease,52,43,-9,52,43,-9,TRUE,TRUE,TRUE
+MI008,Education and Psychology - Primary Teaching,590,588,543,Points decrease,2,47,45,2,47,45,TRUE,TRUE,TRUE
+MI009,Education  Business Studies and Accounting,434,402,392,Points decrease,32,42,10,32,42,10,TRUE,TRUE,TRUE
+MI010,Education  Business Studies and Religious Studies,370,368,326,Points decrease,2,44,42,2,44,42,TRUE,TRUE,TRUE
+MI011,Education  Gaeilge and Religious Studies,407,409,377,Points decrease,-2,30,32,-2,30,32,TRUE,TRUE,TRUE
+MI012,Education  Gaeilge and Business Studies,387,401,398,Points decrease,-14,-11,3,-14,-11,3,TRUE,TRUE,TRUE
+MI013,Education  Mathematics and Gaeilge,509,444,433,Points decrease,65,76,11,65,76,11,TRUE,TRUE,TRUE
+MI014,Education  Mathematics and Business Studies,476,434,,Points decrease,42,,,42,476,434,TRUE,FALSE,FALSE
+CI110,Counselling and Psychotherapy,292,310,,Points decrease,-18,,,-18,292,310,TRUE,FALSE,FALSE
+CI111,Counselling and Psychotherapy with Addiction Studi,290,301,,Points decrease,-11,,,-11,290,301,TRUE,FALSE,FALSE
+CI112,Counselling and Psychotherapy with Youth Studies,325,311,,Points decrease,14,,,14,325,311,TRUE,FALSE,FALSE
+LC110,Art and Design (Common Entry  portfolio),794,740,734,Points decrease,54,60,6,54,60,6,TRUE,TRUE,TRUE
+LC114,Fashion and Textiles for Product and Costume (port,914,880,900,Points decrease,34,14,-20,34,14,-20,TRUE,TRUE,TRUE
+LC115,Art and Design Teacher Education (LIT and UL  port,993,942,,Points decrease,51,,,51,993,942,TRUE,FALSE,FALSE
+LC220,Digital Marketing,263,262,254,Points decrease,1,9,8,1,9,8,TRUE,TRUE,TRUE
+LC223,Law and Taxation,331,307,308,Points decrease,24,23,-1,24,23,-1,TRUE,TRUE,TRUE
+LC224,Accounting and Finance,300,300,299,Points decrease,0,1,1,0,1,1,TRUE,TRUE,TRUE
+LC225,Marketing and Management,298,298,298,Points decrease,0,0,0,0,0,0,TRUE,TRUE,TRUE
+LC226,Enterprise and Innovation,255,234,216,Points decrease,21,39,18,21,39,18,TRUE,TRUE,TRUE
+LC233,Software Development,280,272,300,Points decrease,8,-20,-28,8,-20,-28,TRUE,TRUE,TRUE
+LC234,Immersive Digital Media and Spatial Computing,226,225,219,Points decrease,1,7,6,1,7,6,TRUE,TRUE,TRUE
+LC236,Internet Systems Development,260,262,298,Points decrease,-2,-38,-36,-2,-38,-36,TRUE,TRUE,TRUE
+LC239,Computer Networks and Systems Management,317,307,335,Points decrease,10,-18,-28,10,-18,-28,TRUE,TRUE,TRUE
+LC241,Construction Management,326,255,276,Points decrease,71,50,-21,71,50,-21,TRUE,TRUE,TRUE
+LC242,Property Valuation and Management,308,282,292,Points decrease,26,16,-10,26,16,-10,TRUE,TRUE,TRUE
+LC243,Quantity Surveying,278,294,281,Points decrease,-16,-3,13,-16,-3,13,TRUE,TRUE,TRUE
+LC248,Built Environment (Common Entry),300,288,307,Points decrease,12,-7,-19,12,-7,-19,TRUE,TRUE,TRUE
+LC252,Civil Engineering Management,264,270,281,Points decrease,-6,-17,-11,-6,-17,-11,TRUE,TRUE,TRUE
+LC263,Medical Technology,391,294,282,Points decrease,97,109,12,97,109,12,TRUE,TRUE,TRUE
+LC265,Forensic and Pharmaceutical Sciences,498,413,335,Points decrease,85,163,78,85,163,78,TRUE,TRUE,TRUE
+LC266,Drug and Medicinal Product Analysis,252,262,236,Points decrease,-10,16,26,-10,16,26,TRUE,TRUE,TRUE
+LC275,Electrical Engineering,361,298,288,Points decrease,63,73,10,63,73,10,TRUE,TRUE,TRUE
+LC288,Mechanical Engineering,378,347,307,Points decrease,31,71,40,31,71,40,TRUE,TRUE,TRUE
+LC289,Precision Engineering,261,291,280,Points decrease,-30,-19,11,-30,-19,11,TRUE,TRUE,TRUE
+LC292,Social Care Work,374,367,360,Points decrease,7,14,7,7,14,7,TRUE,TRUE,TRUE
+LC293,Business Studies with Travel and Tourism Managemen,271,307,299,Points decrease,-36,-28,8,-36,-28,8,TRUE,TRUE,TRUE
+LC294,Business Studies with Event Management,279,279,271,Points decrease,0,8,8,0,8,8,TRUE,TRUE,TRUE
+LC295,Business Studies with Sports Management,262,252,263,Points decrease,10,-1,-11,10,-1,-11,TRUE,TRUE,TRUE
+LC297,Community and Addiction Studies,272,235,217,Points decrease,37,55,18,37,55,18,TRUE,TRUE,TRUE
+LC320,Business,381,346,337,Points decrease,35,44,9,35,44,9,TRUE,TRUE,TRUE
+LC330,Business with Computing,328,297,298,Points decrease,31,30,-1,31,30,-1,TRUE,TRUE,TRUE
+LC340,Interior Design,391,350,298,Points decrease,41,93,52,41,93,52,TRUE,TRUE,TRUE
+LC362,Biotechnology and Biopharmaceutical Sciences,429,413,379,Points decrease,16,50,34,16,50,34,TRUE,TRUE,TRUE
+LC371,Creative Broadcast and Film Production,325,309,298,Points decrease,16,27,11,16,27,11,TRUE,TRUE,TRUE
+LC372,Music Technology and Production,377,325,321,Points decrease,52,56,4,52,56,4,TRUE,TRUE,TRUE
+LC374,Renewable and Electrical Energy Engineering,337,318,317,Points decrease,19,20,1,19,20,1,TRUE,TRUE,TRUE
+LC375,Industrial Automation and Robotic Systems,309,317,321,Points decrease,-8,-12,-4,-8,-12,-4,TRUE,TRUE,TRUE
+LC376,Electronic Engineering with Computer Systems,357,318,308,Points decrease,39,49,10,39,49,10,TRUE,TRUE,TRUE
+LC380,Automotive Engineering and Transport Management,298,303,282,Points decrease,-5,16,21,-5,16,21,TRUE,TRUE,TRUE
+LC392,Business Studies in Beauty and Spa Management,328,236,217,Points decrease,92,111,19,92,111,19,TRUE,TRUE,TRUE
+LC393,Early Childhood Education and Care,309,236,260,Points decrease,73,49,-24,73,49,-24,TRUE,TRUE,TRUE
+LC402,Social Care Work,228,225,209,Points decrease,3,19,16,3,19,16,TRUE,TRUE,TRUE
+LC408,Environmental Science and Climate,279,279,262,Points decrease,0,17,17,0,17,17,TRUE,TRUE,TRUE
+LC416,Business,260,274,,Points decrease,-14,,,-14,260,274,TRUE,FALSE,FALSE
+LC418,Computing - Games Design and Development,260,270,271,Points decrease,-10,-11,-1,-10,-11,-1,TRUE,TRUE,TRUE
+LC422,Applied Strength and Conditioning,289,298,288,Points decrease,-9,1,10,-9,1,10,TRUE,TRUE,TRUE
+LC502,Game Art and Design (portfolio),841,852,838,Points decrease,-11,3,14,-11,3,14,TRUE,TRUE,TRUE
+LC517,Creative Media and Design,279,234,229,Points decrease,45,50,5,45,50,5,TRUE,TRUE,TRUE
+LC518,Digital Animation Production (portfolio),807,808,816,Points decrease,-1,-9,-8,-1,-9,-8,TRUE,TRUE,TRUE
+LC612,Social Care Work,309,320,319,Points decrease,-11,-10,1,-11,-10,1,TRUE,TRUE,TRUE
+LM002,Arts,360,348,329,Points decrease,12,31,19,12,31,19,TRUE,TRUE,TRUE
+LM019,Social Sciences,451,,,Points decrease,,,,451,451,0,FALSE,FALSE,TRUE
+LM020,Law and Accounting,474,465,436,Points decrease,9,38,29,9,38,29,TRUE,TRUE,TRUE
+LM026,Performing Arts (audition format TBC),329,303,307,Points decrease,26,22,-4,26,22,-4,TRUE,TRUE,TRUE
+LM028,Criminal Justice,420,418,387,Points decrease,2,33,31,2,33,31,TRUE,TRUE,TRUE
+LM029,Law Plus,530,490,473,Points decrease,40,57,17,40,57,17,TRUE,TRUE,TRUE
+LM038,Psychology and Sociology,530,500,478,Points decrease,30,52,22,30,52,22,TRUE,TRUE,TRUE
+LM039,Journalism and Digital Communication,432,402,388,Points decrease,30,44,14,30,44,14,TRUE,TRUE,TRUE
+LM040,European Studies,409,369,350,Points decrease,40,59,19,40,59,19,TRUE,TRUE,TRUE
+LM044,Applied Languages,429,442,404,Points decrease,-13,25,38,-13,25,38,TRUE,TRUE,TRUE
+LM050,Business Studies (options),451,431,419,Points decrease,20,32,12,20,32,12,TRUE,TRUE,TRUE
+LM056,International Business,555,528,511,Points decrease,27,44,17,27,44,17,TRUE,TRUE,TRUE
+LM058,Financial Mathematics,468,403,434,Points decrease,65,34,-31,65,34,-31,TRUE,TRUE,TRUE
+LM063,Technology Management,410,379,372,Points decrease,31,38,7,31,38,7,TRUE,TRUE,TRUE
+LM066,Environmental Science,430,,,Points decrease,,,,430,430,0,FALSE,FALSE,TRUE
+LM068,Food Science and Health,464,421,400,Points decrease,43,64,21,43,64,21,TRUE,TRUE,TRUE
+LM076,Product Design and Technology (portfolio required),401,408,402,Points decrease,-7,-1,6,-7,-1,6,TRUE,TRUE,TRUE
+LM077,Aeronautical Engineering,567,520,469,Points decrease,47,98,51,47,98,51,TRUE,TRUE,TRUE
+LM082,Construction Management and Engineering,446,398,368,Points decrease,48,78,30,48,78,30,TRUE,TRUE,TRUE
+LM089,Sport and Exercise Sciences,498,474,441,Points decrease,24,57,33,24,57,33,TRUE,TRUE,TRUE
+LM090,Physical Education with concurrent Teacher Educati,552,532,498,Points decrease,20,54,34,20,54,34,TRUE,TRUE,TRUE
+LM091,Languages with concurrent Teacher Education,506,517,,Points decrease,-11,,,-11,506,517,TRUE,FALSE,FALSE
+LM092,Science with Teacher Ed (Biology with Physics/Chem,521,507,478,Points decrease,14,43,29,14,43,29,TRUE,TRUE,TRUE
+LM093,Equine Science,367,339,338,Points decrease,28,29,1,28,29,1,TRUE,TRUE,TRUE
+LM094,Materials and Architectural Technology with concur,475,440,405,Points decrease,35,70,35,35,70,35,TRUE,TRUE,TRUE
+LM095,Materials and Engineering Technology with concurre,425,367,358,Points decrease,58,67,9,58,67,9,TRUE,TRUE,TRUE
+LM096,Science with Teacher Ed (Physical Sciences with Ch,454,405,382,Points decrease,49,72,23,49,72,23,TRUE,TRUE,TRUE
+LM097,Mathematics and Computer Science with concurrent T,465,402,,Points decrease,63,,,63,465,402,TRUE,FALSE,FALSE
+LM099,Architecture,520,498,419,Points decrease,22,101,79,22,101,79,TRUE,TRUE,TRUE
+LM100,Physiotherapy,613,589,565,Points decrease,24,48,24,24,48,24,TRUE,TRUE,TRUE
+LM101,Medicine  - Graduate Entry (GAMSAT required),57,55,55,Points decrease,2,2,0,2,2,0,TRUE,TRUE,TRUE
+LM102,Psychology,534,509,495,Points decrease,25,39,14,25,39,14,TRUE,TRUE,TRUE
+LM103,Paramedic Studies (Full B/Provisional C1 Drivers L,429,392,313,Points decrease,37,116,79,37,116,79,TRUE,TRUE,TRUE
+LM105,Exercise and Health Fitness Management,441,,,Points decrease,,,,441,441,0,FALSE,FALSE,TRUE
+LM115,Chemical and Biochemical Engineering,476,454,456,Points decrease,22,20,-2,22,20,-2,TRUE,TRUE,TRUE
+LM116,Engineering (Biomedical/Civil/Design and Manufactu,498,476,434,Points decrease,22,64,42,22,64,42,TRUE,TRUE,TRUE
+LM118,Electronic and Computer Engineering,445,403,401,Points decrease,42,44,2,42,44,2,TRUE,TRUE,TRUE
+LM121,Computer Science (Computer Systems/Games Dev/Cyber,402,351,352,Points decrease,51,50,-1,51,50,-1,TRUE,TRUE,TRUE
+LM122,Creative Media and Interaction Design (Digital Des,382,327,330,Points decrease,55,52,-3,55,52,-3,TRUE,TRUE,TRUE
+LM123,Biological and Chemical Sc. (Biosci/Envir Sci/Ind,498,441,412,Points decrease,57,86,29,57,86,29,TRUE,TRUE,TRUE
+LM124,Mathematics (Math Science/Maths and Physics/Econom,455,437,427,Points decrease,18,28,10,18,28,10,TRUE,TRUE,TRUE
+LM125,Physics (Applied Physics or Mathematics and Physic,489,404,405,Points decrease,85,84,-1,85,84,-1,TRUE,TRUE,TRUE
+LM150,General Nursing,498,475,440,Points decrease,23,58,35,23,58,35,TRUE,TRUE,TRUE
+LM152,Mental Health Nursing,478,419,388,Points decrease,59,90,31,59,90,31,TRUE,TRUE,TRUE
+LM154,Intellectual Disability Nursing,462,420,381,Points decrease,42,81,39,42,81,39,TRUE,TRUE,TRUE
+LM156,Midwifery,521,469,429,Points decrease,52,92,40,52,92,40,TRUE,TRUE,TRUE
+MU001,Theology and Arts,294,290,290,Points decrease,4,4,0,4,4,0,TRUE,TRUE,TRUE
+MU002,Theology,,440,292,Points decrease,,,148,-440,-292,148,FALSE,FALSE,TRUE
+MH001,Education - Primary Teaching (Froebel),564,507,496,Points decrease,57,68,11,57,68,11,TRUE,TRUE,TRUE
+MH002,Education - Primary Teaching - Gaeltacht Applicant,,,441,Points decrease,,,,0,-441,-441,TRUE,FALSE,FALSE
+MH003,Early Childhood - Teaching and Learning (full-time,381,,,Points decrease,,,,381,381,0,FALSE,FALSE,TRUE
+MH101,Arts,338,318,316,Points decrease,20,22,2,20,22,2,TRUE,TRUE,TRUE
+MH103,Music,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+MH106,Psychology - 3 years,554,521,495,Points decrease,33,59,26,33,59,26,TRUE,TRUE,TRUE
+MH107,Social Science,390,346,326,Points decrease,44,64,20,44,64,20,TRUE,TRUE,TRUE
+MH109,Media Studies,324,316,317,Points decrease,8,7,-1,8,7,-1,TRUE,TRUE,TRUE
+MH116,Community and Youth Work (Full-Time),,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+MH201,Science,401,360,350,Points decrease,41,51,10,41,51,10,TRUE,TRUE,TRUE
+MH202,Biotechnology,490,455,429,Points decrease,35,61,26,35,61,26,TRUE,TRUE,TRUE
+MH203,Biological and Geographical Sciences,451,430,,Points decrease,21,,,21,451,430,TRUE,FALSE,FALSE
+MH204,Physics with Astrophysics,422,422,420,Points decrease,0,2,2,0,2,2,TRUE,TRUE,TRUE
+MH206,Theoretical Physics and Mathematics,521,510,498,Points decrease,11,23,12,11,23,12,TRUE,TRUE,TRUE
+MH207,Data Science,444,445,434,Points decrease,-1,10,11,-1,10,11,TRUE,TRUE,TRUE
+MH208,Biological and Biomedical Sciences,543,498,451,Points decrease,45,92,47,45,92,47,TRUE,TRUE,TRUE
+MH209,Psychology (through Science) - 4 years,529,498,473,Points decrease,31,56,25,31,56,25,TRUE,TRUE,TRUE
+MH210,Pharmaceutical and Biomedical Chemistry,510,487,446,Points decrease,23,64,41,23,64,41,TRUE,TRUE,TRUE
+MH212,Science|Maths and Computer Science|Mathematics (wi,452,422,444,Points decrease,30,8,-22,30,8,-22,TRUE,TRUE,TRUE
+MH304,Engineering (Computer/Electronic/Communications),351,333,371,Points decrease,18,-20,-38,18,-20,-38,TRUE,TRUE,TRUE
+MH305,Product Design,326,357,358,Points decrease,-31,-32,-1,-31,-32,-1,TRUE,TRUE,TRUE
+MH306,Robotics and Intelligent Devices,362,361,361,Points decrease,1,1,0,1,1,0,TRUE,TRUE,TRUE
+MH401,Finance (options),370,357,352,Points decrease,13,18,5,13,18,5,TRUE,TRUE,TRUE
+MH402,Quantitative Finance,476,476,476,Points decrease,0,0,0,0,0,0,TRUE,TRUE,TRUE
+MH403,Accounting and Finance,424,422,402,Points decrease,2,22,20,2,22,20,TRUE,TRUE,TRUE
+MH404,Business (options),441,430,400,Points decrease,11,41,30,11,41,30,TRUE,TRUE,TRUE
+MH407,Business and Accounting,423,420,401,Points decrease,3,22,19,3,22,19,TRUE,TRUE,TRUE
+MH411,Entrepreneurship,378,371,358,Points decrease,7,20,13,7,20,13,TRUE,TRUE,TRUE
+MH501,LLB Law - four year Single Major Law programme,507,473,451,Points decrease,34,56,22,34,56,22,TRUE,TRUE,TRUE
+MH502,Law (options),465,451,410,Points decrease,14,55,41,14,55,41,TRUE,TRUE,TRUE
+MH601,Computer Science through Arts (options),381,352,342,Points decrease,29,39,10,29,39,10,TRUE,TRUE,TRUE
+MH602,Computer Science through Science (options),400,351,357,Points decrease,49,43,-6,49,43,-6,TRUE,TRUE,TRUE
+MH603,Computational Thinking,520,532,520,Points decrease,-12,0,12,-12,0,12,TRUE,TRUE,TRUE
+MH801,Early Childhood - Teaching and Learning (part-time,,327,347,Points decrease,,,-20,-327,-347,-20,FALSE,FALSE,TRUE
+MH802,Community and Youth Work (part-time  in service),,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+MH803,Local Studies/Community Studies (part-time  evenin,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+AS001,Education  Home Economics and Biology - with concu,542,510,456,Points decrease,32,86,54,32,86,54,TRUE,TRUE,TRUE
+AS002,Education  Home Economics and Religious Ed - with,464,441,400,Points decrease,23,64,41,23,64,41,TRUE,TRUE,TRUE
+AS003,Education  Home Economics and Irish - with concurr,463,440,421,Points decrease,23,42,19,23,42,19,TRUE,TRUE,TRUE
+AS051,Nutrition  Food and Business Management,378,328,337,Points decrease,50,41,-9,50,41,-9,TRUE,TRUE,TRUE
+AS054,Home Economics,440,408,387,Points decrease,32,53,21,32,53,21,TRUE,TRUE,TRUE
+AS110,General Nursing,440,419,391,Points decrease,21,49,28,21,49,28,TRUE,TRUE,TRUE
+AS130,Intellectual Disability Nursing,387,336,317,Points decrease,51,70,19,51,70,19,TRUE,TRUE,TRUE
+SG141,Business,262,261,252,Points decrease,1,10,9,1,10,9,TRUE,TRUE,TRUE
+SG145,Business and ICT,279,,,Points decrease,,,,279,279,0,FALSE,FALSE,TRUE
+SG146,Accounting,304,309,307,Points decrease,-5,-3,2,-5,-3,2,TRUE,TRUE,TRUE
+SG147,Sport with Business,288,307,269,Points decrease,-19,19,38,-19,19,38,TRUE,TRUE,TRUE
+SG148,Tourism with Event Management,298,269,246,Points decrease,29,52,23,29,52,23,TRUE,TRUE,TRUE
+SG150,Business in Marketing,298,,,Points decrease,,,,298,298,0,FALSE,FALSE,TRUE
+SG241,Performing Arts,341,328,279,Points decrease,13,62,49,13,62,49,TRUE,TRUE,TRUE
+SG242,Early Childhood Care and Education,287,279,278,Points decrease,8,9,1,8,9,1,TRUE,TRUE,TRUE
+SG243,Social Care Practice,309,301,297,Points decrease,8,12,4,8,12,4,TRUE,TRUE,TRUE
+SG244,Fine Art,501,505,355,Points decrease,-4,146,150,-4,146,150,TRUE,TRUE,TRUE
+SG245,Creative Design,332,282,261,Points decrease,50,71,21,50,71,21,TRUE,TRUE,TRUE
+SG246,Computing,316,290,295,Points decrease,26,21,-5,26,21,-5,TRUE,TRUE,TRUE
+SG247,English and Psychology,319,309,308,Points decrease,10,11,1,10,11,1,TRUE,TRUE,TRUE
+SG248,Sociology and Politics,298,281,282,Points decrease,17,16,-1,17,16,-1,TRUE,TRUE,TRUE
+SG249,Writing and Literature,308,297,279,Points decrease,11,29,18,11,29,18,TRUE,TRUE,TRUE
+SG252,Software Development,310,307,300,Points decrease,3,10,7,3,10,7,TRUE,TRUE,TRUE
+SG253,Computing in Computer Networks and Cyber Security,336,324,273,Points decrease,12,63,51,12,63,51,TRUE,TRUE,TRUE
+SG254,Writing and Literature Online,327,225,,Points decrease,102,,,102,327,225,TRUE,FALSE,FALSE
+SG255,Law and Business,291,,,Points decrease,,,,291,291,0,FALSE,FALSE,TRUE
+SG341,General Engineering,373,,,Points decrease,,,,373,373,0,FALSE,FALSE,TRUE
+SG342,Civil Engineering,418,415,,Points decrease,3,,,3,418,415,TRUE,FALSE,FALSE
+SG343,Quantity Surveying,300,311,261,Points decrease,-11,39,50,-11,39,50,TRUE,TRUE,TRUE
+SG344,Mechanical Engineering,412,,,Points decrease,,,,412,412,0,FALSE,FALSE,TRUE
+SG346,Construction Project Management and Applied Techno,313,291,289,Points decrease,22,24,2,22,24,2,TRUE,TRUE,TRUE
+SG347,Architecture,403,360,309,Points decrease,43,94,51,43,94,51,TRUE,TRUE,TRUE
+SG348,Interior Architecture and Design,359,316,,Points decrease,43,,,43,359,316,TRUE,FALSE,FALSE
+SG349,Electronics and Self Driving Technologies,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+SG350,Robotics and Automation,384,,,Points decrease,,,,384,384,0,FALSE,FALSE,TRUE
+SG442,Occupational Safety and Health,307,290,289,Points decrease,17,18,1,17,18,1,TRUE,TRUE,TRUE
+SG443,Human Nutrition,376,356,357,Points decrease,20,19,-1,20,19,-1,TRUE,TRUE,TRUE
+SG444,Science Undenominated,358,338,308,Points decrease,20,50,30,20,50,30,TRUE,TRUE,TRUE
+SG445,Pharmaceutical Science with Drug Development,357,311,347,Points decrease,46,10,-36,46,10,-36,TRUE,TRUE,TRUE
+SG447,Health Science and Physical Activity,326,328,316,Points decrease,-2,10,12,-2,10,12,TRUE,TRUE,TRUE
+SG448,Forensic Investigation and Analysis,308,306,306,Points decrease,2,2,0,2,2,0,TRUE,TRUE,TRUE
+SG449,Medical Biotechnology,315,341,329,Points decrease,-26,-14,12,-26,-14,12,TRUE,TRUE,TRUE
+SG450,Environmental Science with Ecology (Level 8),310,300,,Points decrease,10,,,10,310,300,TRUE,FALSE,FALSE
+TL801,Animation  Visual Effects and Motion Design (Level,718,281,281,Points decrease,437,437,0,437,437,0,TRUE,TRUE,TRUE
+TL802,TV  Radio and New Media (Level 8),322,325,306,Points decrease,-3,16,19,-3,16,19,TRUE,TRUE,TRUE
+TL810,Computing with Software Development,308,310,309,Points decrease,-2,-1,1,-2,-1,1,TRUE,TRUE,TRUE
+TL811,Computing with Games Development,322,358,310,Points decrease,-36,12,48,-36,12,48,TRUE,TRUE,TRUE
+TL815,Computing (Degree Award options),307,308,308,Points decrease,-1,-1,0,-1,-1,0,TRUE,TRUE,TRUE
+TL823,Event Management (3 year programme),293,299,291,Points decrease,-6,2,8,-6,2,8,TRUE,TRUE,TRUE
+TL831,Business Studies (Major Specialism in: Acctng or M,306,306,307,Points decrease,0,-1,-1,0,-1,-1,TRUE,TRUE,TRUE
+TL842,Construction Management,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+TL844,Agricultural Engineering,301,300,311,Points decrease,1,-10,-11,1,-10,-11,TRUE,TRUE,TRUE
+TL845,Civil Engineering,361,325,300,Points decrease,36,61,25,36,61,25,TRUE,TRUE,TRUE
+TL847,Manufacturing Engineering,305,302,,Points decrease,3,,,3,305,302,TRUE,FALSE,FALSE
+TL848,Agricultural Science,307,308,331,Points decrease,-1,-24,-23,-1,-24,-23,TRUE,TRUE,TRUE
+TL851,Wildlife Biology (Degree Award options),309,309,310,Points decrease,0,-1,-1,0,-1,-1,TRUE,TRUE,TRUE
+TL855,Pharmaceutical Science (Degree Award options),316,317,342,Points decrease,-1,-26,-25,-1,-26,-25,TRUE,TRUE,TRUE
+TL858,Veterinary Bioscience,317,308,326,Points decrease,9,-9,-18,9,-9,-18,TRUE,TRUE,TRUE
+TL871,Health and Leisure (Degree Award options),303,300,303,Points decrease,3,0,-3,3,0,-3,TRUE,TRUE,TRUE
+TL872,Health and Leisure with Massage,314,309,288,Points decrease,5,26,21,5,26,21,TRUE,TRUE,TRUE
+TL873,Coaching and Sports Performance,308,289,282,Points decrease,19,26,7,19,26,7,TRUE,TRUE,TRUE
+TL874,Inclusive Sport and Physical Activity,341,,,Points decrease,,,,341,341,0,FALSE,FALSE,TRUE
+TL880,Early Childhood Care and Education,309,307,307,Points decrease,2,2,0,2,2,0,TRUE,TRUE,TRUE
+TL881,Social Care,301,308,308,Points decrease,-7,-7,0,-7,-7,0,TRUE,TRUE,TRUE
+TL889,Counselling with Addiction - Mature applicants onl,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+TL890,General Nursing and Mature Applicants,463,440,407,Points decrease,23,56,33,23,56,33,TRUE,TRUE,TRUE
+TL891,Mental Health Nursing and Mature Applicants,440,389,367,Points decrease,51,73,22,51,73,22,TRUE,TRUE,TRUE
+WD001,Applied Computing (options),270,260,279,Points decrease,10,-9,-19,10,-9,-19,TRUE,TRUE,TRUE
+WD002,Science (options),279,308,302,Points decrease,-29,-23,6,-29,-23,6,TRUE,TRUE,TRUE
+WD005,Health Sciences (options),271,280,288,Points decrease,-9,-17,-8,-9,-17,-8,TRUE,TRUE,TRUE
+WD006,Exercise Sciences (options),270,280,282,Points decrease,-10,-12,-2,-10,-12,-2,TRUE,TRUE,TRUE
+WD007,Engineering (options),270,288,287,Points decrease,-18,-17,1,-18,-17,1,TRUE,TRUE,TRUE
+WD025,Construction Management and Engineering,262,269,269,Points decrease,-7,-7,0,-7,-7,0,TRUE,TRUE,TRUE
+WD027,Music,321,262,290,Points decrease,59,31,-28,59,31,-28,TRUE,TRUE,TRUE
+WD048,Business (options),279,271,278,Points decrease,8,1,-7,8,1,-7,TRUE,TRUE,TRUE
+WD084,Accounting,308,308,307,Points decrease,0,1,1,0,1,1,TRUE,TRUE,TRUE
+WD091,Hospitality Management,225,228,210,Points decrease,-3,15,18,-3,15,18,TRUE,TRUE,TRUE
+WD116,General Nursing,446,422,413,Points decrease,24,33,9,24,33,9,TRUE,TRUE,TRUE
+WD117,Psychiatric Nursing,415,366,361,Points decrease,49,54,5,49,54,5,TRUE,TRUE,TRUE
+WD120,Intellectual Disability Nursing,390,377,338,Points decrease,13,52,39,13,52,39,TRUE,TRUE,TRUE
+WD134,International Business,267,290,289,Points decrease,-23,-22,1,-23,-22,1,TRUE,TRUE,TRUE
+WD137,Design (Visual Communications),252,271,253,Points decrease,-19,-1,18,-19,-1,18,TRUE,TRUE,TRUE
+WD140,Laws,280,280,290,Points decrease,0,-10,-10,0,-10,-10,TRUE,TRUE,TRUE
+WD144,Architecture,309,284,283,Points decrease,25,26,1,25,26,1,TRUE,TRUE,TRUE
+WD147,Pharmaceutical Science,288,293,298,Points decrease,-5,-10,-5,-5,-10,-5,TRUE,TRUE,TRUE
+WD150,Criminal Justice Studies,280,270,271,Points decrease,10,9,-1,10,9,-1,TRUE,TRUE,TRUE
+WD152,Visual Art,243,,253,Points decrease,,-10,,243,-10,-253,FALSE,TRUE,FALSE
+WD161,Computer Forensics and Security,270,255,262,Points decrease,15,8,-7,15,8,-7,TRUE,TRUE,TRUE
+WD162,Quantity Surveying,226,216,260,Points decrease,10,-34,-44,10,-34,-44,TRUE,TRUE,TRUE
+WD163,Psychology,456,434,390,Points decrease,22,66,44,22,66,44,TRUE,TRUE,TRUE
+WD186,Sports Coaching and Performance,261,270,276,Points decrease,-9,-15,-6,-9,-15,-6,TRUE,TRUE,TRUE
+WD187,Social Science,276,272,271,Points decrease,4,5,1,4,5,1,TRUE,TRUE,TRUE
+WD191,Agricultural Science,377,377,378,Points decrease,0,-1,-1,0,-1,-1,TRUE,TRUE,TRUE
+WD192,Social Care Practice,271,270,279,Points decrease,1,-8,-9,1,-8,-9,TRUE,TRUE,TRUE
+WD193,Marketing and Digital Media,279,271,290,Points decrease,8,-11,-19,8,-11,-19,TRUE,TRUE,TRUE
+WD194,Culinary Arts,237,217,235,Points decrease,20,2,-18,20,2,-18,TRUE,TRUE,TRUE
+WD195,Architectural and Building Information Modelling T,279,279,266,Points decrease,0,13,13,0,13,13,TRUE,TRUE,TRUE
+WD200,Arts (options),201,,221,Points decrease,,-20,,201,-20,-221,FALSE,TRUE,FALSE
+WD210,Software Systems Development,260,279,271,Points decrease,-19,-11,8,-19,-11,8,TRUE,TRUE,TRUE
+WD211,Creative Computing,270,271,275,Points decrease,-1,-5,-4,-1,-5,-4,TRUE,TRUE,TRUE
+WD212,Recreation and Sport Management,262,270,274,Points decrease,-8,-12,-4,-8,-12,-4,TRUE,TRUE,TRUE
+WD230,Mechanical and Manufacturing Engineering,230,253,273,Points decrease,-23,-43,-20,-23,-43,-20,TRUE,TRUE,TRUE
+WD231,Early Childhood Care and Education,266,,,Points decrease,,,,266,266,0,FALSE,FALSE,TRUE
+WD232,Business Information Systems,261,,,Points decrease,,,,261,261,0,FALSE,FALSE,TRUE
+CR126,Popular Music: Drums at CIT Cork School of Music,,801,878,Points decrease,,,-77,-801,-878,-77,FALSE,FALSE,TRUE
+CR127,Popular Music: Electric Guitar at CIT Cork School of Music,,838,584,Points decrease,,,254,-838,-584,254,FALSE,FALSE,TRUE
+CR128,Popular Music: Keyboards at CIT Cork School of Music,,840,839,Points decrease,,,1,-840,-839,1,FALSE,FALSE,TRUE
+CR129,Popular Music: Voice at CIT Cork School of Music,,841,857,Points decrease,,,-16,-841,-857,-16,FALSE,FALSE,TRUE
+DB516,Financial Services,,,328,Points decrease,,,,0,-328,-328,TRUE,FALSE,FALSE
+DC201,Common Entry into Science (Undenominated Entry),,498,454,Points decrease,,,44,-498,-454,44,FALSE,FALSE,TRUE
+DC239,Gaeilge Iriseoireacht agus na Meáin Dhigiteacha,,430,,Points decrease,,,,-430,0,430,FALSE,TRUE,FALSE
+DK860,Music (audition),,532,499,Points decrease,,,33,-532,-499,33,FALSE,FALSE,TRUE
+DL821,English Media and Cultural Studies,,212,211,Points decrease,,,1,-212,-211,1,FALSE,FALSE,TRUE
+DL828,3D Design Modelmaking and Digital Art,,506,691,Points decrease,,,-185,-506,-691,-185,FALSE,FALSE,TRUE
+DL829,Design for Stage and Screen (Costume Design),,593,817,Points decrease,,,-224,-593,-817,-224,FALSE,FALSE,TRUE
+DL830,Design for Stage and Screen (Character Makeup Design),,939,879,Points decrease,,,60,-939,-879,60,FALSE,FALSE,TRUE
+DL831,Design for Stage and Screen (Production Design),,781,893,Points decrease,,,-112,-781,-893,-112,FALSE,FALSE,TRUE
+DL834,Film and Television Production,,990,933,Points decrease,,,57,-990,-933,57,FALSE,FALSE,TRUE
+DN252,Dairy Business,,410,398,Points decrease,,,12,-410,-398,12,FALSE,FALSE,TRUE
+DN253,Agri - Environmental Sciences,,418,403,Points decrease,,,15,-418,-403,15,FALSE,FALSE,TRUE
+DN271,Forestry,,311,303,Points decrease,,,8,-311,-303,8,FALSE,FALSE,TRUE
+DN272,Horticulture Landscape and Sportsturf Management,,297,252,Points decrease,,,45,-297,-252,45,FALSE,FALSE,TRUE
+GC250,Communications and Media Production,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+GC305,International Hospitality Management,,253,327,Points decrease,,,-74,-253,-327,-74,FALSE,FALSE,TRUE
+GY107,Na Dána (Gaeilge agus Léann an Aistriúcháin),,409,330,Points decrease,,,79,-409,-330,79,FALSE,FALSE,TRUE
+GY112,Arts with Film Studies,,321,338,Points decrease,,,-17,-321,-338,-17,FALSE,FALSE,TRUE
+GY120,Arts (Child Youth and Family: Policy and Practice),,350,309,Points decrease,,,41,-350,-309,41,FALSE,FALSE,TRUE
+GY121,Arts (Children`s Studies),,356,356,Points decrease,,,0,-356,-356,0,FALSE,FALSE,TRUE
+GY124,Arts (Arts with Data Science),,454,434,Points decrease,,,20,-454,-434,20,FALSE,FALSE,TRUE
+GY126,Arts (English and Media Studies),,391,418,Points decrease,,,-27,-391,-418,-27,FALSE,FALSE,TRUE
+GY131,Arts (History and Globalisation Studies),,360,340,Points decrease,,,20,-360,-340,20,FALSE,FALSE,TRUE
+LC401,Early Childhood Education and Care,,297,298,Points decrease,,,-1,-297,-298,-1,FALSE,FALSE,TRUE
+LC414,Data Analytics and Cyber Security,,236,,Points decrease,,,,-236,0,236,FALSE,TRUE,FALSE
+LC434,Environmental Science and Agriculture,,297,278,Points decrease,,,19,-297,-278,19,FALSE,FALSE,TRUE
+LC613,Early Childhood Education and Care,,242,346,Points decrease,,,-104,-242,-346,-104,FALSE,FALSE,TRUE
+MH405,Equine Business,,357,357,Points decrease,,,0,-357,-357,0,FALSE,FALSE,TRUE
+SG142,Business in International Marketing and Languages (French),,279,270,Points decrease,,,9,-279,-270,9,FALSE,FALSE,TRUE
+SG144,Business in International Marketing and Languages (Spanish),,270,280,Points decrease,,,-10,-270,-280,-10,FALSE,FALSE,TRUE
+SG250,Application Design and User Experience,,412,290,Points decrease,,,122,-412,-290,122,FALSE,FALSE,TRUE
+SG251,Computing (Smart Technologies),,327,303,Points decrease,,,24,-327,-303,24,FALSE,FALSE,TRUE
+TR012,History and Political Science,,555,532,Points decrease,,,23,-555,-532,23,FALSE,FALSE,TRUE
+TR017,Law and Business,,602,576,Points decrease,,,26,-602,-576,26,FALSE,FALSE,TRUE
+TR020,Law and Political Science,,602,567,Points decrease,,,35,-602,-567,35,FALSE,FALSE,TRUE
+TR029,Political Science and Geography,,526,477,Points decrease,,,49,-526,-477,49,FALSE,FALSE,TRUE
+TR082,Computer Science and Business,,555,510,Points decrease,,,45,-555,-510,45,FALSE,FALSE,TRUE
+TR083,Sociology and Social Policy,,498,451,Points decrease,,,47,-498,-451,47,FALSE,FALSE,TRUE
+TR111,Ancient History and Archaeology/Geography,,352,,Points decrease,,,,-352,0,352,FALSE,TRUE,FALSE
+TR112,Ancient History and Archaeology/History,,529,,Points decrease,,,,-529,0,529,FALSE,TRUE,FALSE
+TR113,Ancient History and Archaeology/History of Art and Architecture,,337,,Points decrease,,,,-337,0,337,FALSE,TRUE,FALSE
+TR114,Ancient History and Archaeology/Modern Language,,337,,Points decrease,,,,-337,0,337,FALSE,TRUE,FALSE
+TR117,Ancient History and Archaeology/Religion,,342,,Points decrease,,,,-342,0,342,FALSE,TRUE,FALSE
+TR166,Classical Civilisation/English Literature,,498,,Points decrease,,,,-498,0,498,FALSE,TRUE,FALSE
+TR173,Classical Civilisation/History of Art and Architecture,,335,,Points decrease,,,,-335,0,335,FALSE,TRUE,FALSE
+TR177,Classical Civilisation/Modern Language,,335,,Points decrease,,,,-335,0,335,FALSE,TRUE,FALSE
+TR179,Classical Civilisation/Philosophy,,499,,Points decrease,,,,-499,0,499,FALSE,TRUE,FALSE
+TR198,Economics/Geography,,534,,Points decrease,,,,-534,0,534,FALSE,TRUE,FALSE
+TR202,Economics/History,,534,,Points decrease,,,,-534,0,534,FALSE,TRUE,FALSE
+TR207,Economics/Mathematics,,566,,Points decrease,,,,-566,0,566,FALSE,TRUE,FALSE
+TR208,Economics/Modern Language,,534,,Points decrease,,,,-534,0,534,FALSE,TRUE,FALSE
+TR209,Economics/Philosophy,,534,,Points decrease,,,,-534,0,534,FALSE,TRUE,FALSE
+TR212,Economics/Sociology,,534,,Points decrease,,,,-534,0,534,FALSE,TRUE,FALSE
+TR228,Classical Languages/English Literature,,498,,Points decrease,,,,-498,0,498,FALSE,TRUE,FALSE
+TR231,Classical Languages/History of Art and Architecture,,349,,Points decrease,,,,-349,0,349,FALSE,TRUE,FALSE
+TR233,Classical Languages/Middle EasternJewish and Islamic Civilisations,,349,,Points decrease,,,,-349,0,349,FALSE,TRUE,FALSE
+TR239,Classical Languages/Modern Language,,349,,Points decrease,,,,-349,0,349,FALSE,TRUE,FALSE
+TR262,English Literature/History,,529,,Points decrease,,,,-529,0,529,FALSE,TRUE,FALSE
+TR263,English Literature/History of Art and Architecture,,498,,Points decrease,,,,-498,0,498,FALSE,TRUE,FALSE
+TR269,English Literature/Philosophy,,499,,Points decrease,,,,-499,0,499,FALSE,TRUE,FALSE
+TR272,English Literature/Sociology,,498,,Points decrease,,,,-498,0,498,FALSE,TRUE,FALSE
+TR276,English Literature/Drama Studies,,498,,Points decrease,,,,-498,0,498,FALSE,TRUE,FALSE
+TR277,English Literature/Modern Language,,498,,Points decrease,,,,-498,0,498,FALSE,TRUE,FALSE
+TR311,Film/Drama Studies,,521,,Points decrease,,,,-521,0,521,FALSE,TRUE,FALSE
+TR312,Film/English Literature,,521,,Points decrease,,,,-521,0,521,FALSE,TRUE,FALSE
+TR320,Film/Music,,521,,Points decrease,,,,-521,0,521,FALSE,TRUE,FALSE
+TR322,Geography/History,,529,,Points decrease,,,,-529,0,529,FALSE,TRUE,FALSE
+TR323,Drama Studies/Modern Language,,473,,Points decrease,,,,-473,0,473,FALSE,TRUE,FALSE
+TR324,Film/Modern Language,,521,,Points decrease,,,,-521,0,521,FALSE,TRUE,FALSE
+TR325,Film/History,,529,,Points decrease,,,,-529,0,529,FALSE,TRUE,FALSE
+TR326,Geography/Modern Language,,352,,Points decrease,,,,-352,0,352,FALSE,TRUE,FALSE
+TR332,Geography/Sociology,,498,,Points decrease,,,,-498,0,498,FALSE,TRUE,FALSE
+TR443,History/History of Art and Architecture,,529,,Points decrease,,,,-529,0,529,FALSE,TRUE,FALSE
+TR447,History/Modern Language,,529,,Points decrease,,,,-529,0,529,FALSE,TRUE,FALSE
+TR449,History/Philosophy,,529,,Points decrease,,,,-529,0,529,FALSE,TRUE,FALSE
+TR452,History/Sociology,,529,,Points decrease,,,,-529,0,529,FALSE,TRUE,FALSE
+TR454,History/Religion,,529,,Points decrease,,,,-529,0,529,FALSE,TRUE,FALSE
+TR455,History of Art and Architecture/Modern Language,,334,,Points decrease,,,,-334,0,334,FALSE,TRUE,FALSE
+TR479,History of Art and Architecture/Philosophy,,499,,Points decrease,,,,-499,0,499,FALSE,TRUE,FALSE
+TR547,Middle EasternJewish and Islamic Civ./Ancient History and Archaeology,,337,,Points decrease,,,,-337,0,337,FALSE,TRUE,FALSE
+TR548,Middle EasternJewish and Islamic Civilisations/Classical Civilisation,,335,,Points decrease,,,,-335,0,335,FALSE,TRUE,FALSE
+TR554,Middle EasternJewish and Islamic Civilisations/History,,529,,Points decrease,,,,-529,0,529,FALSE,TRUE,FALSE
+TR563,Middle EasternJewish and Islamic Civilisations/Modern Language,,335,,Points decrease,,,,-335,0,335,FALSE,TRUE,FALSE
+TR564,Middle EasternJewish and Islamic Civilisations/Music,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+TR565,Middle EasternJewish and Islamic Civilisations/Religion,,342,,Points decrease,,,,-342,0,342,FALSE,TRUE,FALSE
+TR597,Mathematics/Modern Language,,566,,Points decrease,,,,-566,0,566,FALSE,TRUE,FALSE
+TR598,Mathematics/Music,,566,,Points decrease,,,,-566,0,566,FALSE,TRUE,FALSE
+TR599,Mathematics/Philosophy,,566,,Points decrease,,,,-566,0,566,FALSE,TRUE,FALSE
+TR629,Music/Philosophy,,499,,Points decrease,,,,-499,0,499,FALSE,TRUE,FALSE
+TR635,Music/Drama Studies,,473,,Points decrease,,,,-473,0,473,FALSE,TRUE,FALSE
+TR636,Music/Modern Language,,388,,Points decrease,,,,-388,0,388,FALSE,TRUE,FALSE
+TR638,Music/Religion,,388,,Points decrease,,,,-388,0,388,FALSE,TRUE,FALSE
+TR639,Philosophy/Modern Language,,499,,Points decrease,,,,-499,0,499,FALSE,TRUE,FALSE
+TR662,Philosophy/Sociology,,499,,Points decrease,,,,-499,0,499,FALSE,TRUE,FALSE
+TR663,Religion/Classical Civilisation,,342,,Points decrease,,,,-342,0,342,FALSE,TRUE,FALSE
+TR664,Religion/English Literature,,498,,Points decrease,,,,-498,0,498,FALSE,TRUE,FALSE
+TR665,Religion/History of Art and Architecture,,342,,Points decrease,,,,-342,0,342,FALSE,TRUE,FALSE
+TR666,Religion/Modern Language,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+TR667,French/Modern Language,,403,,Points decrease,,,,-403,0,403,FALSE,TRUE,FALSE
+TR668,German/Modern Language,,389,,Points decrease,,,,-389,0,389,FALSE,TRUE,FALSE
+TR669,Irish/Modern Language,,368,,Points decrease,,,,-368,0,368,FALSE,TRUE,FALSE
+TR670,Italian/Modern Language,,381,,Points decrease,,,,-381,0,381,FALSE,TRUE,FALSE
+TR671,Russian/Modern Language,,332,,Points decrease,,,,-332,0,332,FALSE,TRUE,FALSE
+TR672,Spanish/Modern Language,,336,,Points decrease,,,,-336,0,336,FALSE,TRUE,FALSE
+TR755,Sociology/Drama Studies,,498,,Points decrease,,,,-498,0,498,FALSE,TRUE,FALSE
+TR756,Sociology/Modern Language,,498,,Points decrease,,,,-498,0,498,FALSE,TRUE,FALSE
+TU803,Electronic Engineering,,243,,Points decrease,,,,-243,0,243,FALSE,TRUE,FALSE
+TU806,Sustainable Energy Engineering,,262,,Points decrease,,,,-262,0,262,FALSE,TRUE,FALSE
+TU808,Engineering Software,,260,,Points decrease,,,,-260,0,260,FALSE,TRUE,FALSE
+TU809,Mechanical Engineering,,235,,Points decrease,,,,-235,0,235,FALSE,TRUE,FALSE
+TU813,Automation Engineering,,218,,Points decrease,,,,-218,0,218,FALSE,TRUE,FALSE
+TU873,Industrial Mathematics,,250,,Points decrease,,,,-250,0,250,FALSE,TRUE,FALSE
+TU901,Business,,270,,Points decrease,,,,-270,0,270,FALSE,TRUE,FALSE
+TU908,Management,,262,,Points decrease,,,,-262,0,262,FALSE,TRUE,FALSE
+TU909,Accounting and Finance,,285,,Points decrease,,,,-285,0,285,FALSE,TRUE,FALSE
+TU911,Accounting and Finance,,209,,Points decrease,,,,-209,0,209,FALSE,TRUE,FALSE
+TU913,Business and Information Technology,,252,,Points decrease,,,,-252,0,252,FALSE,TRUE,FALSE
+TU915,International Business,,252,,Points decrease,,,,-252,0,252,FALSE,TRUE,FALSE
+TU916,International Business,,235,,Points decrease,,,,-235,0,235,FALSE,TRUE,FALSE
+TU923,Marketing Management,,228,,Points decrease,,,,-228,0,228,FALSE,TRUE,FALSE
+TU966,Languages and English Studies,,366,,Points decrease,,,,-366,0,366,FALSE,TRUE,FALSE
+TU971,Contemporary Visual Culture,,290,,Points decrease,,,,-290,0,290,FALSE,TRUE,FALSE
+TU972,Creative and Cultural Industries,,281,,Points decrease,,,,-281,0,281,FALSE,TRUE,FALSE
+TU986,Print Media Technology and Management,,289,,Points decrease,,,,-289,0,289,FALSE,TRUE,FALSE
+TU993,Early Childhood Care and Education,,270,,Points decrease,,,,-270,0,270,FALSE,TRUE,FALSE
+TU994,Early Childhood Care and Education,,321,,Points decrease,,,,-321,0,321,FALSE,TRUE,FALSE
+WD149,Early Childhood Studies,,271,288,Points decrease,,,-17,-271,-288,-17,FALSE,FALSE,TRUE
+AL853,Accounting and Law,,,305,Points decrease,,,,0,-305,-305,TRUE,FALSE,FALSE
+CW178,Sport Science (options),,,399,Points decrease,,,,0,-399,-399,TRUE,FALSE,FALSE
+CK116,Sports Studies and Physical Education,,,499,Points decrease,,,,0,-499,-499,TRUE,FALSE,FALSE
+CK502,Food Marketing and Entrepreneurship,,,433,Points decrease,,,,0,-433,-433,TRUE,FALSE,FALSE
+CK506,International Development and Food Policy,,,367,Points decrease,,,,0,-367,-367,TRUE,FALSE,FALSE
+DC005,Education - Primary Teaching - Irish Sign Language,,,316,Points decrease,,,,0,-316,-316,TRUE,FALSE,FALSE
+DC167,Physics with Astronomy,,,434,Points decrease,,,,0,-434,-434,TRUE,FALSE,FALSE
+DC171,Applied Physics,,,402,Points decrease,,,,0,-402,-402,TRUE,FALSE,FALSE
+DC173,Physics with Biomedical Sciences,,,402,Points decrease,,,,0,-402,-402,TRUE,FALSE,FALSE
+DT001,Product Design,,,433,Points decrease,,,,0,-433,-433,TRUE,FALSE,FALSE
+DT028,Transport Operations and Technology,,,279,Points decrease,,,,0,-279,-279,TRUE,FALSE,FALSE
+DT035,Electrical Services and Energy Management,,,293,Points decrease,,,,0,-293,-293,TRUE,FALSE,FALSE
+DT066,Engineering (General Entry),,,400,Points decrease,,,,0,-400,-400,TRUE,FALSE,FALSE
+DT101,Architecture (test and interview),,,618,Points decrease,,,,0,-618,-618,TRUE,FALSE,FALSE
+DT106,Planning and Environmental Management,,,312,Points decrease,,,,0,-312,-312,TRUE,FALSE,FALSE
+DT110,Property Economics (Valuation Surveying),,,367,Points decrease,,,,0,-367,-367,TRUE,FALSE,FALSE
+DT111,Quantity Surveying and Construction Economics,,,391,Points decrease,,,,0,-391,-391,TRUE,FALSE,FALSE
+DT112,Geographic Science,,,287,Points decrease,,,,0,-287,-287,TRUE,FALSE,FALSE
+DT117,Construction Management,,,356,Points decrease,,,,0,-356,-356,TRUE,FALSE,FALSE
+DT175,Architectural Technology,,,388,Points decrease,,,,0,-388,-388,TRUE,FALSE,FALSE
+DT201,Science (General Entry),,,464,Points decrease,,,,0,-464,-464,TRUE,FALSE,FALSE
+DT203,Analytical Chemistry (Environmental Forensic and Pharmaceutical),,,341,Points decrease,,,,0,-341,-341,TRUE,FALSE,FALSE
+DT204,Biomedical Science,,,501,Points decrease,,,,0,-501,-501,TRUE,FALSE,FALSE
+DT205,Mathematical Sciences,,,315,Points decrease,,,,0,-315,-315,TRUE,FALSE,FALSE
+DT206,Biomedical and Molecular Diagnostics,,,473,Points decrease,,,,0,-473,-473,TRUE,FALSE,FALSE
+DT211,Computer Science (Infrastructure),,,381,Points decrease,,,,0,-381,-381,TRUE,FALSE,FALSE
+DT220,Industrial Mathematics,,,300,Points decrease,,,,0,-300,-300,TRUE,FALSE,FALSE
+DT221,Physics with Energy and Environment,,,348,Points decrease,,,,0,-348,-348,TRUE,FALSE,FALSE
+DT222,Physics Technology,,,321,Points decrease,,,,0,-321,-321,TRUE,FALSE,FALSE
+DT223,Human Nutrition and Dietetics,,,553,Points decrease,,,,0,-553,-553,TRUE,FALSE,FALSE
+DT224,Optometry,,,487,Points decrease,,,,0,-487,-487,TRUE,FALSE,FALSE
+DT225,Public Health Nutrition,,,440,Points decrease,,,,0,-440,-440,TRUE,FALSE,FALSE
+DT227,Science with Nanotechnology,,,312,Points decrease,,,,0,-312,-312,TRUE,FALSE,FALSE
+DT228,Computer Science,,,451,Points decrease,,,,0,-451,-451,TRUE,FALSE,FALSE
+DT229,Clinical Measurement Science,,,491,Points decrease,,,,0,-491,-491,TRUE,FALSE,FALSE
+DT235,Physics with Medical Physics and Bioengineering,,,357,Points decrease,,,,0,-357,-357,TRUE,FALSE,FALSE
+DT282,Computer Science (International),,,377,Points decrease,,,,0,-377,-377,TRUE,FALSE,FALSE
+DT299,Chemical Sciences with Medicinal Chemistry,,,420,Points decrease,,,,0,-420,-420,TRUE,FALSE,FALSE
+DT302,Business Analytics,,,325,Points decrease,,,,0,-325,-325,TRUE,FALSE,FALSE
+DT304,E-Commerce in Retailing,,,341,Points decrease,,,,0,-341,-341,TRUE,FALSE,FALSE
+DT321,Business and Law,,,462,Points decrease,,,,0,-462,-462,TRUE,FALSE,FALSE
+DT341,Marketing,,,400,Points decrease,,,,0,-400,-400,TRUE,FALSE,FALSE
+DT343,Retail and Services Management,,,301,Points decrease,,,,0,-301,-301,TRUE,FALSE,FALSE
+DT354,Business Computing,,,322,Points decrease,,,,0,-322,-322,TRUE,FALSE,FALSE
+DT358,Logistics and Supply Chain Management,,,300,Points decrease,,,,0,-300,-300,TRUE,FALSE,FALSE
+DT365,Business and Management,,,440,Points decrease,,,,0,-440,-440,TRUE,FALSE,FALSE
+DT366,Accounting and Finance,,,432,Points decrease,,,,0,-432,-432,TRUE,FALSE,FALSE
+DT398,Human Resource Management,,,375,Points decrease,,,,0,-375,-375,TRUE,FALSE,FALSE
+DT399,Economics and Finance,,,437,Points decrease,,,,0,-437,-437,TRUE,FALSE,FALSE
+DT401,International Hospitality Management,,,300,Points decrease,,,,0,-300,-300,TRUE,FALSE,FALSE
+DT405,Culinary Science,,,308,Points decrease,,,,0,-308,-308,TRUE,FALSE,FALSE
+DT407,Culinary Arts,,,271,Points decrease,,,,0,-271,-271,TRUE,FALSE,FALSE
+DT412,Tourism Marketing,,,284,Points decrease,,,,0,-284,-284,TRUE,FALSE,FALSE
+DT413,Event Management,,,356,Points decrease,,,,0,-356,-356,TRUE,FALSE,FALSE
+DT416,Culinary Entrepreneurship,,,275,Points decrease,,,,0,-275,-275,TRUE,FALSE,FALSE
+DT420,Nutraceuticals in Health and Nutrition,,,392,Points decrease,,,,0,-392,-392,TRUE,FALSE,FALSE
+DT421,Food Innovation,,,321,Points decrease,,,,0,-321,-321,TRUE,FALSE,FALSE
+DT422,Pharmaceutical Healthcare,,,397,Points decrease,,,,0,-397,-397,TRUE,FALSE,FALSE
+DT491,Environmental Health,,,343,Points decrease,,,,0,-343,-343,TRUE,FALSE,FALSE
+DT501,Music,,,383,Points decrease,,,,0,-383,-383,TRUE,FALSE,FALSE
+DT504,Film and Broadcasting,,,443,Points decrease,,,,0,-443,-443,TRUE,FALSE,FALSE
+DT506,Commercial Modern Music,,,468,Points decrease,,,,0,-468,-468,TRUE,FALSE,FALSE
+DT508,Game Design,,,403,Points decrease,,,,0,-403,-403,TRUE,FALSE,FALSE
+DT517,Languages and English Studies,,,326,Points decrease,,,,0,-326,-326,TRUE,FALSE,FALSE
+DT518,Languages and International Tourism,,,307,Points decrease,,,,0,-307,-307,TRUE,FALSE,FALSE
+DT529,Drama (Performance),,,371,Points decrease,,,,0,-371,-371,TRUE,FALSE,FALSE
+DT532,Law (LL.B.),,,422,Points decrease,,,,0,-422,-422,TRUE,FALSE,FALSE
+DT533,Contemporary Visual Culture,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+DT544,Interior Design,,,552,Points decrease,,,,0,-552,-552,TRUE,FALSE,FALSE
+DT545,Design - Visual Communication,,,667,Points decrease,,,,0,-667,-667,TRUE,FALSE,FALSE
+DT546,Fine Art,,,668,Points decrease,,,,0,-668,-668,TRUE,FALSE,FALSE
+DT555,International Business and Languages,,,353,Points decrease,,,,0,-353,-353,TRUE,FALSE,FALSE
+DT559,Photography,,,700,Points decrease,,,,0,-700,-700,TRUE,FALSE,FALSE
+DT571,Social Care,,,394,Points decrease,,,,0,-394,-394,TRUE,FALSE,FALSE
+DT572,Early Childhood Education,,,385,Points decrease,,,,0,-385,-385,TRUE,FALSE,FALSE
+DT582,Journalism,,,347,Points decrease,,,,0,-347,-347,TRUE,FALSE,FALSE
+DT596,Print Media Technology and Management,,,252,Points decrease,,,,0,-252,-252,TRUE,FALSE,FALSE
+DT597,Creative and Cultural Industries,,,280,Points decrease,,,,0,-280,-280,TRUE,FALSE,FALSE
+DL835,Creative Media Technologies,,,237,Points decrease,,,,0,-237,-237,TRUE,FALSE,FALSE
+GC405,International Hospitality Management (Dublin),,,254,Points decrease,,,,0,-254,-254,TRUE,FALSE,FALSE
+ID003,Business Studies with Chinese,,,,Points decrease,,,,0,0,0,TRUE,TRUE,TRUE
+BN101,Business,,,252,Points decrease,,,,0,-252,-252,TRUE,FALSE,FALSE
+BN103,Business and Information Technology,,,254,Points decrease,,,,0,-254,-254,TRUE,FALSE,FALSE
+BN104,Computing (Information Technology),,,260,Points decrease,,,,0,-260,-260,TRUE,FALSE,FALSE
+BN107,Applied Social Studies in Social Care,,,300,Points decrease,,,,0,-300,-300,TRUE,FALSE,FALSE
+BN108,Engineering (Common Entry with Award options),,,271,Points decrease,,,,0,-271,-271,TRUE,FALSE,FALSE
+BN109,Business (Common Entry with Award options),,,260,Points decrease,,,,0,-260,-260,TRUE,FALSE,FALSE
+BN110,International Business,,,253,Points decrease,,,,0,-253,-253,TRUE,FALSE,FALSE
+BN111,Sports Management and Coaching,,,270,Points decrease,,,,0,-270,-270,TRUE,FALSE,FALSE
+BN112,Creative Digital Media,,,280,Points decrease,,,,0,-280,-280,TRUE,FALSE,FALSE
+BN113,Horticulture,,,289,Points decrease,,,,0,-289,-289,TRUE,FALSE,FALSE
+BN114,Accounting and Finance,,,280,Points decrease,,,,0,-280,-280,TRUE,FALSE,FALSE
+BN115,Community and Youth Development,,,250,Points decrease,,,,0,-250,-250,TRUE,FALSE,FALSE
+BN117,Computer Engineering in Mobile Systems,,,273,Points decrease,,,,0,-273,-273,TRUE,FALSE,FALSE
+BN118,Early Childhood Care and Education,,,290,Points decrease,,,,0,-290,-290,TRUE,FALSE,FALSE
+BN119,Digital Marketing,,,270,Points decrease,,,,0,-270,-270,TRUE,FALSE,FALSE
+BN120,Digital Forensics and Cyber Security,,,281,Points decrease,,,,0,-281,-281,TRUE,FALSE,FALSE
+BN121,Mechatronic Engineering,,,276,Points decrease,,,,0,-276,-276,TRUE,FALSE,FALSE
+BN123,DesignTechnology and Innovation,,,297,Points decrease,,,,0,-297,-297,TRUE,FALSE,FALSE
+TA022,Creative Digital Media,,,260,Points decrease,,,,0,-260,-260,TRUE,FALSE,FALSE
+TA023,Advertising and Marketing Communications,,,235,Points decrease,,,,0,-235,-235,TRUE,FALSE,FALSE
+TA024,Early Childhood Care and Education,,,217,Points decrease,,,,0,-217,-217,TRUE,FALSE,FALSE
+TA025,Social Care Practice,,,261,Points decrease,,,,0,-261,-261,TRUE,FALSE,FALSE
+TA026,International Hospitality and Tourism Management,,,208,Points decrease,,,,0,-208,-208,TRUE,FALSE,FALSE
+TA027,Botanical Cuisine,,,236,Points decrease,,,,0,-236,-236,TRUE,FALSE,FALSE
+TA028,Digital Marketing Technologies,,,220,Points decrease,,,,0,-220,-220,TRUE,FALSE,FALSE
+TA121,Accounting and Finance,,,202,Points decrease,,,,0,-202,-202,TRUE,FALSE,FALSE
+TA122,Management,,,218,Points decrease,,,,0,-218,-218,TRUE,FALSE,FALSE
+TA123,Marketing Management,,,207,Points decrease,,,,0,-207,-207,TRUE,FALSE,FALSE
+TA125,International Business,,,229,Points decrease,,,,0,-229,-229,TRUE,FALSE,FALSE
+TA221,Electronic Engineering,,,251,Points decrease,,,,0,-251,-251,TRUE,FALSE,FALSE
+TA222,Mechanical Engineering,,,243,Points decrease,,,,0,-243,-243,TRUE,FALSE,FALSE
+TA223,Sustainable Energy Engineering,,,236,Points decrease,,,,0,-236,-236,TRUE,FALSE,FALSE
+TA224,Biomedical Design,,,218,Points decrease,,,,0,-218,-218,TRUE,FALSE,FALSE
+TA225,Automation Engineering,,,235,Points decrease,,,,0,-235,-235,TRUE,FALSE,FALSE
+TA226,Engineering Software,,,243,Points decrease,,,,0,-243,-243,TRUE,FALSE,FALSE
+TA321,Pharmaceutical Science,,,261,Points decrease,,,,0,-261,-261,TRUE,FALSE,FALSE
+TA322,Computing,,,200,Points decrease,,,,0,-200,-200,TRUE,FALSE,FALSE
+TA323,Computing with IT Management,,,243,Points decrease,,,,0,-243,-243,TRUE,FALSE,FALSE
+TA326,DNA and Forensic Analysis,,,300,Points decrease,,,,0,-300,-300,TRUE,FALSE,FALSE
+TA327,Sports Science and Health,,,341,Points decrease,,,,0,-341,-341,TRUE,FALSE,FALSE
+TA328,Computing with Language (French/German/Spanish),,,218,Points decrease,,,,0,-218,-218,TRUE,FALSE,FALSE
+TA329,Computing with Data Analytics,,,218,Points decrease,,,,0,-218,-218,TRUE,FALSE,FALSE
+NC025,Data Science,,,297,Points decrease,,,,0,-297,-297,TRUE,FALSE,FALSE
+GA385,Retail Management,,,219,Points decrease,,,,0,-219,-219,TRUE,FALSE,FALSE
+LY218,Business - with Spanish/Irish options,,,298,Points decrease,,,,0,-298,-298,TRUE,FALSE,FALSE
+CI101,Counselling and Psychotherapy (Limerick),,,276,Points decrease,,,,0,-276,-276,TRUE,FALSE,FALSE
+LC411,Marketing and Management (Thurles),,,226,Points decrease,,,,0,-226,-226,TRUE,FALSE,FALSE
+SG149,Business in Finance and Investment,,,262,Points decrease,,,,0,-262,-262,TRUE,FALSE,FALSE
+SG441,Environmental Science,,,297,Points decrease,,,,0,-297,-297,TRUE,FALSE,FALSE
+SG446,Applied Archaeology,,,289,Points decrease,,,,0,-289,-289,TRUE,FALSE,FALSE
+TL803,Music Technology,,,264,Points decrease,,,,0,-264,-264,TRUE,FALSE,FALSE
+TL812,Computing with Digital Media,,,369,Points decrease,,,,0,-369,-369,TRUE,FALSE,FALSE
+WD148,Tourism Marketing,,,269,Points decrease,,,,0,-269,-269,TRUE,FALSE,FALSE
