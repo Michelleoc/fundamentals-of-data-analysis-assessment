@@ -21,11 +21,23 @@ The repository contains 2 jupyter notebooks:
     - Overview of the matplotlib.pyplot Python package.    
     - Review of 3 plots in the matplotlib.pyplot Python package. 
 2. cao  
-    - Load CAO points data from CAO website into a pandas data frame.  
+    - Overview of how to load CAO points data from CAO website into a pandas data frame.  
     - Comparison of the 2019, 2020 & 2021 CAO points using the functionality in panadas.  
-    - Plots and other visualisations to 
+    - Comparison of points data using plots and other visualisations.
 
 
+## Contents of Repository   
+
+Jupyter Notebooks :   
+1. cao jupyter notebook  
+2. pyplot jupyter notebook  
+
+Folders : 
+1. test-data  
+2. fifa-data which contains the fifa dataset used in the pyplot notebook. 
+3. images 
+
+The repository also contains a requirement txt file which outlines the required libraries and packages needed to run this assessment.  
 
 ## How to view the notebook
 

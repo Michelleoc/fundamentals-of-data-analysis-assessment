@@ -1,1 +1,8 @@
 requests
+re
+pandas
+numpy
+seaborn
+matplotlib  
+datetime
+urllib.reques
