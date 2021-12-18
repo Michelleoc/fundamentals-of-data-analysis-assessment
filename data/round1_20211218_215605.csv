@@ -1,0 +1,1215 @@
+code,title,points_r1_2021,points_r1_2020,points_r1_2019,Change 21 vs 20,21vs20,21vs19,20vs19,rating21vs20,rating20vs19,rating21vs19
+AL801,,300.0,303.0,304.0,,-3.0,-4.0,-1.0,Decrease,Decrease,Decrease
+AL802,,313.0,332.0,301.0,,-19.0,12.0,31.0,Decrease,Increase,Increase
+AL803,,350.0,337.0,309.0,,13.0,41.0,28.0,Increase,Increase,Increase
+AL805,,321.0,333.0,329.0,,-12.0,-8.0,4.0,Decrease,Increase,Decrease
+AL810,,328.0,319.0,307.0,,9.0,21.0,12.0,Increase,Increase,Increase
+AL811,,,320.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+AL820,,327.0,308.0,300.0,,19.0,27.0,8.0,Increase,Increase,Increase
+AL830,,451.0,442.0,410.0,,9.0,41.0,32.0,Increase,Increase,Increase
+AL832,,440.0,387.0,387.0,,53.0,53.0,0.0,Increase,No change,Increase
+AL835,,356.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+AL836,,346.0,334.0,352.0,,12.0,-6.0,-18.0,Increase,Decrease,Decrease
+AL837,,357.0,351.0,351.0,,6.0,6.0,0.0,Increase,No change,Increase
+AL838,,324.0,307.0,302.0,,17.0,22.0,5.0,Increase,Increase,Increase
+AL839,,325.0,325.0,322.0,,0.0,3.0,3.0,No change,Increase,Increase
+AL840,,346.0,347.0,328.0,,-1.0,18.0,19.0,Decrease,Increase,Increase
+AL841,,477.0,430.0,423.0,,47.0,54.0,7.0,Increase,Increase,Increase
+AL842,,338.0,313.0,310.0,,25.0,28.0,3.0,Increase,Increase,Increase
+AL843,,306.0,306.0,310.0,,0.0,-4.0,-4.0,No change,Decrease,Decrease
+AL849,,297.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+AL850,,309.0,309.0,307.0,,0.0,2.0,2.0,No change,Increase,Increase
+AL851,,302.0,295.0,301.0,,7.0,1.0,-6.0,Increase,Decrease,Increase
+AL852,,336.0,309.0,290.0,,27.0,46.0,19.0,Increase,Increase,Increase
+AL854,,300.0,302.0,,,-2.0,,,Decrease,Course for 1 year only,Course for 1 year only
+AL855,,309.0,308.0,312.0,,1.0,-3.0,-4.0,Increase,Decrease,Decrease
+AL857,,304.0,304.0,300.0,,0.0,4.0,4.0,No change,Increase,Increase
+AL859,,308.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+AL860,,301.0,300.0,309.0,,1.0,-8.0,-9.0,Increase,Decrease,Decrease
+AL861,,575.0,578.0,615.0,,-3.0,-40.0,-37.0,Decrease,Decrease,Decrease
+AL863,,747.0,781.0,703.0,,-34.0,44.0,78.0,Decrease,Increase,Increase
+AL864,,306.0,307.0,307.0,,-1.0,-1.0,0.0,Decrease,No change,Decrease
+AL870,,484.0,418.0,409.0,,66.0,75.0,9.0,Increase,Increase,Increase
+CW018,,307.0,298.0,327.0,,9.0,-20.0,-29.0,Increase,Decrease,Decrease
+CW028,,260.0,252.0,252.0,,8.0,8.0,0.0,Increase,No change,Increase
+CW038,,700.0,700.0,700.0,,0.0,0.0,0.0,No change,No change,No change
+CW058,,292.0,298.0,252.0,,-6.0,40.0,46.0,Decrease,Increase,Increase
+CW068,,250.0,245.0,251.0,,5.0,-1.0,-6.0,Increase,Decrease,Decrease
+CW078,,270.0,269.0,266.0,,1.0,4.0,3.0,Increase,Increase,Increase
+CW088,,270.0,274.0,309.0,,-4.0,-39.0,-35.0,Decrease,Decrease,Decrease
+CW108,,266.0,261.0,261.0,,5.0,5.0,0.0,Increase,No change,Increase
+CW128,,307.0,263.0,271.0,,44.0,36.0,-8.0,Increase,Decrease,Increase
+CW138,,430.0,423.0,,,7.0,,,Increase,Course for 1 year only,Course for 1 year only
+CW148,,388.0,379.0,,,9.0,,,Increase,Course for 1 year only,Course for 1 year only
+CW188,,451.0,451.0,454.0,,0.0,-3.0,-3.0,No change,Decrease,Decrease
+CW208,,272.0,279.0,281.0,,-7.0,-9.0,-2.0,Decrease,Decrease,Decrease
+CW238,,295.0,297.0,300.0,,-2.0,-5.0,-3.0,Decrease,Decrease,Decrease
+CW248,,293.0,285.0,307.0,,8.0,-14.0,-22.0,Increase,Decrease,Decrease
+CW258,,292.0,293.0,300.0,,-1.0,-8.0,-7.0,Decrease,Decrease,Decrease
+CW268,,291.0,287.0,274.0,,4.0,17.0,13.0,Increase,Increase,Increase
+CW438,,260.0,272.0,271.0,,-12.0,-11.0,1.0,Decrease,Increase,Decrease
+CW468,,291.0,262.0,252.0,,29.0,39.0,10.0,Increase,Increase,Increase
+CW478,,465.0,433.0,348.0,,32.0,117.0,85.0,Increase,Increase,Increase
+CW548,,330.0,321.0,310.0,,9.0,20.0,11.0,Increase,Increase,Increase
+CW558,,280.0,280.0,279.0,,0.0,1.0,1.0,No change,Increase,Increase
+CW568,,371.0,380.0,366.0,,-9.0,5.0,14.0,Decrease,Increase,Increase
+CW578,,318.0,325.0,327.0,,-7.0,-9.0,-2.0,Decrease,Decrease,Decrease
+CW708,,292.0,302.0,298.0,,-10.0,-6.0,4.0,Decrease,Increase,Decrease
+CW728,,246.0,252.0,286.0,,-6.0,-40.0,-34.0,Decrease,Decrease,Decrease
+CW748,,290.0,270.0,265.0,,20.0,25.0,5.0,Increase,Increase,Increase
+CW758,,360.0,336.0,290.0,,24.0,70.0,46.0,Increase,Increase,Increase
+CW808,,247.0,251.0,248.0,,-4.0,-1.0,3.0,Decrease,Increase,Decrease
+CW848,,269.0,254.0,279.0,,15.0,-10.0,-25.0,Increase,Decrease,Decrease
+CW858,,700.0,700.0,700.0,,0.0,0.0,0.0,No change,No change,No change
+CW908,,272.0,280.0,260.0,,-8.0,12.0,20.0,Decrease,Increase,Increase
+CW938,,270.0,283.0,270.0,,-13.0,0.0,13.0,Decrease,Increase,No change
+CW948,,319.0,300.0,301.0,,19.0,18.0,-1.0,Increase,Decrease,Increase
+PC405,,263.0,253.0,251.0,,10.0,12.0,2.0,Increase,Increase,Increase
+PC410,,262.0,252.0,203.0,,10.0,59.0,49.0,Increase,Increase,Increase
+PC411,,243.0,255.0,168.0,,-12.0,75.0,87.0,Decrease,Increase,Increase
+CR105,,443.0,443.0,432.0,,0.0,11.0,11.0,No change,Increase,Increase
+CR106,,431.0,411.0,351.0,,20.0,80.0,60.0,Increase,Increase,Increase
+CR108,,434.0,434.0,425.0,,0.0,9.0,9.0,No change,Increase,Increase
+CR109,,396.0,394.0,341.0,,2.0,55.0,53.0,Increase,Increase,Increase
+CR110,,336.0,311.0,318.0,,25.0,18.0,-7.0,Increase,Decrease,Increase
+CR112,,390.0,361.0,335.0,,29.0,55.0,26.0,Increase,Increase,Increase
+CR116,,365.0,332.0,318.0,,33.0,47.0,14.0,Increase,Increase,Increase
+CR121,,904.0,868.0,633.0,,36.0,271.0,235.0,Increase,Increase,Increase
+CR125,,1028.0,1088.0,972.0,,-60.0,56.0,116.0,Decrease,Increase,Increase
+CR130,,525.0,548.0,500.0,,-23.0,25.0,48.0,Decrease,Increase,Increase
+CR150,,350.0,335.0,326.0,,15.0,24.0,9.0,Increase,Increase,Increase
+CR210,,450.0,,979.0,,,-529.0,,Course for 1 year only,Course for 1 year only,Decrease
+CR220,,400.0,,620.0,,,-220.0,,Course for 1 year only,Course for 1 year only,Decrease
+CR225,,435.0,,920.0,,,-485.0,,Course for 1 year only,Course for 1 year only,Decrease
+CR305,,260.0,282.0,279.0,,-22.0,-19.0,3.0,Decrease,Increase,Decrease
+CR310,,347.0,297.0,282.0,,50.0,65.0,15.0,Increase,Increase,Increase
+CR320,,590.0,565.0,546.0,,25.0,44.0,19.0,Increase,Increase,Increase
+CR325,,466.0,398.0,388.0,,68.0,78.0,10.0,Increase,Increase,Increase
+CR333,,425.0,402.0,360.0,,23.0,65.0,42.0,Increase,Increase,Increase
+CR335,,473.0,420.0,381.0,,53.0,92.0,39.0,Increase,Increase,Increase
+CR340,,327.0,251.0,288.0,,76.0,39.0,-37.0,Increase,Decrease,Increase
+CR360,,301.0,261.0,291.0,,40.0,10.0,-30.0,Increase,Decrease,Increase
+CR365,,262.0,253.0,334.0,,9.0,-72.0,-81.0,Increase,Decrease,Decrease
+CR370,,368.0,397.0,408.0,,-29.0,-40.0,-11.0,Decrease,Decrease,Decrease
+CR400,,315.0,316.0,316.0,,-1.0,-1.0,0.0,Decrease,No change,Decrease
+CR420,,290.0,285.0,288.0,,5.0,2.0,-3.0,Increase,Decrease,Increase
+CR425,,279.0,298.0,300.0,,-19.0,-21.0,-2.0,Decrease,Decrease,Decrease
+CR430,,402.0,322.0,,,80.0,,,Increase,Course for 1 year only,Course for 1 year only
+CR435,,410.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+CR440,,409.0,288.0,,,121.0,,,Increase,Course for 1 year only,Course for 1 year only
+CR500,,475.0,411.0,381.0,,64.0,94.0,30.0,Increase,Increase,Increase
+CR510,,320.0,320.0,319.0,,0.0,1.0,1.0,No change,Increase,Increase
+CR520,,444.0,444.0,434.0,,0.0,10.0,10.0,No change,Increase,Increase
+CR560,,375.0,308.0,288.0,,67.0,87.0,20.0,Increase,Increase,Increase
+CR565,,431.0,359.0,336.0,,72.0,95.0,23.0,Increase,Increase,Increase
+CR570,,375.0,336.0,279.0,,39.0,96.0,57.0,Increase,Increase,Increase
+CR572,,300.0,269.0,253.0,,31.0,47.0,16.0,Increase,Increase,Increase
+CR580,,342.0,318.0,344.0,,24.0,-2.0,-26.0,Increase,Decrease,Decrease
+CR590,,329.0,303.0,342.0,,26.0,-13.0,-39.0,Increase,Decrease,Decrease
+CR600,,280.0,,587.0,,,-307.0,,Course for 1 year only,Course for 1 year only,Decrease
+CR660,,246.0,252.0,249.0,,-6.0,-3.0,3.0,Decrease,Increase,Decrease
+CR700,,609.0,740.0,768.0,,-131.0,-159.0,-28.0,Decrease,Decrease,Decrease
+CR930,,518.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+CK101,3,300.0,300.0,300.0,,0.0,0.0,0.0,No change,No change,No change
+CK102,,434.0,412.0,391.0,,22.0,43.0,21.0,Increase,Increase,Increase
+CK104,34,339.0,302.0,340.0,,37.0,-1.0,-38.0,Increase,Decrease,Decrease
+CK105,34,421.0,368.0,397.0,,53.0,24.0,-29.0,Increase,Decrease,Increase
+CK107,34,312.0,328.0,326.0,,-16.0,-14.0,2.0,Decrease,Increase,Decrease
+CK108,4,440.0,401.0,429.0,,39.0,11.0,-28.0,Increase,Decrease,Increase
+CK109,34,367.0,318.0,347.0,,49.0,20.0,-29.0,Increase,Decrease,Increase
+CK110,,488.0,452.0,456.0,,36.0,32.0,-4.0,Increase,Decrease,Increase
+CK111,,409.0,419.0,398.0,,-10.0,11.0,21.0,Decrease,Increase,Increase
+CK112,34,371.0,330.0,324.0,,41.0,47.0,6.0,Increase,Increase,Increase
+CK113,34,464.0,423.0,408.0,,41.0,56.0,15.0,Increase,Increase,Increase
+CK114,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+CK115,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+CK118,34,347.0,336.0,307.0,,11.0,40.0,29.0,Increase,Increase,Increase
+CK120,,544.0,533.0,506.0,,11.0,38.0,27.0,Increase,Increase,Increase
+CK121,34,499.0,466.0,393.0,,33.0,106.0,73.0,Increase,Increase,Increase
+CK122,,399.0,337.0,355.0,,62.0,44.0,-18.0,Increase,Decrease,Increase
+CK123,,308.0,308.0,,,0.0,,,No change,Course for 1 year only,Course for 1 year only
+CK124,,473.0,463.0,,,10.0,,,Increase,Course for 1 year only,Course for 1 year only
+CK125,,564.0,510.0,,,54.0,,,Increase,Course for 1 year only,Course for 1 year only
+CK201,,500.0,477.0,465.0,,23.0,35.0,12.0,Increase,Increase,Increase
+CK202,,553.0,509.0,467.0,,44.0,86.0,42.0,Increase,Increase,Increase
+CK203,,455.0,430.0,409.0,,25.0,46.0,21.0,Increase,Increase,Increase
+CK204,,566.0,556.0,531.0,,10.0,35.0,25.0,Increase,Increase,Increase
+CK205,,465.0,445.0,409.0,,20.0,56.0,36.0,Increase,Increase,Increase
+CK206,,466.0,420.0,408.0,,46.0,58.0,12.0,Increase,Increase,Increase
+CK207,,423.0,388.0,408.0,,35.0,15.0,-20.0,Increase,Decrease,Increase
+CK208,,488.0,402.0,431.0,,86.0,57.0,-29.0,Increase,Decrease,Increase
+CK209,,507.0,484.0,509.0,,23.0,-2.0,-25.0,Increase,Decrease,Decrease
+CK211,,385.0,397.0,398.0,,-12.0,-13.0,-1.0,Decrease,Decrease,Decrease
+CK212,3,445.0,444.0,400.0,,1.0,45.0,44.0,Increase,Increase,Increase
+CK213,,466.0,462.0,,,4.0,,,Increase,Course for 1 year only,Course for 1 year only
+CK214,,332.0,346.0,,,-14.0,,,Decrease,Course for 1 year only,Course for 1 year only
+CK301,34,533.0,507.0,476.0,,26.0,57.0,31.0,Increase,Increase,Increase
+CK302,,545.0,542.0,453.0,,3.0,92.0,89.0,Increase,Increase,Increase
+CK304,,588.0,540.0,462.0,,48.0,126.0,78.0,Increase,Increase,Increase
+CK307,,589.0,556.0,522.0,,33.0,67.0,34.0,Increase,Increase,Increase
+CK401,,503.0,468.0,402.0,,35.0,101.0,66.0,Increase,Increase,Increase
+CK402,,555.0,510.0,498.0,,45.0,57.0,12.0,Increase,Increase,Increase
+CK404,,500.0,467.0,412.0,,33.0,88.0,55.0,Increase,Increase,Increase
+CK405,,543.0,487.0,476.0,,56.0,67.0,11.0,Increase,Increase,Increase
+CK406,,532.0,485.0,457.0,,47.0,75.0,28.0,Increase,Increase,Increase
+CK407,,566.0,566.0,531.0,,0.0,35.0,35.0,No change,Increase,Increase
+CK408,,566.0,554.0,511.0,,12.0,55.0,43.0,Increase,Increase,Increase
+CK409,,465.0,432.0,413.0,,33.0,52.0,19.0,Increase,Increase,Increase
+CK411,,531.0,510.0,509.0,,21.0,22.0,1.0,Increase,Increase,Increase
+CK412,,506.0,496.0,457.0,,10.0,49.0,39.0,Increase,Increase,Increase
+CK504,,555.0,518.0,492.0,,37.0,63.0,26.0,Increase,Increase,Increase
+CK505,,463.0,441.0,444.0,,22.0,19.0,-3.0,Increase,Decrease,Increase
+CK600,,510.0,487.0,465.0,,23.0,45.0,22.0,Increase,Increase,Increase
+CK606,,543.0,484.0,465.0,,59.0,78.0,19.0,Increase,Increase,Increase
+CK701,,738.0,731.0,729.0,,7.0,9.0,2.0,Increase,Increase,Increase
+CK702,,625.0,613.0,590.0,,12.0,35.0,23.0,Increase,Increase,Increase
+CK703,,613.0,590.0,577.0,,23.0,36.0,13.0,Increase,Increase,Increase
+CK704,,601.0,566.0,532.0,,35.0,69.0,34.0,Increase,Increase,Increase
+CK705,,568.0,520.0,509.0,,48.0,59.0,11.0,Increase,Increase,Increase
+CK706,,500.0,454.0,419.0,,46.0,81.0,35.0,Increase,Increase,Increase
+CK707,,578.0,542.0,510.0,,36.0,68.0,32.0,Increase,Increase,Increase
+CK710,,498.0,454.0,440.0,,44.0,58.0,14.0,Increase,Increase,Increase
+CK712,,565.0,533.0,499.0,,32.0,66.0,34.0,Increase,Increase,Increase
+CK720,,455.0,423.0,398.0,,32.0,57.0,25.0,Increase,Increase,Increase
+CK730,,431.0,419.0,359.0,,12.0,72.0,60.0,Increase,Increase,Increase
+CK740,,509.0,484.0,444.0,,25.0,65.0,40.0,Increase,Increase,Increase
+CK791,,60.0,57.0,58.0,,3.0,2.0,-1.0,Increase,Decrease,Increase
+AC120,,294.0,209.0,234.0,,85.0,60.0,-25.0,Increase,Decrease,Increase
+AC137,,271.0,252.0,252.0,,19.0,19.0,0.0,Increase,No change,Increase
+CT125,,242.0,220.0,235.0,,22.0,7.0,-15.0,Increase,Decrease,Increase
+CT325,,253.0,338.0,,,-85.0,,,Decrease,Course for 1 year only,Course for 1 year only
+CM001,,508.0,484.0,452.0,,24.0,56.0,32.0,Increase,Increase,Increase
+CM002,,462.0,,421.0,,,41.0,,Course for 1 year only,Course for 1 year only,Increase
+CM003,,513.0,528.0,491.0,,-15.0,22.0,37.0,Decrease,Increase,Increase
+CM004,,480.0,494.0,492.0,,-14.0,-12.0,2.0,Decrease,Increase,Decrease
+CM010,,382.0,319.0,317.0,,63.0,65.0,2.0,Increase,Increase,Increase
+CM020,,317.0,327.0,336.0,,-10.0,-19.0,-9.0,Decrease,Decrease,Decrease
+DB500,,234.0,218.0,242.0,,16.0,-8.0,-24.0,Increase,Decrease,Decrease
+DB501,,,227.0,326.0,,,,-99.0,Course for 1 year only,Decrease,Course for 1 year only
+DB502,,267.0,341.0,269.0,,-74.0,-2.0,72.0,Decrease,Increase,Decrease
+DB503,,,225.0,242.0,,,,-17.0,Course for 1 year only,Decrease,Course for 1 year only
+DB504,,,,227.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DB510,,217.0,234.0,233.0,,-17.0,-16.0,1.0,Decrease,Increase,Decrease
+DB512,,243.0,218.0,229.0,,25.0,14.0,-11.0,Increase,Decrease,Increase
+DB514,,239.0,252.0,269.0,,-13.0,-30.0,-17.0,Decrease,Decrease,Decrease
+DB515,,242.0,244.0,225.0,,-2.0,17.0,19.0,Decrease,Increase,Increase
+DB517,,233.0,238.0,226.0,,-5.0,7.0,12.0,Decrease,Increase,Increase
+DB518,,307.0,,210.0,,,97.0,,Course for 1 year only,Course for 1 year only,Increase
+DB521,,243.0,225.0,225.0,,18.0,18.0,0.0,Increase,No change,Increase
+DB524,,247.0,342.0,402.0,,-95.0,-155.0,-60.0,Decrease,Decrease,Decrease
+DB525,,288.0,,284.0,,,4.0,,Course for 1 year only,Course for 1 year only,Increase
+DB526,,244.0,347.0,253.0,,-103.0,-9.0,94.0,Decrease,Increase,Decrease
+DB527,,254.0,234.0,235.0,,20.0,19.0,-1.0,Increase,Decrease,Increase
+DB531,,288.0,293.0,220.0,,-5.0,68.0,73.0,Decrease,Increase,Increase
+DB562,,244.0,243.0,208.0,,1.0,36.0,35.0,Increase,Increase,Increase
+DB566,,262.0,220.0,216.0,,42.0,46.0,4.0,Increase,Increase,Increase
+DB567,,245.0,218.0,192.0,,27.0,53.0,26.0,Increase,Increase,Increase
+DB568,,254.0,219.0,245.0,,35.0,9.0,-26.0,Increase,Decrease,Increase
+DB569,,240.0,252.0,279.0,,-12.0,-39.0,-27.0,Decrease,Decrease,Decrease
+DC001,,445.0,440.0,398.0,,5.0,47.0,42.0,Increase,Increase,Increase
+DC002,,518.0,488.0,462.0,,30.0,56.0,26.0,Increase,Increase,Increase
+DC003,,489.0,445.0,433.0,,44.0,56.0,12.0,Increase,Increase,Increase
+DC004,,451.0,411.0,357.0,,40.0,94.0,54.0,Increase,Increase,Increase
+DC009,,356.0,376.0,347.0,,-20.0,9.0,29.0,Decrease,Increase,Increase
+DC010,,384.0,441.0,386.0,,-57.0,-2.0,55.0,Decrease,Increase,Decrease
+DC011,,409.0,412.0,352.0,,-3.0,57.0,60.0,Decrease,Increase,Increase
+DC012,,409.0,378.0,367.0,,31.0,42.0,11.0,Increase,Increase,Increase
+DC013,,413.0,419.0,410.0,,-6.0,3.0,9.0,Decrease,Increase,Increase
+DC014,,311.0,419.0,428.0,,-108.0,-117.0,-9.0,Decrease,Decrease,Decrease
+DC110,,498.0,465.0,440.0,,33.0,58.0,25.0,Increase,Increase,Increase
+DC111,,511.0,488.0,463.0,,23.0,48.0,25.0,Increase,Increase,Increase
+DC112,,542.0,517.0,495.0,,25.0,47.0,22.0,Increase,Increase,Increase
+DC113,,484.0,462.0,440.0,,22.0,44.0,22.0,Increase,Increase,Increase
+DC114,,544.0,522.0,501.0,,22.0,43.0,21.0,Increase,Increase,Increase
+DC115,,544.0,510.0,487.0,,34.0,57.0,23.0,Increase,Increase,Increase
+DC116,,613.0,579.0,578.0,,34.0,35.0,1.0,Increase,Increase,Increase
+DC117,,484.0,476.0,463.0,,8.0,21.0,13.0,Increase,Increase,Increase
+DC118,,368.0,359.0,357.0,,9.0,11.0,2.0,Increase,Increase,Increase
+DC119,,601.0,564.0,566.0,,37.0,35.0,-2.0,Increase,Decrease,Increase
+DC120,,403.0,357.0,350.0,,46.0,53.0,7.0,Increase,Increase,Increase
+DC121,,475.0,400.0,370.0,,75.0,105.0,30.0,Increase,Increase,Increase
+DC123,,501.0,465.0,467.0,,36.0,34.0,-2.0,Increase,Decrease,Increase
+DC126,,577.0,560.0,520.0,,17.0,57.0,40.0,Increase,Increase,Increase
+DC127,,541.0,532.0,509.0,,9.0,32.0,23.0,Increase,Increase,Increase
+DC131,,421.0,407.0,400.0,,14.0,21.0,7.0,Increase,Increase,Increase
+DC132,,452.0,429.0,401.0,,23.0,51.0,28.0,Increase,Increase,Increase
+DC133,,435.0,411.0,403.0,,24.0,32.0,8.0,Increase,Increase,Increase
+DC155,,427.0,387.0,371.0,,40.0,56.0,16.0,Increase,Increase,Increase
+DC161,,498.0,498.0,446.0,,0.0,52.0,52.0,No change,Increase,Increase
+DC162,,531.0,521.0,488.0,,10.0,43.0,33.0,Increase,Increase,Increase
+DC163,,466.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC166,,423.0,433.0,412.0,,-10.0,11.0,21.0,Decrease,Increase,Increase
+DC168,,543.0,512.0,489.0,,31.0,54.0,23.0,Increase,Increase,Increase
+DC175,,400.0,419.0,,,-19.0,,,Decrease,Course for 1 year only,Course for 1 year only
+DC180,,530.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC181,,530.0,499.0,476.0,,31.0,54.0,23.0,Increase,Increase,Increase
+DC190,,488.0,413.0,391.0,,75.0,97.0,22.0,Increase,Increase,Increase
+DC193,,490.0,411.0,404.0,,79.0,86.0,7.0,Increase,Increase,Increase
+DC194,,476.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC195,,500.0,425.0,401.0,,75.0,99.0,24.0,Increase,Increase,Increase
+DC197,,510.0,423.0,402.0,,87.0,108.0,21.0,Increase,Increase,Increase
+DC200,,511.0,422.0,381.0,,89.0,130.0,41.0,Increase,Increase,Increase
+DC202,,511.0,500.0,467.0,,11.0,44.0,33.0,Increase,Increase,Increase
+DC203,,462.0,435.0,424.0,,27.0,38.0,11.0,Increase,Increase,Increase
+DC204,,558.0,522.0,484.0,,36.0,74.0,38.0,Increase,Increase,Increase
+DC205,,565.0,531.0,490.0,,34.0,75.0,41.0,Increase,Increase,Increase
+DC206,,521.0,499.0,443.0,,22.0,78.0,56.0,Increase,Increase,Increase
+DC207,,521.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC208,,565.0,532.0,509.0,,33.0,56.0,23.0,Increase,Increase,Increase
+DC209,,477.0,465.0,419.0,,12.0,58.0,46.0,Increase,Increase,Increase
+DC210,,506.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC215,,456.0,454.0,414.0,,2.0,42.0,40.0,Increase,Increase,Increase
+DC216,,420.0,418.0,368.0,,2.0,52.0,50.0,Increase,Increase,Increase
+DC217,,382.0,370.0,347.0,,12.0,35.0,23.0,Increase,Increase,Increase
+DC218,,521.0,500.0,467.0,,21.0,54.0,33.0,Increase,Increase,Increase
+DC230,,431.0,435.0,400.0,,-4.0,31.0,35.0,Decrease,Increase,Increase
+DC231,,398.0,397.0,387.0,,1.0,11.0,10.0,Increase,Increase,Increase
+DC232,,469.0,466.0,453.0,,3.0,16.0,13.0,Increase,Increase,Increase
+DC235,,302.0,309.0,307.0,,-7.0,-5.0,2.0,Decrease,Increase,Decrease
+DC238,,387.0,377.0,358.0,,10.0,29.0,19.0,Increase,Increase,Increase
+DC240,,499.0,476.0,451.0,,23.0,48.0,25.0,Increase,Increase,Increase
+DC241,,509.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC291,,350.0,376.0,349.0,,-26.0,1.0,27.0,Decrease,Increase,Increase
+DC292,,400.0,403.0,356.0,,-3.0,44.0,47.0,Decrease,Increase,Increase
+DC293,,379.0,377.0,369.0,,2.0,10.0,8.0,Increase,Increase,Increase
+DC294,,475.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC295,,349.0,376.0,348.0,,-27.0,1.0,28.0,Decrease,Increase,Increase
+DL822,,254.0,229.0,209.0,,25.0,45.0,20.0,Increase,Increase,Increase
+DL823,,220.0,235.0,260.0,,-15.0,-40.0,-25.0,Decrease,Decrease,Decrease
+DL825,,418.0,379.0,349.0,,39.0,69.0,30.0,Increase,Increase,Increase
+DL826,,591.0,855.0,736.0,,-264.0,-145.0,119.0,Decrease,Increase,Decrease
+DL827,,574.0,572.0,583.0,,2.0,-9.0,-11.0,Increase,Decrease,Decrease
+DL832,,989.0,920.0,855.0,,69.0,134.0,65.0,Increase,Increase,Increase
+DL833,,671.0,650.0,636.0,,21.0,35.0,14.0,Increase,Increase,Increase
+DL836,,235.0,219.0,217.0,,16.0,18.0,2.0,Increase,Increase,Increase
+DL837,,298.0,201.0,290.0,,97.0,8.0,-89.0,Increase,Decrease,Increase
+DL838,,713.0,754.0,746.0,,-41.0,-33.0,8.0,Decrease,Increase,Decrease
+DL839,,757.0,683.0,,,74.0,,,Increase,Course for 1 year only,Course for 1 year only
+DL840,,210.0,228.0,,,-18.0,,,Decrease,Course for 1 year only,Course for 1 year only
+DL841,,277.0,276.0,,,1.0,,,Increase,Course for 1 year only,Course for 1 year only
+DL843,,987.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DL844,,566.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DL845,,628.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GC200,,269.0,252.0,269.0,,17.0,0.0,-17.0,Increase,Decrease,No change
+GC201,,260.0,303.0,251.0,,-43.0,9.0,52.0,Decrease,Increase,Increase
+GC230,,300.0,335.0,228.0,,-35.0,72.0,107.0,Decrease,Increase,Increase
+GC300,,264.0,429.0,251.0,,-165.0,13.0,178.0,Decrease,Increase,Increase
+GC301,,,253.0,307.0,,,,-54.0,Course for 1 year only,Decrease,Course for 1 year only
+GC302,,377.0,,269.0,,,108.0,,Course for 1 year only,Course for 1 year only,Increase
+GC307,,289.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GC400,,250.0,248.0,246.0,,2.0,4.0,2.0,Increase,Increase,Increase
+GC401,,242.0,240.0,181.0,,2.0,61.0,59.0,Increase,Increase,Increase
+GC402,,,264.0,217.0,,,,47.0,Course for 1 year only,Increase,Course for 1 year only
+GC403,,245.0,244.0,225.0,,1.0,20.0,19.0,Increase,Increase,Increase
+GC407,,264.0,280.0,246.0,,-16.0,18.0,34.0,Decrease,Increase,Increase
+GC430,,251.0,252.0,217.0,,-1.0,34.0,35.0,Decrease,Increase,Increase
+GC450,,225.0,254.0,227.0,,-29.0,-2.0,27.0,Decrease,Increase,Decrease
+GC462,,300.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GC489,,288.0,254.0,267.0,,34.0,21.0,-13.0,Increase,Decrease,Increase
+GC494,,351.0,337.0,,,14.0,,,Increase,Course for 1 year only,Course for 1 year only
+BY001,,210.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+ID001,,,203.0,229.0,,,,-26.0,Course for 1 year only,Decrease,Course for 1 year only
+ID002,,,294.0,285.0,,,,9.0,Course for 1 year only,Increase,Course for 1 year only
+AD101,,554.0,,0.0,,,554.0,,Course for 1 year only,Course for 1 year only,Increase
+AD102,,538.0,,0.0,,,538.0,,Course for 1 year only,Course for 1 year only,Increase
+AD103,,505.0,,0.0,,,505.0,,Course for 1 year only,Course for 1 year only,Increase
+AD202,,591.0,,0.0,,,591.0,,Course for 1 year only,Course for 1 year only,Increase
+AD204,,514.0,,0.0,,,514.0,,Course for 1 year only,Course for 1 year only,Increase
+AD211,,760.0,,0.0,,,760.0,,Course for 1 year only,Course for 1 year only,Increase
+AD212,,413.0,,0.0,,,413.0,,Course for 1 year only,Course for 1 year only,Increase
+AD215,,337.0,377.0,300.0,,-40.0,37.0,77.0,Decrease,Increase,Increase
+AD217,,738.0,,0.0,,,738.0,,Course for 1 year only,Course for 1 year only,Increase
+AD222,,444.0,,0.0,,,444.0,,Course for 1 year only,Course for 1 year only,Increase
+NC003,,271.0,260.0,261.0,,11.0,10.0,-1.0,Increase,Decrease,Increase
+NC005,,301.0,300.0,297.0,,1.0,4.0,3.0,Increase,Increase,Increase
+NC009,,300.0,300.0,297.0,,0.0,3.0,3.0,No change,Increase,Increase
+NC010,,420.0,400.0,366.0,,20.0,54.0,34.0,Increase,Increase,Increase
+NC020,,270.0,280.0,270.0,,-10.0,0.0,10.0,Decrease,Increase,No change
+NC022,,330.0,337.0,338.0,,-7.0,-8.0,-1.0,Decrease,Decrease,Decrease
+NC023,,266.0,261.0,260.0,,5.0,6.0,1.0,Increase,Increase,Increase
+NC030,,251.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+RC001,,741.0,733.0,729.0,,8.0,12.0,4.0,Increase,Increase,Increase
+RC004,,589.0,566.0,532.0,,23.0,57.0,34.0,Increase,Increase,Increase
+RC005,,613.0,579.0,555.0,,34.0,58.0,24.0,Increase,Increase,Increase
+RC101,,,,60.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+NM801,,262.0,220.0,,,42.0,,,Increase,Course for 1 year only,Course for 1 year only
+NM802,,228.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU801,,235.0,235.0,,,0.0,,,No change,Course for 1 year only,Course for 1 year only
+TU802,,309.0,317.0,,,-8.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU804,,270.0,271.0,,,-1.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU805,,466.0,402.0,,,64.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU807,,274.0,276.0,,,-2.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU810,,271.0,270.0,,,1.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU811,,440.0,411.0,,,29.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU812,,278.0,270.0,,,8.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU814,,253.0,285.0,,,-32.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU828,,300.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU829,,248.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU831,,423.0,410.0,,,13.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU832,,644.0,622.0,,,22.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU833,,396.0,367.0,,,29.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU834,,315.0,288.0,,,27.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU835,,330.0,313.0,,,17.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU836,,411.0,401.0,,,10.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU837,,413.0,385.0,,,28.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU838,,307.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU851,,400.0,349.0,,,51.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU852,,477.0,476.0,,,1.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU854,,510.0,476.0,,,34.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU855,,322.0,331.0,,,-9.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU856,,499.0,476.0,,,23.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU857,,403.0,391.0,,,12.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU858,,395.0,377.0,,,18.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU859,,251.0,217.0,,,34.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU860,,270.0,260.0,,,10.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU861,,235.0,308.0,,,-73.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU862,,262.0,226.0,,,36.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU863,,282.0,280.0,,,2.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU864,,500.0,400.0,,,100.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU865,,235.0,226.0,,,9.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU866,,522.0,487.0,,,35.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU867,,576.0,524.0,,,52.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU868,,542.0,510.0,,,32.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU869,,387.0,336.0,,,51.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU870,,601.0,578.0,,,23.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU871,,532.0,509.0,,,23.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU872,,487.0,491.0,,,-4.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU874,,294.0,341.0,,,-47.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU875,,451.0,400.0,,,51.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU876,,445.0,377.0,,,68.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU877,,314.0,308.0,,,6.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU878,,339.0,337.0,,,2.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU879,,346.0,351.0,,,-5.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU880,,412.0,578.0,,,-166.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU881,,309.0,318.0,,,-9.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU882,,380.0,397.0,,,-17.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU902,,270.0,271.0,,,-1.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU903,,477.0,463.0,,,14.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU904,,462.0,462.0,,,0.0,,,No change,Course for 1 year only,Course for 1 year only
+TU905,,460.0,465.0,,,-5.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU906,,386.0,395.0,,,-9.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU907,,300.0,300.0,,,0.0,,,No change,Course for 1 year only,Course for 1 year only
+TU910,,420.0,444.0,,,-24.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU912,,331.0,330.0,,,1.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU914,,322.0,324.0,,,-2.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU917,,356.0,342.0,,,14.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU918,,463.0,451.0,,,12.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU919,,219.0,228.0,,,-9.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU920,,270.0,270.0,,,0.0,,,No change,Course for 1 year only,Course for 1 year only
+TU921,,230.0,212.0,,,18.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU922,,412.0,418.0,,,-6.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU924,,307.0,307.0,,,0.0,,,No change,Course for 1 year only,Course for 1 year only
+TU925,,307.0,301.0,,,6.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU932,,211.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU933,,251.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU935,,300.0,300.0,,,0.0,,,No change,Course for 1 year only,Course for 1 year only
+TU936,,484.0,410.0,,,74.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU941,,311.0,249.0,,,62.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU942,,252.0,212.0,,,40.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU943,,261.0,278.0,,,-17.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU944,,336.0,316.0,,,20.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU951,,244.0,184.0,,,60.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU952,,309.0,300.0,,,9.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU953,,308.0,290.0,,,18.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU954,,326.0,356.0,,,-30.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU955,,275.0,217.0,,,58.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU961,,536.0,608.0,,,-72.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU962,,448.0,379.0,,,69.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU963,,364.0,416.0,,,-52.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU965,,357.0,356.0,,,1.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU967,,298.0,308.0,,,-10.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU973,,700.0,717.0,,,-17.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU974,,549.0,709.0,,,-160.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU975,,544.0,632.0,,,-88.0,,,Decrease,Course for 1 year only,Course for 1 year only
+TU976,,700.0,695.0,,,5.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU978,,299.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU981,,280.0,280.0,,,0.0,,,No change,Course for 1 year only,Course for 1 year only
+TU982,,369.0,320.0,,,49.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU983,,462.0,456.0,,,6.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU984,,414.0,381.0,,,33.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU985,,367.0,322.0,,,45.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU989,,270.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU991,,326.0,325.0,,,1.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU992,,251.0,251.0,,,0.0,,,No change,Course for 1 year only,Course for 1 year only
+TU995,,378.0,367.0,,,11.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU996,,407.0,400.0,,,7.0,,,Increase,Course for 1 year only,Course for 1 year only
+TU997,,320.0,310.0,,,10.0,,,Increase,Course for 1 year only,Course for 1 year only
+TR002,,508.0,435.0,414.0,,73.0,94.0,21.0,Increase,Increase,Increase
+TR003,,552.0,497.0,486.0,,55.0,66.0,11.0,Increase,Increase,Increase
+TR004,,590.0,566.0,532.0,,24.0,58.0,34.0,Increase,Increase,Increase
+TR005,,510.0,442.0,391.0,,68.0,119.0,51.0,Increase,Increase,Increase
+TR006,,601.0,567.0,555.0,,34.0,46.0,12.0,Increase,Increase,Increase
+TR007,,564.0,529.0,499.0,,35.0,65.0,30.0,Increase,Increase,Increase
+TR009,,496.0,420.0,430.0,,76.0,66.0,-10.0,Increase,Decrease,Increase
+TR015,,613.0,589.0,566.0,,24.0,47.0,23.0,Increase,Increase,Increase
+TR016,,389.0,340.0,337.0,,49.0,52.0,3.0,Increase,Increase,Increase
+TR018,,602.0,565.0,532.0,,37.0,70.0,33.0,Increase,Increase,Increase
+TR019,,577.0,543.0,523.0,,34.0,54.0,20.0,Increase,Increase,Increase
+TR021,,467.0,370.0,377.0,,97.0,90.0,-7.0,Increase,Decrease,Increase
+TR022,,377.0,398.0,347.0,,-21.0,30.0,51.0,Decrease,Increase,Increase
+TR023,,546.0,487.0,463.0,,59.0,83.0,24.0,Increase,Increase,Increase
+TR024,,566.0,544.0,520.0,,22.0,46.0,24.0,Increase,Increase,Increase
+TR025,,543.0,564.0,489.0,,-21.0,54.0,75.0,Decrease,Increase,Increase
+TR028,,498.0,342.0,339.0,,156.0,159.0,3.0,Increase,Increase,Increase
+TR031,,579.0,531.0,566.0,,48.0,13.0,-35.0,Increase,Decrease,Increase
+TR032,,556.0,510.0,487.0,,46.0,69.0,23.0,Increase,Increase,Increase
+TR033,,566.0,509.0,465.0,,57.0,101.0,44.0,Increase,Increase,Increase
+TR034,,625.0,613.0,589.0,,12.0,36.0,24.0,Increase,Increase,Increase
+TR035,,590.0,543.0,554.0,,47.0,36.0,-11.0,Increase,Decrease,Increase
+TR038,,589.0,532.0,499.0,,57.0,90.0,33.0,Increase,Increase,Increase
+TR039,,443.0,454.0,435.0,,-11.0,8.0,19.0,Decrease,Increase,Increase
+TR040,,520.0,466.0,485.0,,54.0,35.0,-19.0,Increase,Decrease,Increase
+TR041,,417.0,368.0,347.0,,49.0,70.0,21.0,Increase,Increase,Increase
+TR042,,531.0,489.0,,,42.0,,,Increase,Course for 1 year only,Course for 1 year only
+TR043,,498.0,393.0,,,105.0,,,Increase,Course for 1 year only,Course for 1 year only
+TR051,,743.0,735.0,730.0,,8.0,13.0,5.0,Increase,Increase,Increase
+TR052,,625.0,613.0,590.0,,12.0,35.0,23.0,Increase,Increase,Increase
+TR053,,590.0,566.0,533.0,,24.0,57.0,33.0,Increase,Increase,Increase
+TR054,,578.0,533.0,500.0,,45.0,78.0,33.0,Increase,Increase,Increase
+TR055,,577.0,543.0,510.0,,34.0,67.0,33.0,Increase,Increase,Increase
+TR056,,601.0,565.0,543.0,,36.0,58.0,22.0,Increase,Increase,Increase
+TR060,,578.0,543.0,510.0,,35.0,68.0,33.0,Increase,Increase,Increase
+TR061,,558.0,517.0,488.0,,41.0,70.0,29.0,Increase,Increase,Increase
+TR062,,495.0,473.0,435.0,,22.0,60.0,38.0,Increase,Increase,Increase
+TR063,,554.0,498.0,498.0,,56.0,56.0,0.0,Increase,No change,Increase
+TR064,,555.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR072,,613.0,590.0,555.0,,23.0,58.0,35.0,Increase,Increase,Increase
+TR080,,613.0,589.0,565.0,,24.0,48.0,24.0,Increase,Increase,Increase
+TR081,,577.0,543.0,518.0,,34.0,59.0,25.0,Increase,Increase,Increase
+TR084,,497.0,462.0,420.0,,35.0,77.0,42.0,Increase,Increase,Increase
+TR085,,564.0,540.0,509.0,,24.0,55.0,31.0,Increase,Increase,Increase
+TR086,,530.0,509.0,474.0,,21.0,56.0,35.0,Increase,Increase,Increase
+TR087,,487.0,474.0,467.0,,13.0,20.0,7.0,Increase,Increase,Increase
+TR089,,391.0,444.0,393.0,,-53.0,-2.0,51.0,Decrease,Increase,Decrease
+TR090,,566.0,531.0,510.0,,35.0,56.0,21.0,Increase,Increase,Increase
+TR091,,462.0,429.0,393.0,,33.0,69.0,36.0,Increase,Increase,Increase
+TR093,,473.0,430.0,378.0,,43.0,95.0,52.0,Increase,Increase,Increase
+TR095,,442.0,408.0,358.0,,34.0,84.0,50.0,Increase,Increase,Increase
+TR097,,412.0,396.0,346.0,,16.0,66.0,50.0,Increase,Increase,Increase
+TR911,,531.0,511.0,476.0,,20.0,55.0,35.0,Increase,Increase,Increase
+TR913,,521.0,478.0,423.0,,43.0,98.0,55.0,Increase,Increase,Increase
+DN100,,555.0,510.0,473.0,,45.0,82.0,37.0,Increase,Increase,Increase
+DN120,,463.0,407.0,353.0,,56.0,110.0,54.0,Increase,Increase,Increase
+DN130,,445.0,407.0,367.0,,38.0,78.0,40.0,Increase,Increase,Increase
+DN150,,565.0,531.0,511.0,,34.0,54.0,20.0,Increase,Increase,Increase
+DN200,,577.0,533.0,521.0,,44.0,56.0,12.0,Increase,Increase,Increase
+DN201,,554.0,510.0,488.0,,44.0,66.0,22.0,Increase,Increase,Increase
+DN230,,613.0,601.0,577.0,,12.0,36.0,24.0,Increase,Increase,Increase
+DN240,,510.0,440.0,,,70.0,,,Increase,Course for 1 year only,Course for 1 year only
+DN250,,454.0,456.0,420.0,,-2.0,34.0,36.0,Decrease,Increase,Increase
+DN261,,531.0,477.0,434.0,,54.0,97.0,43.0,Increase,Increase,Increase
+DN262,,566.0,531.0,493.0,,35.0,73.0,38.0,Increase,Increase,Increase
+DN300,,601.0,589.0,567.0,,12.0,34.0,22.0,Increase,Increase,Increase
+DN301,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DN310,,521.0,478.0,441.0,,43.0,80.0,37.0,Increase,Increase,Increase
+DN400,,743.0,737.0,735.0,,6.0,8.0,2.0,Increase,Increase,Increase
+DN401,,61.0,,59.0,,,2.0,,Course for 1 year only,Course for 1 year only,Increase
+DN410,,566.0,534.0,507.0,,32.0,59.0,27.0,Increase,Increase,Increase
+DN411,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DN420,,601.0,578.0,542.0,,23.0,59.0,36.0,Increase,Increase,Increase
+DN425,,544.0,510.0,488.0,,34.0,56.0,22.0,Increase,Increase,Increase
+DN430,,484.0,455.0,436.0,,29.0,48.0,19.0,Increase,Increase,Increase
+DN440,,613.0,590.0,565.0,,23.0,48.0,25.0,Increase,Increase,Increase
+DN450,,462.0,429.0,398.0,,33.0,64.0,31.0,Increase,Increase,Increase
+DN451,,533.0,509.0,462.0,,24.0,71.0,47.0,Increase,Increase,Increase
+DN452,,510.0,489.0,409.0,,21.0,101.0,80.0,Increase,Increase,Increase
+DN453,,442.0,397.0,379.0,,45.0,63.0,18.0,Increase,Increase,Increase
+DN520,,381.0,310.0,336.0,,71.0,45.0,-26.0,Increase,Decrease,Increase
+DN530,,397.0,340.0,348.0,,57.0,49.0,-8.0,Increase,Decrease,Increase
+DN541,,320.0,303.0,348.0,,17.0,-28.0,-45.0,Increase,Decrease,Decrease
+DN600,,576.0,546.0,520.0,,30.0,56.0,26.0,Increase,Increase,Increase
+DN610,,573.0,545.0,521.0,,28.0,52.0,24.0,Increase,Increase,Increase
+DN650,,555.0,521.0,498.0,,34.0,57.0,23.0,Increase,Increase,Increase
+DN660,,555.0,517.0,507.0,,38.0,48.0,10.0,Increase,Increase,Increase
+DN670,,625.0,613.0,601.0,,12.0,24.0,12.0,Increase,Increase,Increase
+DN700,,475.0,421.0,388.0,,54.0,87.0,33.0,Increase,Increase,Increase
+DN710,,534.0,498.0,476.0,,36.0,58.0,22.0,Increase,Increase,Increase
+DN720,,566.0,530.0,517.0,,36.0,49.0,13.0,Increase,Increase,Increase
+DN750,,421.0,378.0,330.0,,43.0,91.0,48.0,Increase,Increase,Increase
+DK810,,307.0,305.0,306.0,,2.0,1.0,-1.0,Increase,Decrease,Increase
+DK816,,301.0,300.0,300.0,,1.0,1.0,0.0,Increase,No change,Increase
+DK820,,309.0,311.0,307.0,,-2.0,2.0,4.0,Decrease,Increase,Increase
+DK821,,320.0,302.0,301.0,,18.0,19.0,1.0,Increase,Increase,Increase
+DK822,,320.0,307.0,,,13.0,,,Increase,Course for 1 year only,Course for 1 year only
+DK830,,305.0,336.0,302.0,,-31.0,3.0,34.0,Decrease,Increase,Increase
+DK831,,368.0,389.0,301.0,,-21.0,67.0,88.0,Decrease,Increase,Increase
+DK832,,358.0,387.0,300.0,,-29.0,58.0,87.0,Decrease,Increase,Increase
+DK843,,404.0,340.0,303.0,,64.0,101.0,37.0,Increase,Increase,Increase
+DK844,,336.0,305.0,,,31.0,,,Increase,Course for 1 year only,Course for 1 year only
+DK845,,331.0,304.0,,,27.0,,,Increase,Course for 1 year only,Course for 1 year only
+DK846,,371.0,391.0,,,-20.0,,,Decrease,Course for 1 year only,Course for 1 year only
+DK850,,303.0,317.0,,,-14.0,,,Decrease,Course for 1 year only,Course for 1 year only
+DK861,,302.0,302.0,300.0,,0.0,2.0,2.0,No change,Increase,Increase
+DK862,,322.0,301.0,300.0,,21.0,22.0,1.0,Increase,Increase,Increase
+DK863,,336.0,308.0,300.0,,28.0,36.0,8.0,Increase,Increase,Increase
+DK864,,308.0,300.0,300.0,,8.0,8.0,0.0,Increase,No change,Increase
+DK865,,352.0,301.0,301.0,,51.0,51.0,0.0,Increase,No change,Increase
+DK870,,440.0,403.0,392.0,,37.0,48.0,11.0,Increase,Increase,Increase
+DK872,,367.0,336.0,300.0,,31.0,67.0,36.0,Increase,Increase,Increase
+DK874,,398.0,356.0,356.0,,42.0,42.0,0.0,Increase,No change,Increase
+DK876,,300.0,321.0,305.0,,-21.0,-5.0,16.0,Decrease,Increase,Decrease
+DK877,,482.0,440.0,398.0,,42.0,84.0,42.0,Increase,Increase,Increase
+DK880,,301.0,328.0,300.0,,-27.0,1.0,28.0,Decrease,Increase,Increase
+DK882,,342.0,310.0,303.0,,32.0,39.0,7.0,Increase,Increase,Increase
+DK883,,373.0,358.0,300.0,,15.0,73.0,58.0,Increase,Increase,Increase
+DK884,,348.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DK885,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DK886,,379.0,301.0,,,78.0,,,Increase,Course for 1 year only,Course for 1 year only
+DK887,,377.0,330.0,,,47.0,,,Increase,Course for 1 year only,Course for 1 year only
+GA181,,303.0,309.0,303.0,,-6.0,0.0,6.0,Decrease,Increase,No change
+GA182,,285.0,287.0,290.0,,-2.0,-5.0,-3.0,Decrease,Decrease,Decrease
+GA183,,298.0,296.0,309.0,,2.0,-11.0,-13.0,Increase,Decrease,Decrease
+GA184,,300.0,307.0,307.0,,-7.0,-7.0,0.0,Decrease,No change,Decrease
+GA185,,318.0,293.0,307.0,,25.0,11.0,-14.0,Increase,Decrease,Increase
+GA186,,287.0,280.0,297.0,,7.0,-10.0,-17.0,Increase,Decrease,Decrease
+GA187,,291.0,281.0,280.0,,10.0,11.0,1.0,Increase,Increase,Increase
+GA281,,310.0,304.0,287.0,,6.0,23.0,17.0,Increase,Increase,Increase
+GA282,,252.0,220.0,238.0,,32.0,14.0,-18.0,Increase,Decrease,Increase
+GA283,,790.0,679.0,260.0,,111.0,530.0,419.0,Increase,Increase,Increase
+GA284,,331.0,303.0,309.0,,28.0,22.0,-6.0,Increase,Decrease,Increase
+GA285,,406.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GA380,,218.0,242.0,225.0,,-24.0,-7.0,17.0,Decrease,Increase,Decrease
+GA381,,252.0,278.0,261.0,,-26.0,-9.0,17.0,Decrease,Increase,Decrease
+GA382,,235.0,206.0,225.0,,29.0,10.0,-19.0,Increase,Decrease,Increase
+GA384,,230.0,212.0,209.0,,18.0,21.0,3.0,Increase,Increase,Increase
+GA480,,302.0,260.0,260.0,,42.0,42.0,0.0,Increase,No change,Increase
+GA482,,304.0,288.0,280.0,,16.0,24.0,8.0,Increase,Increase,Increase
+GA483,,281.0,265.0,251.0,,16.0,30.0,14.0,Increase,Increase,Increase
+GA484,,377.0,290.0,270.0,,87.0,107.0,20.0,Increase,Increase,Increase
+GA580,,300.0,300.0,301.0,,0.0,-1.0,-1.0,No change,Decrease,Decrease
+GA680,,400.0,330.0,336.0,,70.0,64.0,-6.0,Increase,Decrease,Increase
+GA681,,312.0,293.0,281.0,,19.0,31.0,12.0,Increase,Increase,Increase
+GA682,,331.0,313.0,331.0,,18.0,0.0,-18.0,Increase,Decrease,No change
+GA683,,304.0,309.0,301.0,,-5.0,3.0,8.0,Decrease,Increase,Increase
+GA684,,413.0,340.0,346.0,,73.0,67.0,-6.0,Increase,Decrease,Increase
+GA685,,336.0,309.0,,,27.0,,,Increase,Course for 1 year only,Course for 1 year only
+GA780,,366.0,327.0,300.0,,39.0,66.0,27.0,Increase,Increase,Increase
+GA781,,381.0,337.0,317.0,,44.0,64.0,20.0,Increase,Increase,Increase
+GA782,,356.0,336.0,307.0,,20.0,49.0,29.0,Increase,Increase,Increase
+GA783,,301.0,363.0,373.0,,-62.0,-72.0,-10.0,Decrease,Decrease,Decrease
+GA784,,445.0,372.0,327.0,,73.0,118.0,45.0,Increase,Increase,Increase
+GA785,,517.0,473.0,451.0,,44.0,66.0,22.0,Increase,Increase,Increase
+GA786,,408.0,317.0,300.0,,91.0,108.0,17.0,Increase,Increase,Increase
+GA787,,310.0,270.0,275.0,,40.0,35.0,-5.0,Increase,Decrease,Increase
+GA788,,270.0,274.0,270.0,,-4.0,0.0,4.0,Decrease,Increase,No change
+GA789,,340.0,287.0,297.0,,53.0,43.0,-10.0,Increase,Decrease,Increase
+GA790,,376.0,356.0,350.0,,20.0,26.0,6.0,Increase,Increase,Increase
+GA791,,368.0,368.0,364.0,,0.0,4.0,4.0,No change,Increase,Increase
+GA880,,440.0,429.0,389.0,,11.0,51.0,40.0,Increase,Increase,Increase
+GA882,,369.0,367.0,346.0,,2.0,23.0,21.0,Increase,Increase,Increase
+GA885,,269.0,252.0,210.0,,17.0,59.0,42.0,Increase,Increase,Increase
+GA887,,201.0,244.0,228.0,,-43.0,-27.0,16.0,Decrease,Increase,Decrease
+GA889,,265.0,266.0,260.0,,-1.0,5.0,6.0,Decrease,Increase,Increase
+GA890,,281.0,270.0,278.0,,11.0,3.0,-8.0,Increase,Decrease,Increase
+GA891,,261.0,244.0,,,17.0,,,Increase,Course for 1 year only,Course for 1 year only
+GA892,8,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GA980,,410.0,377.0,376.0,,33.0,34.0,1.0,Increase,Increase,Increase
+GA981,,346.0,,271.0,,,75.0,,Course for 1 year only,Course for 1 year only,Increase
+GA982,,360.0,,270.0,,,90.0,,Course for 1 year only,Course for 1 year only,Increase
+GA983,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GA984,,486.0,284.0,,,202.0,,,Increase,Course for 1 year only,Course for 1 year only
+GY101,,327.0,300.0,300.0,,27.0,27.0,0.0,Increase,No change,Increase
+GY104,,564.0,523.0,507.0,,41.0,57.0,16.0,Increase,Increase,Increase
+GY105,,357.0,301.0,318.0,,56.0,39.0,-17.0,Increase,Decrease,Increase
+GY109,,413.0,403.0,411.0,,10.0,2.0,-8.0,Increase,Decrease,Increase
+GY110,,387.0,357.0,382.0,,30.0,5.0,-25.0,Increase,Decrease,Increase
+GY111,,421.0,330.0,402.0,,91.0,19.0,-72.0,Increase,Decrease,Increase
+GY113,,413.0,368.0,338.0,,45.0,75.0,30.0,Increase,Increase,Increase
+GY115,,300.0,387.0,328.0,,-87.0,-28.0,59.0,Decrease,Increase,Decrease
+GY118,,453.0,451.0,410.0,,2.0,43.0,41.0,Increase,Increase,Increase
+GY119,,484.0,400.0,410.0,,84.0,74.0,-10.0,Increase,Decrease,Increase
+GY122,,410.0,361.0,308.0,,49.0,102.0,53.0,Increase,Increase,Increase
+GY123,,419.0,358.0,357.0,,61.0,62.0,1.0,Increase,Increase,Increase
+GY125,,403.0,328.0,324.0,,75.0,79.0,4.0,Increase,Increase,Increase
+GY127,,430.0,401.0,387.0,,29.0,43.0,14.0,Increase,Increase,Increase
+GY128,,346.0,352.0,370.0,,-6.0,-24.0,-18.0,Decrease,Decrease,Decrease
+GY129,,465.0,420.0,408.0,,45.0,57.0,12.0,Increase,Increase,Increase
+GY130,,462.0,408.0,400.0,,54.0,62.0,8.0,Increase,Increase,Increase
+GY132,,465.0,407.0,402.0,,58.0,63.0,5.0,Increase,Increase,Increase
+GY133,,454.0,422.0,401.0,,32.0,53.0,21.0,Increase,Increase,Increase
+GY134,,425.0,410.0,,,15.0,,,Increase,Course for 1 year only,Course for 1 year only
+GY135,,442.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GY136,,526.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GY201,,476.0,433.0,420.0,,43.0,56.0,13.0,Increase,Increase,Increase
+GY202,,520.0,484.0,484.0,,36.0,36.0,0.0,Increase,No change,Increase
+GY203,,518.0,489.0,489.0,,29.0,29.0,0.0,Increase,No change,Increase
+GY204,,506.0,495.0,484.0,,11.0,22.0,11.0,Increase,Increase,Increase
+GY206,,509.0,465.0,431.0,,44.0,78.0,34.0,Increase,Increase,Increase
+GY207,,543.0,509.0,486.0,,34.0,57.0,23.0,Increase,Increase,Increase
+GY208,,508.0,473.0,473.0,,35.0,35.0,0.0,Increase,No change,Increase
+GY209,,551.0,530.0,509.0,,21.0,42.0,21.0,Increase,Increase,Increase
+GY250,,510.0,487.0,436.0,,23.0,74.0,51.0,Increase,Increase,Increase
+GY251,,542.0,499.0,473.0,,43.0,69.0,26.0,Increase,Increase,Increase
+GY252,,565.0,520.0,510.0,,45.0,55.0,10.0,Increase,Increase,Increase
+GY253,,506.0,509.0,,,-3.0,,,Decrease,Course for 1 year only,Course for 1 year only
+GY254,,548.0,530.0,,,18.0,,,Increase,Course for 1 year only,Course for 1 year only
+GY261,,503.0,497.0,486.0,,6.0,17.0,11.0,Increase,Increase,Increase
+GY262,,709.0,681.0,671.0,,28.0,38.0,10.0,Increase,Increase,Increase
+GY301,,489.0,433.0,400.0,,56.0,89.0,33.0,Increase,Increase,Increase
+GY303,,613.0,556.0,533.0,,57.0,80.0,23.0,Increase,Increase,Increase
+GY304,,498.0,465.0,473.0,,33.0,25.0,-8.0,Increase,Decrease,Increase
+GY308,,431.0,408.0,413.0,,23.0,18.0,-5.0,Increase,Decrease,Increase
+GY309,,509.0,487.0,454.0,,22.0,55.0,33.0,Increase,Increase,Increase
+GY310,,467.0,419.0,409.0,,48.0,58.0,10.0,Increase,Increase,Increase
+GY313,,412.0,412.0,402.0,,0.0,10.0,10.0,No change,Increase,Increase
+GY314,,422.0,403.0,402.0,,19.0,20.0,1.0,Increase,Increase,Increase
+GY318,,555.0,509.0,510.0,,46.0,45.0,-1.0,Increase,Decrease,Increase
+GY319,,543.0,476.0,456.0,,67.0,87.0,20.0,Increase,Increase,Increase
+GY320,,465.0,402.0,401.0,,63.0,64.0,1.0,Increase,Increase,Increase
+GY321,,532.0,508.0,,,24.0,,,Increase,Course for 1 year only,Course for 1 year only
+GY322,,485.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GY350,,495.0,403.0,425.0,,92.0,70.0,-22.0,Increase,Decrease,Increase
+GY401,,522.0,465.0,444.0,,57.0,78.0,21.0,Increase,Increase,Increase
+GY402,,533.0,455.0,509.0,,78.0,24.0,-54.0,Increase,Decrease,Increase
+GY405,,541.0,454.0,443.0,,87.0,98.0,11.0,Increase,Increase,Increase
+GY406,,555.0,510.0,509.0,,45.0,46.0,1.0,Increase,Increase,Increase
+GY408,,554.0,509.0,519.0,,45.0,35.0,-10.0,Increase,Decrease,Increase
+GY410,,431.0,403.0,434.0,,28.0,-3.0,-31.0,Increase,Decrease,Decrease
+GY413,,509.0,502.0,532.0,,7.0,-23.0,-30.0,Increase,Decrease,Decrease
+GY414,,433.0,405.0,454.0,,28.0,-21.0,-49.0,Increase,Decrease,Decrease
+GY501,,737.0,728.0,726.0,,9.0,11.0,2.0,Increase,Increase,Increase
+GY502,,601.0,555.0,532.0,,46.0,69.0,23.0,Increase,Increase,Increase
+GY503,,578.0,543.0,529.0,,35.0,49.0,14.0,Increase,Increase,Increase
+GY504,,531.0,443.0,434.0,,88.0,97.0,9.0,Increase,Increase,Increase
+GY515,,502.0,476.0,442.0,,26.0,60.0,34.0,Increase,Increase,Increase
+GY516,,475.0,440.0,388.0,,35.0,87.0,52.0,Increase,Increase,Increase
+GY517,,520.0,495.0,429.0,,25.0,91.0,66.0,Increase,Increase,Increase
+LY108,,312.0,309.0,318.0,,3.0,-6.0,-9.0,Increase,Decrease,Decrease
+LY118,,288.0,290.0,287.0,,-2.0,1.0,3.0,Decrease,Increase,Increase
+LY128,,261.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+LY208,,300.0,300.0,300.0,,0.0,0.0,0.0,No change,No change,No change
+LY228,,290.0,300.0,278.0,,-10.0,12.0,22.0,Decrease,Increase,Increase
+LY408,,301.0,320.0,307.0,,-19.0,-6.0,13.0,Decrease,Increase,Decrease
+LY508,,283.0,276.0,270.0,,7.0,13.0,6.0,Increase,Increase,Increase
+LY518,,304.0,301.0,307.0,,3.0,-3.0,-6.0,Increase,Decrease,Decrease
+LY528,,262.0,271.0,267.0,,-9.0,-5.0,4.0,Decrease,Increase,Decrease
+LY538,,234.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+LY608,,300.0,300.0,304.0,,0.0,-4.0,-4.0,No change,Decrease,Decrease
+LY618,,321.0,312.0,307.0,,9.0,14.0,5.0,Increase,Increase,Increase
+LY708,,320.0,306.0,300.0,,14.0,20.0,6.0,Increase,Increase,Increase
+LY748,,316.0,317.0,,,-1.0,,,Decrease,Course for 1 year only,Course for 1 year only
+LY818,,302.0,303.0,302.0,,-1.0,0.0,1.0,Decrease,Increase,No change
+LY828,,308.0,307.0,300.0,,1.0,8.0,7.0,Increase,Increase,Increase
+LY908,,429.0,400.0,383.0,,29.0,46.0,17.0,Increase,Increase,Increase
+LY918,,367.0,357.0,291.0,,10.0,76.0,66.0,Increase,Increase,Increase
+LY928,,357.0,326.0,288.0,,31.0,69.0,38.0,Increase,Increase,Increase
+LY968,,288.0,303.0,300.0,,-15.0,-12.0,3.0,Decrease,Increase,Decrease
+LY978,,279.0,280.0,260.0,,-1.0,19.0,20.0,Decrease,Increase,Increase
+MI001,,209.0,375.0,345.0,,-166.0,-136.0,30.0,Decrease,Increase,Decrease
+MI002,,280.0,300.0,300.0,,-20.0,-20.0,0.0,Decrease,No change,Decrease
+MI004,,589.0,577.0,,,12.0,,,Increase,Course for 1 year only,Course for 1 year only
+MI005,,522.0,495.0,473.0,,27.0,49.0,22.0,Increase,Increase,Increase
+MI006,,485.0,456.0,442.0,,29.0,43.0,14.0,Increase,Increase,Increase
+MI007,,409.0,357.0,366.0,,52.0,43.0,-9.0,Increase,Decrease,Increase
+MI008,,590.0,588.0,543.0,,2.0,47.0,45.0,Increase,Increase,Increase
+MI009,,434.0,402.0,392.0,,32.0,42.0,10.0,Increase,Increase,Increase
+MI010,,370.0,368.0,326.0,,2.0,44.0,42.0,Increase,Increase,Increase
+MI011,,407.0,409.0,377.0,,-2.0,30.0,32.0,Decrease,Increase,Increase
+MI012,,387.0,401.0,398.0,,-14.0,-11.0,3.0,Decrease,Increase,Decrease
+MI013,,509.0,444.0,433.0,,65.0,76.0,11.0,Increase,Increase,Increase
+MI014,,476.0,434.0,,,42.0,,,Increase,Course for 1 year only,Course for 1 year only
+CI110,,292.0,310.0,,,-18.0,,,Decrease,Course for 1 year only,Course for 1 year only
+CI111,,290.0,301.0,,,-11.0,,,Decrease,Course for 1 year only,Course for 1 year only
+CI112,,325.0,311.0,,,14.0,,,Increase,Course for 1 year only,Course for 1 year only
+LC110,,794.0,740.0,734.0,,54.0,60.0,6.0,Increase,Increase,Increase
+LC114,,914.0,880.0,900.0,,34.0,14.0,-20.0,Increase,Decrease,Increase
+LC115,,993.0,942.0,,,51.0,,,Increase,Course for 1 year only,Course for 1 year only
+LC220,,263.0,262.0,254.0,,1.0,9.0,8.0,Increase,Increase,Increase
+LC223,,331.0,307.0,308.0,,24.0,23.0,-1.0,Increase,Decrease,Increase
+LC224,,300.0,300.0,299.0,,0.0,1.0,1.0,No change,Increase,Increase
+LC225,,298.0,298.0,298.0,,0.0,0.0,0.0,No change,No change,No change
+LC226,,255.0,234.0,216.0,,21.0,39.0,18.0,Increase,Increase,Increase
+LC233,,280.0,272.0,300.0,,8.0,-20.0,-28.0,Increase,Decrease,Decrease
+LC234,,226.0,225.0,219.0,,1.0,7.0,6.0,Increase,Increase,Increase
+LC236,,260.0,262.0,298.0,,-2.0,-38.0,-36.0,Decrease,Decrease,Decrease
+LC239,,317.0,307.0,335.0,,10.0,-18.0,-28.0,Increase,Decrease,Decrease
+LC241,,326.0,255.0,276.0,,71.0,50.0,-21.0,Increase,Decrease,Increase
+LC242,,308.0,282.0,292.0,,26.0,16.0,-10.0,Increase,Decrease,Increase
+LC243,,278.0,294.0,281.0,,-16.0,-3.0,13.0,Decrease,Increase,Decrease
+LC248,,300.0,288.0,307.0,,12.0,-7.0,-19.0,Increase,Decrease,Decrease
+LC252,,264.0,270.0,281.0,,-6.0,-17.0,-11.0,Decrease,Decrease,Decrease
+LC263,,391.0,294.0,282.0,,97.0,109.0,12.0,Increase,Increase,Increase
+LC265,,498.0,413.0,335.0,,85.0,163.0,78.0,Increase,Increase,Increase
+LC266,,252.0,262.0,236.0,,-10.0,16.0,26.0,Decrease,Increase,Increase
+LC275,,361.0,298.0,288.0,,63.0,73.0,10.0,Increase,Increase,Increase
+LC288,,378.0,347.0,307.0,,31.0,71.0,40.0,Increase,Increase,Increase
+LC289,,261.0,291.0,280.0,,-30.0,-19.0,11.0,Decrease,Increase,Decrease
+LC292,,374.0,367.0,360.0,,7.0,14.0,7.0,Increase,Increase,Increase
+LC293,,271.0,307.0,299.0,,-36.0,-28.0,8.0,Decrease,Increase,Decrease
+LC294,,279.0,279.0,271.0,,0.0,8.0,8.0,No change,Increase,Increase
+LC295,,262.0,252.0,263.0,,10.0,-1.0,-11.0,Increase,Decrease,Decrease
+LC297,,272.0,235.0,217.0,,37.0,55.0,18.0,Increase,Increase,Increase
+LC320,,381.0,346.0,337.0,,35.0,44.0,9.0,Increase,Increase,Increase
+LC330,,328.0,297.0,298.0,,31.0,30.0,-1.0,Increase,Decrease,Increase
+LC340,,391.0,350.0,298.0,,41.0,93.0,52.0,Increase,Increase,Increase
+LC362,,429.0,413.0,379.0,,16.0,50.0,34.0,Increase,Increase,Increase
+LC371,,325.0,309.0,298.0,,16.0,27.0,11.0,Increase,Increase,Increase
+LC372,,377.0,325.0,321.0,,52.0,56.0,4.0,Increase,Increase,Increase
+LC374,,337.0,318.0,317.0,,19.0,20.0,1.0,Increase,Increase,Increase
+LC375,,309.0,317.0,321.0,,-8.0,-12.0,-4.0,Decrease,Decrease,Decrease
+LC376,,357.0,318.0,308.0,,39.0,49.0,10.0,Increase,Increase,Increase
+LC380,,298.0,303.0,282.0,,-5.0,16.0,21.0,Decrease,Increase,Increase
+LC392,,328.0,236.0,217.0,,92.0,111.0,19.0,Increase,Increase,Increase
+LC393,,309.0,236.0,260.0,,73.0,49.0,-24.0,Increase,Decrease,Increase
+LC402,,228.0,225.0,209.0,,3.0,19.0,16.0,Increase,Increase,Increase
+LC408,,279.0,279.0,262.0,,0.0,17.0,17.0,No change,Increase,Increase
+LC416,,260.0,274.0,,,-14.0,,,Decrease,Course for 1 year only,Course for 1 year only
+LC418,,260.0,270.0,271.0,,-10.0,-11.0,-1.0,Decrease,Decrease,Decrease
+LC422,,289.0,298.0,288.0,,-9.0,1.0,10.0,Decrease,Increase,Increase
+LC502,,841.0,852.0,838.0,,-11.0,3.0,14.0,Decrease,Increase,Increase
+LC517,,279.0,234.0,229.0,,45.0,50.0,5.0,Increase,Increase,Increase
+LC518,,807.0,808.0,816.0,,-1.0,-9.0,-8.0,Decrease,Decrease,Decrease
+LC612,,309.0,320.0,319.0,,-11.0,-10.0,1.0,Decrease,Increase,Decrease
+LM002,,360.0,348.0,329.0,,12.0,31.0,19.0,Increase,Increase,Increase
+LM019,,451.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+LM020,,474.0,465.0,436.0,,9.0,38.0,29.0,Increase,Increase,Increase
+LM026,,329.0,303.0,307.0,,26.0,22.0,-4.0,Increase,Decrease,Increase
+LM028,,420.0,418.0,387.0,,2.0,33.0,31.0,Increase,Increase,Increase
+LM029,,530.0,490.0,473.0,,40.0,57.0,17.0,Increase,Increase,Increase
+LM038,,530.0,500.0,478.0,,30.0,52.0,22.0,Increase,Increase,Increase
+LM039,,432.0,402.0,388.0,,30.0,44.0,14.0,Increase,Increase,Increase
+LM040,,409.0,369.0,350.0,,40.0,59.0,19.0,Increase,Increase,Increase
+LM044,,429.0,442.0,404.0,,-13.0,25.0,38.0,Decrease,Increase,Increase
+LM050,,451.0,431.0,419.0,,20.0,32.0,12.0,Increase,Increase,Increase
+LM056,,555.0,528.0,511.0,,27.0,44.0,17.0,Increase,Increase,Increase
+LM058,,468.0,403.0,434.0,,65.0,34.0,-31.0,Increase,Decrease,Increase
+LM063,,410.0,379.0,372.0,,31.0,38.0,7.0,Increase,Increase,Increase
+LM066,,430.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+LM068,,464.0,421.0,400.0,,43.0,64.0,21.0,Increase,Increase,Increase
+LM076,,401.0,408.0,402.0,,-7.0,-1.0,6.0,Decrease,Increase,Decrease
+LM077,,567.0,520.0,469.0,,47.0,98.0,51.0,Increase,Increase,Increase
+LM082,,446.0,398.0,368.0,,48.0,78.0,30.0,Increase,Increase,Increase
+LM089,,498.0,474.0,441.0,,24.0,57.0,33.0,Increase,Increase,Increase
+LM090,,552.0,532.0,498.0,,20.0,54.0,34.0,Increase,Increase,Increase
+LM091,,506.0,517.0,,,-11.0,,,Decrease,Course for 1 year only,Course for 1 year only
+LM092,,521.0,507.0,478.0,,14.0,43.0,29.0,Increase,Increase,Increase
+LM093,,367.0,339.0,338.0,,28.0,29.0,1.0,Increase,Increase,Increase
+LM094,,475.0,440.0,405.0,,35.0,70.0,35.0,Increase,Increase,Increase
+LM095,,425.0,367.0,358.0,,58.0,67.0,9.0,Increase,Increase,Increase
+LM096,,454.0,405.0,382.0,,49.0,72.0,23.0,Increase,Increase,Increase
+LM097,,465.0,402.0,,,63.0,,,Increase,Course for 1 year only,Course for 1 year only
+LM099,,520.0,498.0,419.0,,22.0,101.0,79.0,Increase,Increase,Increase
+LM100,,613.0,589.0,565.0,,24.0,48.0,24.0,Increase,Increase,Increase
+LM101,,57.0,55.0,55.0,,2.0,2.0,0.0,Increase,No change,Increase
+LM102,,534.0,509.0,495.0,,25.0,39.0,14.0,Increase,Increase,Increase
+LM103,1,429.0,392.0,313.0,,37.0,116.0,79.0,Increase,Increase,Increase
+LM105,,441.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+LM115,,476.0,454.0,456.0,,22.0,20.0,-2.0,Increase,Decrease,Increase
+LM116,,498.0,476.0,434.0,,22.0,64.0,42.0,Increase,Increase,Increase
+LM118,,445.0,403.0,401.0,,42.0,44.0,2.0,Increase,Increase,Increase
+LM121,,402.0,351.0,352.0,,51.0,50.0,-1.0,Increase,Decrease,Increase
+LM122,,382.0,327.0,330.0,,55.0,52.0,-3.0,Increase,Decrease,Increase
+LM123,,498.0,441.0,412.0,,57.0,86.0,29.0,Increase,Increase,Increase
+LM124,,455.0,437.0,427.0,,18.0,28.0,10.0,Increase,Increase,Increase
+LM125,,489.0,404.0,405.0,,85.0,84.0,-1.0,Increase,Decrease,Increase
+LM150,,498.0,475.0,440.0,,23.0,58.0,35.0,Increase,Increase,Increase
+LM152,,478.0,419.0,388.0,,59.0,90.0,31.0,Increase,Increase,Increase
+LM154,,462.0,420.0,381.0,,42.0,81.0,39.0,Increase,Increase,Increase
+LM156,,521.0,469.0,429.0,,52.0,92.0,40.0,Increase,Increase,Increase
+MU001,,294.0,290.0,290.0,,4.0,4.0,0.0,Increase,No change,Increase
+MU002,,,440.0,292.0,,,,148.0,Course for 1 year only,Increase,Course for 1 year only
+MH001,,564.0,507.0,496.0,,57.0,68.0,11.0,Increase,Increase,Increase
+MH002,,,,441.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+MH003,,381.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+MH101,,338.0,318.0,316.0,,20.0,22.0,2.0,Increase,Increase,Increase
+MH103,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+MH106,3,554.0,521.0,495.0,,33.0,59.0,26.0,Increase,Increase,Increase
+MH107,,390.0,346.0,326.0,,44.0,64.0,20.0,Increase,Increase,Increase
+MH109,,324.0,316.0,317.0,,8.0,7.0,-1.0,Increase,Decrease,Increase
+MH116,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+MH201,,401.0,360.0,350.0,,41.0,51.0,10.0,Increase,Increase,Increase
+MH202,,490.0,455.0,429.0,,35.0,61.0,26.0,Increase,Increase,Increase
+MH203,,451.0,430.0,,,21.0,,,Increase,Course for 1 year only,Course for 1 year only
+MH204,,422.0,422.0,420.0,,0.0,2.0,2.0,No change,Increase,Increase
+MH206,,521.0,510.0,498.0,,11.0,23.0,12.0,Increase,Increase,Increase
+MH207,,444.0,445.0,434.0,,-1.0,10.0,11.0,Decrease,Increase,Increase
+MH208,,543.0,498.0,451.0,,45.0,92.0,47.0,Increase,Increase,Increase
+MH209,4,529.0,498.0,473.0,,31.0,56.0,25.0,Increase,Increase,Increase
+MH210,,510.0,487.0,446.0,,23.0,64.0,41.0,Increase,Increase,Increase
+MH212,,452.0,422.0,444.0,,30.0,8.0,-22.0,Increase,Decrease,Increase
+MH304,,351.0,333.0,371.0,,18.0,-20.0,-38.0,Increase,Decrease,Decrease
+MH305,,326.0,357.0,358.0,,-31.0,-32.0,-1.0,Decrease,Decrease,Decrease
+MH306,,362.0,361.0,361.0,,1.0,1.0,0.0,Increase,No change,Increase
+MH401,,370.0,357.0,352.0,,13.0,18.0,5.0,Increase,Increase,Increase
+MH402,,476.0,476.0,476.0,,0.0,0.0,0.0,No change,No change,No change
+MH403,,424.0,422.0,402.0,,2.0,22.0,20.0,Increase,Increase,Increase
+MH404,,441.0,430.0,400.0,,11.0,41.0,30.0,Increase,Increase,Increase
+MH407,,423.0,420.0,401.0,,3.0,22.0,19.0,Increase,Increase,Increase
+MH411,,378.0,371.0,358.0,,7.0,20.0,13.0,Increase,Increase,Increase
+MH501,,507.0,473.0,451.0,,34.0,56.0,22.0,Increase,Increase,Increase
+MH502,,465.0,451.0,410.0,,14.0,55.0,41.0,Increase,Increase,Increase
+MH601,,381.0,352.0,342.0,,29.0,39.0,10.0,Increase,Increase,Increase
+MH602,,400.0,351.0,357.0,,49.0,43.0,-6.0,Increase,Decrease,Increase
+MH603,,520.0,532.0,520.0,,-12.0,0.0,12.0,Decrease,Increase,No change
+MH801,,,327.0,347.0,,,,-20.0,Course for 1 year only,Decrease,Course for 1 year only
+MH802,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+MH803,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+AS001,,542.0,510.0,456.0,,32.0,86.0,54.0,Increase,Increase,Increase
+AS002,,464.0,441.0,400.0,,23.0,64.0,41.0,Increase,Increase,Increase
+AS003,,463.0,440.0,421.0,,23.0,42.0,19.0,Increase,Increase,Increase
+AS051,,378.0,328.0,337.0,,50.0,41.0,-9.0,Increase,Decrease,Increase
+AS054,,440.0,408.0,387.0,,32.0,53.0,21.0,Increase,Increase,Increase
+AS110,,440.0,419.0,391.0,,21.0,49.0,28.0,Increase,Increase,Increase
+AS130,,387.0,336.0,317.0,,51.0,70.0,19.0,Increase,Increase,Increase
+SG141,,262.0,261.0,252.0,,1.0,10.0,9.0,Increase,Increase,Increase
+SG145,,279.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+SG146,,304.0,309.0,307.0,,-5.0,-3.0,2.0,Decrease,Increase,Decrease
+SG147,,288.0,307.0,269.0,,-19.0,19.0,38.0,Decrease,Increase,Increase
+SG148,,298.0,269.0,246.0,,29.0,52.0,23.0,Increase,Increase,Increase
+SG150,,298.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+SG241,,341.0,328.0,279.0,,13.0,62.0,49.0,Increase,Increase,Increase
+SG242,,287.0,279.0,278.0,,8.0,9.0,1.0,Increase,Increase,Increase
+SG243,,309.0,301.0,297.0,,8.0,12.0,4.0,Increase,Increase,Increase
+SG244,,501.0,505.0,355.0,,-4.0,146.0,150.0,Decrease,Increase,Increase
+SG245,,332.0,282.0,261.0,,50.0,71.0,21.0,Increase,Increase,Increase
+SG246,,316.0,290.0,295.0,,26.0,21.0,-5.0,Increase,Decrease,Increase
+SG247,,319.0,309.0,308.0,,10.0,11.0,1.0,Increase,Increase,Increase
+SG248,,298.0,281.0,282.0,,17.0,16.0,-1.0,Increase,Decrease,Increase
+SG249,,308.0,297.0,279.0,,11.0,29.0,18.0,Increase,Increase,Increase
+SG252,,310.0,307.0,300.0,,3.0,10.0,7.0,Increase,Increase,Increase
+SG253,,336.0,324.0,273.0,,12.0,63.0,51.0,Increase,Increase,Increase
+SG254,,327.0,225.0,,,102.0,,,Increase,Course for 1 year only,Course for 1 year only
+SG255,,291.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+SG341,,373.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+SG342,,418.0,415.0,,,3.0,,,Increase,Course for 1 year only,Course for 1 year only
+SG343,,300.0,311.0,261.0,,-11.0,39.0,50.0,Decrease,Increase,Increase
+SG344,,412.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+SG346,,313.0,291.0,289.0,,22.0,24.0,2.0,Increase,Increase,Increase
+SG347,,403.0,360.0,309.0,,43.0,94.0,51.0,Increase,Increase,Increase
+SG348,,359.0,316.0,,,43.0,,,Increase,Course for 1 year only,Course for 1 year only
+SG349,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+SG350,,384.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+SG442,,307.0,290.0,289.0,,17.0,18.0,1.0,Increase,Increase,Increase
+SG443,,376.0,356.0,357.0,,20.0,19.0,-1.0,Increase,Decrease,Increase
+SG444,,358.0,338.0,308.0,,20.0,50.0,30.0,Increase,Increase,Increase
+SG445,,357.0,311.0,347.0,,46.0,10.0,-36.0,Increase,Decrease,Increase
+SG447,,326.0,328.0,316.0,,-2.0,10.0,12.0,Decrease,Increase,Increase
+SG448,,308.0,306.0,306.0,,2.0,2.0,0.0,Increase,No change,Increase
+SG449,,315.0,341.0,329.0,,-26.0,-14.0,12.0,Decrease,Increase,Decrease
+SG450,8,310.0,300.0,,,10.0,,,Increase,Course for 1 year only,Course for 1 year only
+TL801,,718.0,281.0,281.0,,437.0,437.0,0.0,Increase,No change,Increase
+TL802,8,322.0,325.0,306.0,,-3.0,16.0,19.0,Decrease,Increase,Increase
+TL810,,308.0,310.0,309.0,,-2.0,-1.0,1.0,Decrease,Increase,Decrease
+TL811,,322.0,358.0,310.0,,-36.0,12.0,48.0,Decrease,Increase,Increase
+TL815,,307.0,308.0,308.0,,-1.0,-1.0,0.0,Decrease,No change,Decrease
+TL823,3,293.0,299.0,291.0,,-6.0,2.0,8.0,Decrease,Increase,Increase
+TL831,,306.0,306.0,307.0,,0.0,-1.0,-1.0,No change,Decrease,Decrease
+TL842,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TL844,,301.0,300.0,311.0,,1.0,-10.0,-11.0,Increase,Decrease,Decrease
+TL845,,361.0,325.0,300.0,,36.0,61.0,25.0,Increase,Increase,Increase
+TL847,,305.0,302.0,,,3.0,,,Increase,Course for 1 year only,Course for 1 year only
+TL848,,307.0,308.0,331.0,,-1.0,-24.0,-23.0,Decrease,Decrease,Decrease
+TL851,,309.0,309.0,310.0,,0.0,-1.0,-1.0,No change,Decrease,Decrease
+TL855,,316.0,317.0,342.0,,-1.0,-26.0,-25.0,Decrease,Decrease,Decrease
+TL858,,317.0,308.0,326.0,,9.0,-9.0,-18.0,Increase,Decrease,Decrease
+TL871,,303.0,300.0,303.0,,3.0,0.0,-3.0,Increase,Decrease,No change
+TL872,,314.0,309.0,288.0,,5.0,26.0,21.0,Increase,Increase,Increase
+TL873,,308.0,289.0,282.0,,19.0,26.0,7.0,Increase,Increase,Increase
+TL874,,341.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TL880,,309.0,307.0,307.0,,2.0,2.0,0.0,Increase,No change,Increase
+TL881,,301.0,308.0,308.0,,-7.0,-7.0,0.0,Decrease,No change,Decrease
+TL889,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TL890,,463.0,440.0,407.0,,23.0,56.0,33.0,Increase,Increase,Increase
+TL891,,440.0,389.0,367.0,,51.0,73.0,22.0,Increase,Increase,Increase
+WD001,,270.0,260.0,279.0,,10.0,-9.0,-19.0,Increase,Decrease,Decrease
+WD002,,279.0,308.0,302.0,,-29.0,-23.0,6.0,Decrease,Increase,Decrease
+WD005,,271.0,280.0,288.0,,-9.0,-17.0,-8.0,Decrease,Decrease,Decrease
+WD006,,270.0,280.0,282.0,,-10.0,-12.0,-2.0,Decrease,Decrease,Decrease
+WD007,,270.0,288.0,287.0,,-18.0,-17.0,1.0,Decrease,Increase,Decrease
+WD025,,262.0,269.0,269.0,,-7.0,-7.0,0.0,Decrease,No change,Decrease
+WD027,,321.0,262.0,290.0,,59.0,31.0,-28.0,Increase,Decrease,Increase
+WD048,,279.0,271.0,278.0,,8.0,1.0,-7.0,Increase,Decrease,Increase
+WD084,,308.0,308.0,307.0,,0.0,1.0,1.0,No change,Increase,Increase
+WD091,,225.0,228.0,210.0,,-3.0,15.0,18.0,Decrease,Increase,Increase
+WD116,,446.0,422.0,413.0,,24.0,33.0,9.0,Increase,Increase,Increase
+WD117,,415.0,366.0,361.0,,49.0,54.0,5.0,Increase,Increase,Increase
+WD120,,390.0,377.0,338.0,,13.0,52.0,39.0,Increase,Increase,Increase
+WD134,,267.0,290.0,289.0,,-23.0,-22.0,1.0,Decrease,Increase,Decrease
+WD137,,252.0,271.0,253.0,,-19.0,-1.0,18.0,Decrease,Increase,Decrease
+WD140,,280.0,280.0,290.0,,0.0,-10.0,-10.0,No change,Decrease,Decrease
+WD144,,309.0,284.0,283.0,,25.0,26.0,1.0,Increase,Increase,Increase
+WD147,,288.0,293.0,298.0,,-5.0,-10.0,-5.0,Decrease,Decrease,Decrease
+WD150,,280.0,270.0,271.0,,10.0,9.0,-1.0,Increase,Decrease,Increase
+WD152,,243.0,,253.0,,,-10.0,,Course for 1 year only,Course for 1 year only,Decrease
+WD161,,270.0,255.0,262.0,,15.0,8.0,-7.0,Increase,Decrease,Increase
+WD162,,226.0,216.0,260.0,,10.0,-34.0,-44.0,Increase,Decrease,Decrease
+WD163,,456.0,434.0,390.0,,22.0,66.0,44.0,Increase,Increase,Increase
+WD186,,261.0,270.0,276.0,,-9.0,-15.0,-6.0,Decrease,Decrease,Decrease
+WD187,,276.0,272.0,271.0,,4.0,5.0,1.0,Increase,Increase,Increase
+WD191,,377.0,377.0,378.0,,0.0,-1.0,-1.0,No change,Decrease,Decrease
+WD192,,271.0,270.0,279.0,,1.0,-8.0,-9.0,Increase,Decrease,Decrease
+WD193,,279.0,271.0,290.0,,8.0,-11.0,-19.0,Increase,Decrease,Decrease
+WD194,,237.0,217.0,235.0,,20.0,2.0,-18.0,Increase,Decrease,Increase
+WD195,,279.0,279.0,266.0,,0.0,13.0,13.0,No change,Increase,Increase
+WD200,,201.0,,221.0,,,-20.0,,Course for 1 year only,Course for 1 year only,Decrease
+WD210,,260.0,279.0,271.0,,-19.0,-11.0,8.0,Decrease,Increase,Decrease
+WD211,,270.0,271.0,275.0,,-1.0,-5.0,-4.0,Decrease,Decrease,Decrease
+WD212,,262.0,270.0,274.0,,-8.0,-12.0,-4.0,Decrease,Decrease,Decrease
+WD230,,230.0,253.0,273.0,,-23.0,-43.0,-20.0,Decrease,Decrease,Decrease
+WD231,,266.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+WD232,,261.0,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+CR126,,,801.0,878.0,,,,-77.0,Course for 1 year only,Decrease,Course for 1 year only
+CR127,,,838.0,584.0,,,,254.0,Course for 1 year only,Increase,Course for 1 year only
+CR128,,,840.0,839.0,,,,1.0,Course for 1 year only,Increase,Course for 1 year only
+CR129,,,841.0,857.0,,,,-16.0,Course for 1 year only,Decrease,Course for 1 year only
+DB516,,,,328.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC201,,,498.0,454.0,,,,44.0,Course for 1 year only,Increase,Course for 1 year only
+DC239,,,430.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DK860,,,532.0,499.0,,,,33.0,Course for 1 year only,Increase,Course for 1 year only
+DL821,,,212.0,211.0,,,,1.0,Course for 1 year only,Increase,Course for 1 year only
+DL828,3,,506.0,691.0,,,,-185.0,Course for 1 year only,Decrease,Course for 1 year only
+DL829,,,593.0,817.0,,,,-224.0,Course for 1 year only,Decrease,Course for 1 year only
+DL830,,,939.0,879.0,,,,60.0,Course for 1 year only,Increase,Course for 1 year only
+DL831,,,781.0,893.0,,,,-112.0,Course for 1 year only,Decrease,Course for 1 year only
+DL834,,,990.0,933.0,,,,57.0,Course for 1 year only,Increase,Course for 1 year only
+DN252,,,410.0,398.0,,,,12.0,Course for 1 year only,Increase,Course for 1 year only
+DN253,,,418.0,403.0,,,,15.0,Course for 1 year only,Increase,Course for 1 year only
+DN271,,,311.0,303.0,,,,8.0,Course for 1 year only,Increase,Course for 1 year only
+DN272,,,297.0,252.0,,,,45.0,Course for 1 year only,Increase,Course for 1 year only
+GC250,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GC305,,,253.0,327.0,,,,-74.0,Course for 1 year only,Decrease,Course for 1 year only
+GY107,,,409.0,330.0,,,,79.0,Course for 1 year only,Increase,Course for 1 year only
+GY112,,,321.0,338.0,,,,-17.0,Course for 1 year only,Decrease,Course for 1 year only
+GY120,,,350.0,309.0,,,,41.0,Course for 1 year only,Increase,Course for 1 year only
+GY121,,,356.0,356.0,,,,0.0,Course for 1 year only,No change,Course for 1 year only
+GY124,,,454.0,434.0,,,,20.0,Course for 1 year only,Increase,Course for 1 year only
+GY126,,,391.0,418.0,,,,-27.0,Course for 1 year only,Decrease,Course for 1 year only
+GY131,,,360.0,340.0,,,,20.0,Course for 1 year only,Increase,Course for 1 year only
+LC401,,,297.0,298.0,,,,-1.0,Course for 1 year only,Decrease,Course for 1 year only
+LC414,,,236.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+LC434,,,297.0,278.0,,,,19.0,Course for 1 year only,Increase,Course for 1 year only
+LC613,,,242.0,346.0,,,,-104.0,Course for 1 year only,Decrease,Course for 1 year only
+MH405,,,357.0,357.0,,,,0.0,Course for 1 year only,No change,Course for 1 year only
+SG142,,,279.0,270.0,,,,9.0,Course for 1 year only,Increase,Course for 1 year only
+SG144,,,270.0,280.0,,,,-10.0,Course for 1 year only,Decrease,Course for 1 year only
+SG250,,,412.0,290.0,,,,122.0,Course for 1 year only,Increase,Course for 1 year only
+SG251,,,327.0,303.0,,,,24.0,Course for 1 year only,Increase,Course for 1 year only
+TR012,,,555.0,532.0,,,,23.0,Course for 1 year only,Increase,Course for 1 year only
+TR017,,,602.0,576.0,,,,26.0,Course for 1 year only,Increase,Course for 1 year only
+TR020,,,602.0,567.0,,,,35.0,Course for 1 year only,Increase,Course for 1 year only
+TR029,,,526.0,477.0,,,,49.0,Course for 1 year only,Increase,Course for 1 year only
+TR082,,,555.0,510.0,,,,45.0,Course for 1 year only,Increase,Course for 1 year only
+TR083,,,498.0,451.0,,,,47.0,Course for 1 year only,Increase,Course for 1 year only
+TR111,,,352.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR112,,,529.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR113,,,337.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR114,,,337.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR117,,,342.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR166,,,498.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR173,,,335.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR177,,,335.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR179,,,499.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR198,,,534.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR202,,,534.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR207,,,566.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR208,,,534.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR209,,,534.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR212,,,534.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR228,,,498.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR231,,,349.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR233,,,349.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR239,,,349.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR262,,,529.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR263,,,498.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR269,,,499.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR272,,,498.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR276,,,498.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR277,,,498.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR311,,,521.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR312,,,521.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR320,,,521.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR322,,,529.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR323,,,473.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR324,,,521.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR325,,,529.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR326,,,352.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR332,,,498.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR443,,,529.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR447,,,529.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR449,,,529.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR452,,,529.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR454,,,529.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR455,,,334.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR479,,,499.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR547,,,337.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR548,,,335.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR554,,,529.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR563,,,335.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR564,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR565,,,342.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR597,,,566.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR598,,,566.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR599,,,566.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR629,,,499.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR635,,,473.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR636,,,388.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR638,,,388.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR639,,,499.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR662,,,499.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR663,,,342.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR664,,,498.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR665,,,342.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR666,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR667,,,403.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR668,,,389.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR669,,,368.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR670,,,381.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR671,,,332.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR672,,,336.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR755,,,498.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TR756,,,498.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU803,,,243.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU806,,,262.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU808,,,260.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU809,,,235.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU813,,,218.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU873,,,250.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU901,,,270.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU908,,,262.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU909,,,285.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU911,,,209.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU913,,,252.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU915,,,252.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU916,,,235.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU923,,,228.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU966,,,366.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU971,,,290.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU972,,,281.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU986,,,289.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU993,,,270.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TU994,,,321.0,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+WD149,,,271.0,288.0,,,,-17.0,Course for 1 year only,Decrease,Course for 1 year only
+AL853,,,,305.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+CW178,,,,399.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+CK116,,,,499.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+CK502,,,,433.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+CK506,,,,367.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC005,,,,316.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC167,,,,434.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC171,,,,402.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DC173,,,,402.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT001,,,,433.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT028,,,,279.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT035,,,,293.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT066,,,,400.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT101,,,,618.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT106,,,,312.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT110,,,,367.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT111,,,,391.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT112,,,,287.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT117,,,,356.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT175,,,,388.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT201,,,,464.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT203,,,,341.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT204,,,,501.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT205,,,,315.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT206,,,,473.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT211,,,,381.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT220,,,,300.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT221,,,,348.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT222,,,,321.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT223,,,,553.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT224,,,,487.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT225,,,,440.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT227,,,,312.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT228,,,,451.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT229,,,,491.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT235,,,,357.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT282,,,,377.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT299,,,,420.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT302,,,,325.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT304,,,,341.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT321,,,,462.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT341,,,,400.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT343,,,,301.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT354,,,,322.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT358,,,,300.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT365,,,,440.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT366,,,,432.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT398,,,,375.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT399,,,,437.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT401,,,,300.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT405,,,,308.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT407,,,,271.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT412,,,,284.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT413,,,,356.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT416,,,,275.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT420,,,,392.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT421,,,,321.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT422,,,,397.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT491,,,,343.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT501,,,,383.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT504,,,,443.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT506,,,,468.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT508,,,,403.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT517,,,,326.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT518,,,,307.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT529,,,,371.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT532,,,,422.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT533,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT544,,,,552.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT545,,,,667.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT546,,,,668.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT555,,,,353.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT559,,,,700.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT571,,,,394.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT572,,,,385.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT582,,,,347.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT596,,,,252.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DT597,,,,280.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+DL835,,,,237.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GC405,,,,254.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+ID003,,,,,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN101,,,,252.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN103,,,,254.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN104,,,,260.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN107,,,,300.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN108,,,,271.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN109,,,,260.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN110,,,,253.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN111,,,,270.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN112,,,,280.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN113,,,,289.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN114,,,,280.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN115,,,,250.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN117,,,,273.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN118,,,,290.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN119,,,,270.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN120,,,,281.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN121,,,,276.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+BN123,,,,297.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA022,,,,260.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA023,,,,235.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA024,,,,217.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA025,,,,261.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA026,,,,208.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA027,,,,236.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA028,,,,220.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA121,,,,202.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA122,,,,218.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA123,,,,207.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA125,,,,229.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA221,,,,251.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA222,,,,243.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA223,,,,236.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA224,,,,218.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA225,,,,235.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA226,,,,243.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA321,,,,261.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA322,,,,200.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA323,,,,243.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA326,,,,300.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA327,,,,341.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA328,,,,218.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TA329,,,,218.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+NC025,,,,297.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+GA385,,,,219.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+LY218,,,,298.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+CI101,,,,276.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+LC411,,,,226.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+SG149,,,,262.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+SG441,,,,297.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+SG446,,,,289.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TL803,,,,264.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+TL812,,,,369.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
+WD148,,,,269.0,,,,,Course for 1 year only,Course for 1 year only,Course for 1 year only
