@@ -5,4 +5,4 @@ numpy
 seaborn
 matplotlib  
 datetime
-urllib.reques
+urllib.request
