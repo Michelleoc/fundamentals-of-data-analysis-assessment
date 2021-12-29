@@ -41,7 +41,7 @@ You can view the notebook in static form by clicking the following image:
 
 You can view the notebook in dynamic form by clicking the following image:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Michelleoc/fundamentals-of-data-analysis-assessment/main?filepath=pyplot.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Michelleoc/fundamentals-of-data-analysis-assessment/main?filepath=cao.ipynb)
 
 ## NEEDS TO BE UPDATED
 
