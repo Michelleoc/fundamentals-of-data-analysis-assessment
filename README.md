@@ -15,16 +15,6 @@ Create a Jupyter notebook titled 'cao' covering the following:
 - Loading CAO points data from CAO website into a pandas data frame.  
 - Comparison of the 2019, 2020 & 2021 CAO points using the functionality in panadas using plots and other visualisations.
 
-The repository contains 2 jupyter notebooks:
- 
-1. pyplot  
-    - Overview of the matplotlib.pyplot Python package.    
-    - Review of 3 plots in the matplotlib.pyplot Python package. 
-2. cao  
-    - Overview of how to load CAO points data from CAO website into a pandas data frame.  
-    - Comparison of the 2019, 2020 & 2021 CAO points using the functionality in panadas.  
-    - Comparison of points data using plots and other visualisations.
-
 
 ## Contents of Repository   
 
