@@ -38,10 +38,6 @@ You can view the notebook in static form by clicking the following image:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Michelleoc/fundamentals-of-data-analysis-assessment/blob/main/pyplot.ipynb)
 
-You can view the notebook in dynamic form by clicking the following image:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Michelleoc/fundamentals-of-data-analysis-assessment/main?filepath=pyplot.ipynb)
-
 
 ### cao
 
@@ -49,9 +45,6 @@ You can view the notebook in static form by clicking the following image:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Michelleoc/fundamentals-of-data-analysis-assessment/blob/main/cao.ipynb)
 
-You can view the notebook in dynamic form by clicking the following image:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Michelleoc/fundamentals-of-data-analysis-assessment/main?filepath=cao.ipynb)
   
 
 ## How to run the notebook

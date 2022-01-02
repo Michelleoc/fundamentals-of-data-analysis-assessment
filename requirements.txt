@@ -1,5 +1,5 @@
 requests
-re==2.2.1
+re
 pandas
 numpy
 seaborn
