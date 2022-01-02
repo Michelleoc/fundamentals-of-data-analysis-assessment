@@ -4,7 +4,7 @@
 
 
 ***
-### Assessment details    
+## Assessment details    
 
 Create a Jupyter notebook titled 'pyplot'covering the following:
 - Overview of the matplotlib.pyplot Python package.
@@ -19,29 +19,18 @@ Create a Jupyter notebook titled 'cao' covering the following:
 ## Contents of Repository   
 
 Jupyter Notebooks :   
-1. cao jupyter notebook 
-2. pyplot jupyter notebook  
+1. pyplot  
+2. cao
 
 Folders : 
-1. test-data  
+1. data which contains CAO dataset files used in the cao notebook.  
 2. fifa-data which contains the fifa dataset used in the pyplot notebook. 
 3. images which contains images used in both jupyter notebook
 
 The repository also contains a requirement txt file which outlines the required libraries and packages needed to run this assessment. The packages can be installed using pip. An example of using a requirements file is:   
 `%pip install -r requirements.txt`
 
-## How to view the notebooks
-
-### cao
-
-You can view the notebook in static form by clicking the following image:
-
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Michelleoc/fundamentals-of-data-analysis-assessment/blob/main/cao.ipynb)
-
-You can view the notebook in dynamic form by clicking the following image:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Michelleoc/fundamentals-of-data-analysis-assessment/main?filepath=cao.ipynb)
-
+## How to view the notebooks  
 
 ### pyplot
 
@@ -53,6 +42,16 @@ You can view the notebook in dynamic form by clicking the following image:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Michelleoc/fundamentals-of-data-analysis-assessment/main?filepath=pyplot.ipynb)
 
+
+### cao
+
+You can view the notebook in static form by clicking the following image:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Michelleoc/fundamentals-of-data-analysis-assessment/blob/main/cao.ipynb)
+
+You can view the notebook in dynamic form by clicking the following image:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Michelleoc/fundamentals-of-data-analysis-assessment/main?filepath=cao.ipynb)
   
 
 ## How to run the notebook
